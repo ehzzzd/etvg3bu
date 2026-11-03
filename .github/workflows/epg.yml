@@ -1,0 +1,98 @@
+name: Generar EPG (XMLTV)
+
+on:
+  schedule:
+    # Cada 6 horas (UTC). GitHub puede atrasar la corrida unos minutos.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      days_forward:
+        description: "Dias hacia adelante a generar"
+        default: "7"
+        required: false
+      details:
+        description: "Pedir fichas nuevas (sinopsis/genero). Consume cuota de la fuente"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths:
+      - "epg.py"
+      - "config.yml"
+      - ".github/workflows/epg.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg
+  cancel-in-progress: false
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install --quiet pyyaml
+
+      - name: Restaurar cache de fichas de programa
+        uses: actions/cache@v4
+        with:
+          path: data/detail-cache.json
+          key: detail-cache-${{ github.run_id }}
+          restore-keys: |
+            detail-cache-
+
+      - name: Generar EPG
+        env:
+          # User-Agent alternativo opcional (Settings > Secrets and variables > Actions)
+          TVTV_USER_AGENT: ${{ secrets.TVTV_USER_AGENT }}
+        run: |
+          ARGS="--strict --gzip --out epg.xml"
+          if [ -n "${{ github.event.inputs.days_forward }}" ]; then
+            ARGS="$ARGS --days-forward ${{ github.event.inputs.days_forward }}"
+          fi
+          if [ "${{ github.event.inputs.details }}" = "false" ]; then
+            ARGS="$ARGS --no-details"
+          fi
+          echo "python3 epg.py $ARGS"
+          python3 epg.py $ARGS
+
+      - name: Resumen
+        if: always()
+        run: |
+          {
+            echo "## EPG generada"
+            echo ""
+            ls -lh epg.xml.gz 2>/dev/null || echo "No se genero archivo"
+            echo ""
+            echo "Canales / programas:"
+            echo '```'
+            gzip -dc epg.xml.gz 2>/dev/null | grep -c "<channel " || true
+            gzip -dc epg.xml.gz 2>/dev/null | grep -c "<programme " || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar en el repositorio
+        run: |
+          # Se publica comprimido: pesa ~10x menos y los clientes IPTV
+          # (TiviMate, Jellyfin, Emby, Kodi con addon) lo descomprimen solos.
+          rm -f epg.xml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg.xml.gz
+          git add data/detail-cache.json data/details-cooldown.txt 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Sin cambios en la EPG"
+          else
+            git commit -m "EPG: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash
+            git push
+          fi
