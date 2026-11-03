@@ -1,0 +1,55 @@
+# Configuracion del generador de EPG (TVTV.us -> XMLTV)
+
+source:
+  base_url: https://www.tvtv.us
+  # Pagina del lineup en TVTV.us -> Liberty Cablevision-OneLink Metro, San Juan
+  lineup_path: /pr/san-juan/00901/luUSA-PR00811-X
+  lineup_id: USA-PR00811-X
+  language: es
+  # Se puede sobreescribir con el secret TVTV_USER_AGENT (ver workflow)
+  user_agent: >-
+    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+    (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
+output:
+  file: epg.xml
+  generator: tvtv-epg-builder
+  # tvg-id = {id_prefix}-{numero}-{callsign}  ->  liberty-2-wkaq
+  id_prefix: liberty
+  include_icons: true
+  # Nombre visible del canal en la guia
+  channel_name_template: "{number} {name}"
+  # Reglas (regex) para sacar canales del EPG
+  exclude_channel_patterns: []
+  # Ejemplos:
+  #   - "DM$"          # canales "digital media" (1000+)
+  #   - "^1$"          # solo el canal 1
+  #   - "^(5|10)$"
+
+fetch:
+  # TVTV entrega de -1 a +8 dias; -1..+7 cubre la ventana sin huecos
+  days_back: 1
+  days_forward: 7
+  workers: 5
+  # Fichas de programa (sinopsis/genero): la fuente limita este endpoint
+  # (/dlg/program responde 429), por eso se piden pocas por corrida y se cachean.
+  details: true               # false = EPG rapido, solo titulo y horario
+  details_budget: 600         # maximo de fichas nuevas por corrida
+  details_interval: 1.2       # segundos entre fichas (no bajar de 1.0)
+  details_cooldown_hours: 6   # si la fuente responde 429, esperar esto antes de reintentar
+  timeout: 30
+  retries: 3
+  delay_between_days: 0.25
+
+validation:
+  # Si la fuente falla o cambia, el XML anterior NO se sobreescribe
+  min_channels: 200
+  min_programmes: 5000
+  max_empty_channel_ratio: 0.5
+
+# Mapeo opcional: reemplaza el tvg-id generado por el que use tu lista M3U.
+# Clave = callsign tal como aparece en TVTV; valor = tvg-id de tu playlist.
+channel_id_overrides: {}
+#  WKAQ: WKAQ.us
+#  WAPA: WAPA.us
+#  ESPN: ESPN.us
