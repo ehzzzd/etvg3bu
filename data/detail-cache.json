@@ -1,0 +1,147 @@
+{
+"MV004802450000": {
+"category": "Comedy",
+"desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
+"title": "Walk of Shame"
+},
+"SH003260420000": {
+"category": "News",
+"desc": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p934716_b_v8_ac.jpg",
+"title": "Telenoticias"
+},
+"SH005456030000": {
+"category": "Entertainment",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p838902_b_v12_ac.jpg",
+"title": "On Demand"
+},
+"SH006504100000": {
+"categories": [
+"Reality",
+"Music"
+],
+"category": "Reality",
+"desc": "Dieciocho jóvenes talentosos de Puerto Rico compiten por convertirse en una estrella de la música.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p271178_b_v12_aa.jpg",
+"title": "Objetivo Fama"
+},
+"SH007771820000": {
+"categories": [
+"Soap",
+"Romance",
+"Drama"
+],
+"category": "Soap",
+"desc": "María Teresa Montilla llega de la ciudad a la hacienda La Tormenta, donde conoce al capataz Santos Torrealba. A pesar de sus diferencias, crece entre ellos la pasión y el amor, y juntos luchan contra la codicia y la traición que los acecha.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15192288_b_v8_aa.jpg",
+"title": "La tormenta"
+},
+"SH008966450000": {
+"categories": [
+"Reality",
+"Law",
+"Public affairs"
+],
+"category": "Reality",
+"desc": "La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p16449221_b_v8_ab.jpg",
+"title": "Caso cerrado"
+},
+"SH012275280000": {
+"categories": [
+"Comedy drama",
+"Medical"
+],
+"category": "Comedy drama",
+"desc": "La rápida trayectoria exitosa del Dr. Hank Lawson se ve obstruida al ser culpado de la muerte de un administrador del hospital y es colocado en la lista negra de la comunidad médica; su vida cambia un fin de semana en los Hamptons, cuando ayuda a un invitado en una fiesta que necesitaba atención médica y su hermano menor Evan lo anima para iniciar su práctica privada en esa localidad, pero ser el doctor de los ricos y famosos no es exactamente lo que ambicionaba en su vida profesional.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12752448_b_v8_aa.jpg",
+"title": "Royal Pains"
+},
+"SH016217270000": {
+"categories": [
+"Religious",
+"Drama"
+],
+"category": "Religious",
+"desc": "A veces los problemas del día a día pueden solucionarse con un poco de ayuda milagrosa. Esta exitosa serie muestra casos de la vida real en los cuales los protagonistas se enfrentan a grandes encrucijadas o a situaciones terribles, y no les queda más remedio que pedir un milagro. Es allí cuando la fe se pone a prueba y se vuelve poderosa, pues demuestra que de la situación más terrible se puede salir. Pensado para quienes creen que la fe mueve montañas, esta conmovedora serie muestra la manera en la que los protagonistas se encomiendan a la Virgen Morena buscando resolver sus dificultades.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13334119_b_v12_aa.jpg",
+"title": "Historias de la Virgen morena"
+},
+"SH024880630000": {
+"category": "Newsmagazine",
+"desc": "Puro entretenimiento, sorpresas y buena información.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13161765_b_v8_ac.jpg",
+"title": "Día a Día"
+},
+"SH025956420000": {
+"categories": [
+"Entertainment",
+"Interview"
+],
+"category": "Entertainment",
+"desc": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13673910_b_v8_aa.jpg",
+"title": "Alexandra a las 12"
+},
+"SH028705760000": {
+"categories": [
+"Soap",
+"Romance",
+"Drama"
+],
+"category": "Soap",
+"desc": "Fernanda Castillo (Roxana Rodiles Gallardo), Raúl Méndez (Alejandro Ferrer), Matías Novoa (Daniel Laborde / Eduardo Tapia Garcia \"El Tilapia\")",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18354593_b_v12_aa.jpg",
+"title": "Enemigo íntimo"
+},
+"SH031072580000": {
+"category": "Soap",
+"desc": "Una mujer de la alta sociedad lo pierde todo y se ve obligada a mudarse con su familia a un vecindario humilde donde conoce a un pescadero, quien desprecia a la gente distinguida como ella, pero a medida que la conoce, una atracción se inicia.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p16295686_b_v8_aa.jpg",
+"title": "Silvana sin lana"
+},
+"SH034343830000": {
+"category": "Entertainment",
+"desc": "Programa de entretenimiento para toda la familia con mucho humor, juegos y grandes premios.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p17914491_b_v8_aa.jpg",
+"title": "Puerto Rico gana"
+},
+"SH037623630000": {
+"categories": [
+"Newsmagazine",
+"Variety",
+"Entertainment"
+],
+"category": "Newsmagazine",
+"desc": "Un espacio en el que se comparten noticias de actualidad y temas importantes sobre salud, entretenimiento, tecnología y mucho más, para comenzar el día de forma amena y bien informado.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19465387_b_v8_ab.jpg",
+"title": "Hoy día Puerto Rico"
+},
+"SH046387130000": {
+"categories": [
+"News",
+"Debate"
+],
+"category": "News",
+"desc": "Lo último en análisis político y de actualidad, con espacio para opinión, entrevistas e información exclusiva.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987262_b_v8_ab.jpg",
+"title": "Primera pregunta"
+},
+"SH058988740000": {
+"categories": [
+"News",
+"Public affairs"
+],
+"category": "News",
+"desc": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30613664_b_v8_ab.jpg",
+"title": "Pegao's en la mañana"
+},
+"SH065790580000": {
+"category": "Competition Reality",
+"desc": "Dieciocho villanos icónicos compiten por el título de \"El Emperador de los Villanos\" y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33914243_b_v12_ac.jpg",
+"title": "Juego de villanos"
+}
+}
