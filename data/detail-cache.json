@@ -5,6 +5,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
 },
+"SH000193310000": {
+"categories": [
+"Consumer",
+"Shopping",
+"Variety"
+],
+"category": "Consumer",
+"desc": "Programa que muestra diversos productos para la venta.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg",
+"title": "Programa pagado"
+},
 "SH003260420000": {
 "category": "News",
 "desc": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
@@ -135,6 +146,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19298425_b_v12_aa.jpg",
 "title": "En casa con Telemundo"
 },
+"SH034976580000": {
+"categories": [
+"Children",
+"Entertainment",
+"Educational"
+],
+"category": "Children",
+"desc": "Chocolo, un perro con un corazón inmenso, les enseña a los niños valiosas lecciones a través de divertidas canciones. Los escenarios chilenos naturales y la musicalidad de las distintas regiones crean un universo muy cercano a las infancias.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18237834_b_v8_ab.jpg",
+"title": "Mi perro Chocolo"
+},
 "SH037623630000": {
 "categories": [
 "Newsmagazine",
@@ -145,6 +167,16 @@
 "desc": "Un espacio en el que se comparten noticias de actualidad y temas importantes sobre salud, entretenimiento, tecnología y mucho más, para comenzar el día de forma amena y bien informado.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19465387_b_v8_ab.jpg",
 "title": "Hoy día Puerto Rico"
+},
+"SH039400180000": {
+"categories": [
+"Entertainment",
+"Variety"
+],
+"category": "Entertainment",
+"desc": "Programa de investigación y análisis de temas de interés público.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p20366163_b_v8_aa.jpg",
+"title": "Rayos X"
 },
 "SH039551060000": {
 "categories": [
@@ -182,5 +214,16 @@
 "desc": "Dieciocho villanos icónicos compiten por el título de \"El Emperador de los Villanos\" y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33914243_b_v12_ac.jpg",
 "title": "Juego de villanos"
+},
+"SH066369480000": {
+"categories": [
+"Special",
+"News",
+"Politics"
+],
+"category": "Special",
+"desc": "Cobertura especial de las elecciones de medio término con resultados en tiempo real. Análisis profundo del voto latino, su influencia política y los temas que impulsan la participación hispana.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34234655_b_v12_ac.jpg",
+"title": "Examen a Trump: Decisión 2026"
 }
 }
