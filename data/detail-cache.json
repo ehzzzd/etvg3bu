@@ -68,6 +68,23 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13334119_b_v12_aa.jpg",
 "title": "Historias de la Virgen morena"
 },
+"SH017191790000": {
+"categories": [
+"Soap",
+"Crime drama",
+"Adventure"
+],
+"category": "Soap",
+"desc": "Al final de la década de los ochentas, en el negocio ilícito más lucrativo de la época, \"el oro blanco\", las rutas de las Bahamas y Florida, ya no son tan viables para el transporte de la cocaína; la persecución de los miembros de los carteles colombianos y su guerra entre ellos mismos se intensifica, generando que estos bandidos sean extraditados, encarcelados en su país o asesinados. Algunos son condenados al encierro voluntario, escondidos en algún rincón para evitar su captura, por cuenta de las fuerzas armadas o de sus enemigos. El negocio cambia y es cuando aparece Amado Carrillo Fuentes \"El Señor de los Cielos\" que en forma muy discreta se dedica al transporte del producto que proveen los narcotraficantes colombianos restantes, convirtiéndose en el narcotraficante más poderoso de los cuatro carteles que operan en México: el de Juárez, el del Golfo, el de Sinaloa y el de Tijuana. Su historia se devela en este drama cargado de acción y giros inusitados.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33148617_b_v12_aa.jpg",
+"title": "El señor de los cielos"
+},
+"SH018803680000": {
+"category": "Entertainment",
+"desc": "El comediante se reúne con sus amigos para un programa de comedia y variedad.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10568899_b_v8_ab.jpg",
+"title": "Raymond y sus amigos"
+},
 "SH024880630000": {
 "category": "Newsmagazine",
 "desc": "Puro entretenimiento, sorpresas y buena información.",
@@ -107,6 +124,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p17914491_b_v8_aa.jpg",
 "title": "Puerto Rico gana"
 },
+"SH034783420000": {
+"categories": [
+"Holiday",
+"Talk",
+"Interview"
+],
+"category": "Holiday",
+"desc": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19298425_b_v12_aa.jpg",
+"title": "En casa con Telemundo"
+},
 "SH037623630000": {
 "categories": [
 "Newsmagazine",
@@ -117,6 +145,17 @@
 "desc": "Un espacio en el que se comparten noticias de actualidad y temas importantes sobre salud, entretenimiento, tecnología y mucho más, para comenzar el día de forma amena y bien informado.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19465387_b_v8_ab.jpg",
 "title": "Hoy día Puerto Rico"
+},
+"SH039551060000": {
+"categories": [
+"Soap",
+"Drama",
+"Romance"
+],
+"category": "Soap",
+"desc": "Los hermanos Reyes están dispuestos a vengar la muerte de su hermana menor. El plan cambia de rumbo cuando conocen a las hermanas Elizondo, hijas del hacendado a quien culpan de su tragedia.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p20469169_b_v8_aa.jpg",
+"title": "Pasión de gavilanes"
 },
 "SH046387130000": {
 "categories": [
