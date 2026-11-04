@@ -59,6 +59,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p16449221_b_v8_ab.jpg",
 "title": "Caso cerrado"
 },
+"SH009547690000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "Perfil de las actividades policiales habituales llevadas a cabo para combatir la delincuencia.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p256230_b_v12_ac.jpg",
+"title": "Law and Order"
+},
 "SH012275280000": {
 "categories": [
 "Comedy drama",
@@ -68,6 +78,12 @@
 "desc": "La rápida trayectoria exitosa del Dr. Hank Lawson se ve obstruida al ser culpado de la muerte de un administrador del hospital y es colocado en la lista negra de la comunidad médica; su vida cambia un fin de semana en los Hamptons, cuando ayuda a un invitado en una fiesta que necesitaba atención médica y su hermano menor Evan lo anima para iniciar su práctica privada en esa localidad, pero ser el doctor de los ricos y famosos no es exactamente lo que ambicionaba en su vida profesional.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12752448_b_v8_aa.jpg",
 "title": "Royal Pains"
+},
+"SH014793540000": {
+"category": "Basketball",
+"desc": "Acción del Baloncesto Superior Nacional Femenino.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
+"title": "Baloncesto Superior Nacional Femenino"
 },
 "SH016217270000": {
 "categories": [
@@ -96,6 +112,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10568899_b_v8_ab.jpg",
 "title": "Raymond y sus amigos"
 },
+"SH019519160000": {
+"category": "Educational",
+"desc": "Las profesiones u oficios con modelos positivos de nuestra sociedad.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10822272_b_v12_ac.jpg",
+"title": "Aprendo con Shabum"
+},
 "SH024880630000": {
 "category": "Newsmagazine",
 "desc": "Puro entretenimiento, sorpresas y buena información.",
@@ -111,6 +133,16 @@
 "desc": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13673910_b_v8_aa.jpg",
 "title": "Alexandra a las 12"
+},
+"SH026051480000": {
+"categories": [
+"News",
+"Public affairs"
+],
+"category": "News",
+"desc": "Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11056269_b_v12_at.jpg",
+"title": "Noticias Telemundo fin de semana"
 },
 "SH028705760000": {
 "categories": [
