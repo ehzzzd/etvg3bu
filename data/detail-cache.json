@@ -21,11 +21,22 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p804350_b_v12_aa.jpg",
 "title": "Misa Televisada"
 },
+"SH000402210000": {
+"category": "Drama",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p220088_b_v12_ab.jpg",
+"title": "Cine Telemundo"
+},
 "SH003260420000": {
 "category": "News",
 "desc": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p934716_b_v8_ac.jpg",
 "title": "Telenoticias"
+},
+"SH004397550000": {
+"category": "Variety",
+"desc": "Raúl de Molina y Lili Estefan presentan entrevistas, comedia y noticias del mundo de la farándula.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p275417_b_v8_aa.jpg",
+"title": "¡Pica y Se Extiende!"
 },
 "SH005456030000": {
 "category": "Entertainment",
@@ -74,6 +85,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p256230_b_v12_ac.jpg",
 "title": "Law and Order"
 },
+"SH011682050000": {
+"category": "Travel",
+"desc": "Programa infantil en donde los niños tienen la oportunidad de explorar el mundo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p3600099_b_v8_aa.jpg",
+"title": "Vamos a Xplorar"
+},
 "SH011989840000": {
 "categories": [
 "Animated",
@@ -95,6 +112,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12752448_b_v8_aa.jpg",
 "title": "Royal Pains"
 },
+"SH013854460000": {
+"category": "Entertainment",
+"desc": "Los animadores Yara Lasanta, Pedro Hornedo y Lorraine Valle nos dan un recorrido por la Isla del Encanto, Puerto Rico.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8533244_b_v8_ab.jpg",
+"title": "Borinqueando"
+},
 "SH014793540000": {
 "category": "Basketball",
 "desc": "Acción del Baloncesto Superior Nacional Femenino.",
@@ -106,6 +129,17 @@
 "desc": "Información sobre los nuevos títulos de juegos de vídeo y la nueva tecnología para videojuegos.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860753_b_v11_ac.jpg",
 "title": "Yo Soy un Gamer"
+},
+"SH015470100000": {
+"categories": [
+"Entertainment",
+"Talk",
+"Medical"
+],
+"category": "Entertainment",
+"desc": "Este programa busca orientar a la comunidad hispana en temas sobre medicina. El cirujano plástico Eric Adler y el ginecólogo Álvarez Romagosa conducen este espacio que busca educar y difundir información médica por medio de consultas con expertos de todas las áreas de la salud. Secciones como \"Músculos en acción\", en donde se hacen consultas con entrenadores físicos, \"Lo que comemos es nuestra mejor medicina, en donde la nutrición es protagonista, \"Pediatría Latin Doctors\", que busca orientar a los padres en el cuidado y prevención de la salud de los pequeños, y \"Pregúntale a los expertos, en la cual un panel de doctores atienden llamadas telefónicas, complementan este espacio informativo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9157077_b_v8_ab.jpg",
+"title": "Latin Doctors"
 },
 "SH016217270000": {
 "categories": [
