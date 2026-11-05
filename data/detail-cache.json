@@ -16,6 +16,11 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg",
 "title": "Programa pagado"
 },
+"SH000261330000": {
+"category": "Religious",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p804350_b_v12_aa.jpg",
+"title": "Misa Televisada"
+},
 "SH003260420000": {
 "category": "News",
 "desc": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
@@ -69,6 +74,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p256230_b_v12_ac.jpg",
 "title": "Law and Order"
 },
+"SH011989840000": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Programa educativo de televisión para preescolares que entretiene a niños de uno a cinco años con una combinación única de actuaciones en vivo, música original y animación colorida.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15960393_b_v12_aa.jpg",
+"title": "Atención, atención"
+},
 "SH012275280000": {
 "categories": [
 "Comedy drama",
@@ -84,6 +100,12 @@
 "desc": "Acción del Baloncesto Superior Nacional Femenino.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
 "title": "Baloncesto Superior Nacional Femenino"
+},
+"SH014794190000": {
+"category": "Gaming",
+"desc": "Información sobre los nuevos títulos de juegos de vídeo y la nueva tecnología para videojuegos.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860753_b_v11_ac.jpg",
+"title": "Yo Soy un Gamer"
 },
 "SH016217270000": {
 "categories": [
@@ -111,6 +133,16 @@
 "desc": "El comediante se reúne con sus amigos para un programa de comedia y variedad.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10568899_b_v8_ab.jpg",
 "title": "Raymond y sus amigos"
+},
+"SH019446510000": {
+"categories": [
+"Children",
+"Entertainment"
+],
+"category": "Children",
+"desc": "Shabum es un niño muy curioso y con mucha imaginación que pasa los días junto a su abuelo en su tienda mágica. Este es un lugar en donde se despliegan la imaginación, la alegría, las ilusiones y mucha magia. Usando su poderosa mente, Shabum convierte todo lo que imagina en realidad. Sus súper poderes no sólo le sirven para divertirse, por medio de ellos educa a los niños de manera entretenida. Sus aventuras muestran la importancia de la lectura y ayudan a los niños a desarrollar el vocabulario y fortalecer su creatividad. Magia, invención y el poder de la imaginación son los ingredientes perfectos para hacer de Shabum un gran amigo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p3599791_b_v8_ab.jpg",
+"title": "123 Shabum"
 },
 "SH019519160000": {
 "category": "Educational",
