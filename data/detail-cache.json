@@ -20,6 +20,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
 "title": "NOVA"
 },
+"EP003618800148": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Jackie and Inez search everywhere for cherries, so Digit can make his famous cherry supreme dessert for food critic Bone Appetite.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003644950162": {
 "categories": [
 "Documentary",
@@ -30,6 +41,34 @@
 "desc": "Rising sea levels threaten tiny Tangier Island in the Chesapeake Bay off the coast of Virginia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
+},
+"EP013451880015": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "When Martin accidentally knocks Aviva's creature power suits into an Arctic trench, he and Chris use the Octopod submarine to search for them.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP022687710244": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Nature Cat wants to break the record for the world's tallest snow critter, but the snow fails to stick together; the heroes protect themselves from a hurricane.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
+"EP030033072131": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
 },
 "EP053841700001": {
 "category": "Documentary",
@@ -63,6 +102,11 @@
 "category": "Drama",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p220088_b_v12_ab.jpg",
 "title": "Cine Telemundo"
+},
+"SH001083440000": {
+"category": "Art",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p354951_b_v8_ac.jpg",
+"title": "Classic Arts Showcase"
 },
 "SH003260420000": {
 "category": "News",
