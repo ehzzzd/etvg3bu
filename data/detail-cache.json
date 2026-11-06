@@ -20,6 +20,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
 "title": "NOVA"
 },
+"EP000441070036": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Arthur becomes sick of Buster being a hero after his best friend rescues a cat; D.W. plays her favorite CD over and over again.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP003618800148": {
 "categories": [
 "Animated",
@@ -53,6 +64,28 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880116": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Athena Karkanis (Aviva - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP020042990301": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "Omar has plans to surprise Orla with a 500th birthday party; the team accidentally gets locked out of its van.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
+},
 "EP022687710244": {
 "categories": [
 "Animated",
@@ -70,11 +103,33 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP034893320013": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "An ice cream truck is accidentally made invisible, so the crew must rely on its sounds to find it; people everywhere get stuck when a flying super-glue gadget goes haywire.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
 "EP053841700001": {
 "category": "Documentary",
 "desc": "Exploring the first wave of the Great Migration (1910-1940) when more than one million Black Americans fled the Jim Crow South for the promised lands of the North.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
 "title": "Great Migrations: A People on the Move"
+},
+"EP059042210005": {
+"categories": [
+"Animated",
+"Entertainment",
+"Educational"
+],
+"category": "Animated",
+"desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
 },
 "MV004802450000": {
 "category": "Comedy",
