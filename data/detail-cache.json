@@ -75,6 +75,27 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP014793540132": {
+"categories": [
+"Basketball",
+"2026 Post-season",
+"at Guillermo Angulo Coliseum."
+],
+"category": "Basketball",
+"desc": "Acción del juego 1 de los octavos de final del Baloncesto Superior Nacional Femenino 2026. Desde el Coliseo Guillermo Angulo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
+"title": "Baloncesto Superior Nacional Femenino"
+},
+"EP018882470096": {
+"categories": [
+"Romance",
+"Comedy drama"
+],
+"category": "Romance",
+"desc": "Patricia and Valentín progress quickly; Rita develops a medical worry; Cristina's revenge against Ana threatens others; Mateo runs into an old flame.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10612085_b_v12_aj.jpg",
+"title": "Velvet"
+},
 "EP020042990301": {
 "categories": [
 "Children",
@@ -114,6 +135,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP052400180001": {
+"category": "Documentary",
+"desc": "Teenage contestants from Wyoming, Las Vegas and Richmond, Va., embark on a year-long civics competition.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
+"title": "Citizen Nation"
+},
 "EP053841700001": {
 "category": "Documentary",
 "desc": "Exploring the first wave of the Great Migration (1910-1940) when more than one million Black Americans fled the Jim Crow South for the promised lands of the North.",
@@ -130,6 +157,12 @@
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
+},
+"MV001925660000": {
+"category": "Romantic comedy",
+"desc": "Tres compañeros de trabajo emprenden una misión de ayuda para que un nuevo amigo pierda la virginidad.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p36173_v_v8_ar.jpg",
+"title": "Virgen a los 40"
 },
 "MV004802450000": {
 "category": "Comedy",
@@ -443,6 +476,17 @@
 "desc": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30613664_b_v8_ab.jpg",
 "title": "Pegao's en la mañana"
+},
+"SH063812630000": {
+"categories": [
+"Special",
+"Documentary",
+"Science"
+],
+"category": "Special",
+"desc": "Tracing the history of geology's fundamental theory of plate tectonics through footage of erupting volcanoes, massive earthquakes and various global terrain.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p32754884_b_v8_aa.jpg",
+"title": "Planet of the Plates"
 },
 "SH065790580000": {
 "category": "Competition Reality",
