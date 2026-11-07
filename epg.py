@@ -50,6 +50,7 @@ DEFAULT_CONFIG: dict[str, Any] = {
     },
     "output": {
         "file": "epg.xml",
+        "also_plain": True,   # ademas del .gz, escribir el XML sin comprimir
         "generator": "tvtv-epg-builder",
         "id_prefix": "liberty",
         "include_icons": True,
@@ -609,30 +610,38 @@ def render_xmltv(
 
         # Duracion desconocida (runtime 0): se deduce del siguiente programa.
         resolved: dict[int, int] = {}
-        for idx, start in enumerate(starts):
-            rt = airings[start]["runtime"]
+        for idx, start_ms in enumerate(starts):
+            rt = airings[start_ms]["runtime"]
             if rt <= 0:
                 if idx + 1 < len(starts):
-                    rt = max(5, min(240, round((starts[idx + 1] - start) / 60_000)))
+                    rt = max(5, min(240, round((starts[idx + 1] - start_ms) / 60_000)))
                 else:
                     rt = 30
-            resolved[start] = rt
+            resolved[start_ms] = rt
 
-        for idx, start in enumerate(starts):
-            air = airings[start]
-            stop = start + resolved[start] * 60_000
-            if idx + 1 < len(starts):
-                stop = min(stop, starts[idx + 1])  # sin solapamientos
-
-            if idx > 0:
-                prev = airings[starts[idx - 1]]
-                same_end = prev["start_ms"] + resolved[starts[idx - 1]] * 60_000
-                if prev["programme_id"] == air["programme_id"] and same_end == start:
-                    continue  # la fuente repite el mismo episodio en bloques seguidos
+        # La fuente parte un mismo programa en bloques contiguos (p. ej. 9
+        # bloques de 30 min de "Programa pagado"). Se fusionan en un solo
+        # <programme> que abarca todo el tramo, para no dejar huecos.
+        i = 0
+        while i < len(starts):
+            start_ms = starts[i]
+            air = airings[start_ms]
+            stop_ms = start_ms + resolved[start_ms] * 60_000
+            j = i + 1
+            while (
+                j < len(starts)
+                and airings[starts[j]]["programme_id"] == air["programme_id"]
+                and starts[j] <= stop_ms  # contiguo (o solapado)
+            ):
+                stop_ms = max(stop_ms, starts[j] + resolved[starts[j]] * 60_000)
+                j += 1
+            if j < len(starts):
+                stop_ms = min(stop_ms, starts[j])  # nunca invade al siguiente
+            i = j
 
             detail = cache.get(air["programme_id"]) or {}
             lines.append(
-                f'  <programme start="{fmt_xmltv(start)}" stop="{fmt_xmltv(stop)}" '
+                f'  <programme start="{fmt_xmltv(start_ms)}" stop="{fmt_xmltv(stop_ms)}" '
                 f'channel={quoteattr(cid)}>'
             )
             title = air["title"]
@@ -714,7 +723,8 @@ def main(argv: Iterable[str] | None = None) -> int:
     ap.add_argument("--no-details", action="store_true", help="no pide fichas (usa la cache si existe)")
     ap.add_argument("--details", action="store_true", help="fuerza el enriquecimiento aunque el cooldown siga activo")
     ap.add_argument("--budget", type=int, default=None, help="maximo de fichas nuevas en esta corrida")
-    ap.add_argument("--gzip", action="store_true")
+    ap.add_argument("--gzip", action="store_true", help="escribe epg.xml y epg.xml.gz")
+    ap.add_argument("--no-plain", action="store_true", help="con --gzip, no escribir el XML sin comprimir")
     ap.add_argument("--strict", action="store_true", help="sale con codigo 1 si la validacion falla")
     args = ap.parse_args(argv)
 
@@ -750,6 +760,9 @@ def main(argv: Iterable[str] | None = None) -> int:
     total_airings = sum(len(v) for v in by_channel.values())
     log(f"airings unicos: {total_airings}")
 
+    if args.no_plain:
+        cfg["output"]["also_plain"] = False
+
     cache = DetailCache(args.cache, enabled=bool(cfg["fetch"]["details"]))
     cooldown = args.cache.parent / "details-cooldown.txt"
     if args.details:
@@ -759,20 +772,30 @@ def main(argv: Iterable[str] | None = None) -> int:
     ids = build_ids(channels, cfg)
     xml, stats = render_xmltv(channels, by_channel, ids, cache, cfg)
 
-    out_path = Path(cfg["output"]["file"])
-    out_path.parent.mkdir(parents=True, exist_ok=True)
+    plain_path = Path(cfg["output"]["file"])
+    plain_path.parent.mkdir(parents=True, exist_ok=True)
+    written: list[Path] = []
+
     if args.gzip:
-        out_path = out_path.with_suffix(out_path.suffix + ".gz")
-        with gzip.open(out_path, "wt", encoding="utf-8") as fh:
-            fh.write(xml)
+        gz_path = plain_path.with_suffix(plain_path.suffix + ".gz")
+        # Se comprime el mismo contenido; gzip guarda la fecha, se fija para
+        # que el .gz no cambie si el XML no cambio (commits limpios).
+        with open(gz_path, "wb") as raw:
+            with gzip.GzipFile(filename="", mode="wb", fileobj=raw, mtime=0) as gz:
+                gz.write(xml.encode("utf-8"))
+        written.append(gz_path)
+        if cfg["output"].get("also_plain", True):
+            plain_path.write_text(xml, encoding="utf-8")
+            written.append(plain_path)
     else:
-        out_path.write_text(xml, encoding="utf-8")
+        plain_path.write_text(xml, encoding="utf-8")
+        written.append(plain_path)
 
     elapsed = time.time() - started
-    size_mb = out_path.stat().st_size / 1_048_576
+    sizes = ", ".join(f"{p.name} {p.stat().st_size / 1_048_576:.2f} MB" for p in written)
     log(
-        f"listo: {out_path} | {stats['channels']} canales, {stats['programmes']} programas, "
-        f"{size_mb:.2f} MB, {elapsed:.0f}s | requests={src.stats['requests']} "
+        f"listo: {sizes} | {stats['channels']} canales, {stats['programmes']} programas, "
+        f"{elapsed:.0f}s | requests={src.stats['requests']} "
         f"errores={src.stats['errors']} reintentos={src.stats['retries']}"
     )
     ok = validate(stats, cfg, args.strict)
