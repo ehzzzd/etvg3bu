@@ -42,6 +42,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800156": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The CyberSquad investigates after the Lilting Loons of Botsberg go missing, and their pond is replaced by trash.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003644950162": {
 "categories": [
 "Documentary",
@@ -52,6 +63,17 @@
 "desc": "Rising sea levels threaten tiny Tangier Island in the Chesapeake Bay off the coast of Virginia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
+},
+"EP013451880014": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Athena Karkanis (Aviva - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
 },
 "EP013451880015": {
 "categories": [
@@ -107,6 +129,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
+"EP022687710240": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Nature Cat gets his big break when director Quentin Bearantino sees how perfect he is for the role of Cowboy Kitty; Nature Cat and the gang bring Hugo's farm back to life.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
 "EP022687710244": {
 "categories": [
 "Animated",
@@ -124,6 +157,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072132": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320013": {
 "categories": [
 "Animated",
@@ -134,6 +173,16 @@
 "desc": "An ice cream truck is accidentally made invisible, so the crew must rely on its sounds to find it; people everywhere get stuck when a flying super-glue gadget goes haywire.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
+},
+"EP048923260008": {
+"categories": [
+"Travel",
+"Music"
+],
+"category": "Travel",
+"desc": "The Chardon Polka Band explores roller skating with visits to the roller derby and an old-fashioned skating rink; musical selections include skate-inspired tunes from the 90s and disco era.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
+"title": "The World According to Polka"
 },
 "EP052400180001": {
 "category": "Documentary",
