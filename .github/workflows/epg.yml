@@ -3,12 +3,12 @@ name: Generar EPG (XMLTV)
 on:
   schedule:
     # Cada 6 horas (UTC). GitHub puede atrasar la corrida unos minutos.
-    - cron: "0 */3 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
     inputs:
       days_forward:
-        description: "Dias hacia adelante a generar"
-        default: "7"
+        description: "Dias hacia adelante a generar (config.yml usa 3 -> 4 dias de EPG)"
+        default: "3"
         required: false
       details:
         description: "Pedir fichas nuevas (sinopsis/genero). Consume cuota de la fuente"
@@ -71,23 +71,23 @@ jobs:
           {
             echo "## EPG generada"
             echo ""
-            ls -lh epg.xml.gz 2>/dev/null || echo "No se genero archivo"
+            ls -lh epg.xml epg.xml.gz 2>/dev/null || echo "No se genero archivo"
             echo ""
             echo "Canales / programas:"
             echo '```'
-            gzip -dc epg.xml.gz 2>/dev/null | grep -c "<channel " || true
-            gzip -dc epg.xml.gz 2>/dev/null | grep -c "<programme " || true
+            grep -c "<channel " epg.xml 2>/dev/null || true
+            grep -c "<programme " epg.xml 2>/dev/null || true
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Publicar en el repositorio
         run: |
-          # Se publica comprimido: pesa ~10x menos y los clientes IPTV
-          # (TiviMate, Jellyfin, Emby, Kodi con addon) lo descomprimen solos.
-          rm -f epg.xml
+          # Se publican los dos formatos:
+          #   epg.xml.gz -> ~1 MB, recomendado (TiviMate, Jellyfin, Emby lo aceptan)
+          #   epg.xml    -> XML plano para clientes o herramientas que no aceptan gzip
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add epg.xml.gz
+          git add epg.xml epg.xml.gz
           git add data/detail-cache.json data/details-cooldown.txt 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Sin cambios en la EPG"
