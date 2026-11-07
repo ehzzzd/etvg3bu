@@ -3,7 +3,7 @@ name: Generar EPG (XMLTV)
 on:
   schedule:
     # Cada 6 horas (UTC). GitHub puede atrasar la corrida unos minutos.
-    - cron: "0 */6 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
     inputs:
       days_forward:
