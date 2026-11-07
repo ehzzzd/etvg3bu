@@ -31,6 +31,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
 "title": "Arthur"
 },
+"EP000441070412": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Buster receives chocolates in the mail and tries to figure out who sent them; James receives a toy lamb that is said to give its owner special powers.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
+"title": "Arthur"
+},
 "EP003618800148": {
 "categories": [
 "Animated",
@@ -97,6 +108,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880159": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "The Wild Kratts are accidentally miniaturized while adventuring in the Amazon; they set out to retrieve the Miniaturizer stolen by a monkey, relying on the powers of the poison frog.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP014793540132": {
 "categories": [
 "Basketball",
@@ -126,6 +148,17 @@
 ],
 "category": "Children",
 "desc": "Omar has plans to surprise Orla with a 500th birthday party; the team accidentally gets locked out of its van.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
+},
+"EP020042990488": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "On the town's football derby day, Osric tries to solve a case while being followed by a documentary crew; Techie Tallulah heads to Niagara Falls on a mission that will get Orli out of Precinct 97531 so she can carry out her evil plan.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
@@ -171,6 +204,17 @@
 ],
 "category": "Animated",
 "desc": "An ice cream truck is accidentally made invisible, so the crew must rely on its sounds to find it; people everywhere get stuck when a flying super-glue gadget goes haywire.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
+"EP034893320021": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "AJ accidentally ruins a schoolmate's box sled, so the crew helps him find the materials he needs to repair it; the crew takes care of someone else's class pet, a super frog, until it gets out and hops through town.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
