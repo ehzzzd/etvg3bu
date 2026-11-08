@@ -1,4 +1,14 @@
 {
+"EP000029300414": {
+"categories": [
+"Children",
+"Educational"
+],
+"category": "Children",
+"desc": "A flashlight factory; Lady Elaine angers X the Owl when she doesn't knock.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184024_b_v8_ab.jpg",
+"title": "Mister Rogers' Neighborhood"
+},
 "EP000030540641": {
 "categories": [
 "Anthology",
@@ -246,6 +256,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP034893320011": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "When the crew goes to the Turtle Beach to see the hatching of baby turtles, they find the beach filled with litter; the crew gathers at night to search for a missing superdog.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
 "EP034893320013": {
 "categories": [
 "Animated",
@@ -295,6 +316,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
 "title": "The World According to Polka"
 },
+"EP049548040006": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla and Everett design a waffle costume for Stu; Lyla creates an original game to reignite everyone's interest in family game night.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP052400180001": {
 "category": "Documentary",
 "desc": "Teenage contestants from Wyoming, Las Vegas and Richmond, Va., embark on a year-long civics competition.",
@@ -317,6 +349,28 @@
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
+},
+"EP059042210024": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP065640260005": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Alpha Pig gets stuck inside the digital e-comic world of his Super Story tablet; Letter-bot malfunctions and thinks everything is litter; the Shuffler has the hiccups.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
 },
 "MV001925660000": {
 "category": "Romantic comedy",
