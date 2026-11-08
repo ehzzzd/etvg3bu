@@ -184,6 +184,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP029516380449": {
+"categories": [
+"Public affairs",
+"Interview",
+"Debate"
+],
+"category": "Public affairs",
+"desc": "Former Chicago Mayor and Obama White House Chief of Staff Rahm Emanuel (D) warns his party against overreach and reveals how he is weighing a 2028 presidential run.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
+"title": "Firing Line With Margaret Hoover"
+},
 "EP030033072131": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
@@ -217,6 +228,23 @@
 "desc": "AJ accidentally ruins a schoolmate's box sled, so the crew helps him find the materials he needs to repair it; the crew takes care of someone else's class pet, a super frog, until it gets out and hops through town.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
+},
+"EP042753140001": {
+"category": "Travel",
+"desc": "Exploring the hottest place on Earth; an ultra-marathoner runs in the summer heat; the mayor of a town of one; an elder of the Timbisha Shoshone Tribe.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
+"title": "America Outdoors With Baratunde Thurston"
+},
+"EP048303190178": {
+"categories": [
+"News",
+"Public affairs",
+"Politics"
+],
+"category": "News",
+"desc": "Peter Baker, The New York Times; Leigh Ann Caldwell, Puck; Stephen Hayes, The Dispatch; Adam Harris, Radio Atlantic.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25350982_b_v12_aa.jpg",
+"title": "Washington Week With The Atlantic"
 },
 "EP048923260008": {
 "categories": [
@@ -586,6 +614,17 @@
 "desc": "Dieciocho villanos icónicos compiten por el título de \"El Emperador de los Villanos\" y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33914243_b_v12_ac.jpg",
 "title": "Juego de villanos"
+},
+"SH065872320000": {
+"categories": [
+"Special",
+"Music",
+"Entertainment"
+],
+"category": "Special",
+"desc": "Jason Kelce hosts a musical celebration of our nation's heroes, past and present; training at the United States Military Academy at West Point; members of the 3d U.S. Infantry Regiment \"The Old Guard.\"",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33961839_b_v12_aa.jpg",
+"title": "Salute to Service 2026: A Veterans Day Celebration"
 },
 "SH066369480000": {
 "categories": [
