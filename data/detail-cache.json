@@ -42,6 +42,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP003618800106": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Christopher Lloyd (Voice), Gilbert Gottfried (Voice), Novie Edwards (Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800148": {
 "categories": [
 "Animated",
@@ -74,6 +85,17 @@
 "desc": "Rising sea levels threaten tiny Tangier Island in the Chesapeake Bay off the coast of Virginia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
+},
+"EP013451880013": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Athena Karkanis (Aviva - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
 },
 "EP013451880014": {
 "categories": [
@@ -184,6 +206,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP022687710246": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The gang hopes to get rid of the monstrous pumpkins haunting Hugo the goose's farm before the Halloween party; Nature Cat learns about catfish.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
 "EP029516380449": {
 "categories": [
 "Public affairs",
@@ -202,6 +235,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072132": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072133": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
@@ -625,6 +664,11 @@
 "desc": "Jason Kelce hosts a musical celebration of our nation's heroes, past and present; training at the United States Military Academy at West Point; members of the 3d U.S. Infantry Regiment \"The Old Guard.\"",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33961839_b_v12_aa.jpg",
 "title": "Salute to Service 2026: A Veterans Day Celebration"
+},
+"SH065940320000": {
+"category": "Documentary",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33995788_b_v12_aa.jpg",
+"title": "Brothers and Borders"
 },
 "SH066369480000": {
 "categories": [
