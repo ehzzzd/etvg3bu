@@ -1,4 +1,14 @@
 {
+"EP000029300405": {
+"categories": [
+"Children",
+"Educational"
+],
+"category": "Children",
+"desc": "Mr. McFeely delivers a book with a misprint.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184024_b_v8_ab.jpg",
+"title": "Mister Rogers' Neighborhood"
+},
 "EP000029300414": {
 "categories": [
 "Children",
@@ -39,6 +49,28 @@
 "category": "Animated",
 "desc": "Arthur becomes sick of Buster being a hero after his best friend rescues a cat; D.W. plays her favorite CD over and over again.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
+"EP000441070070": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Neighbors must help each other after \"The Blizzard\"; Arthur's teacher moves in in \"The Rat Who Came to Dinner.\"",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636204_b_v8_aa.jpg",
+"title": "Arthur"
+},
+"EP000441070139": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Mr. Ratburn moves Brain and Arthur from their usual desks; Arthur wonders if he doesn't need Stanley anymore.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636196_b_v8_aa.jpg",
 "title": "Arthur"
 },
 "EP000441070412": {
@@ -227,6 +259,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP023305860135": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The kids join Celery in a space race with Uncle Zucchini, Auntie Eggplant and Zerk; Sydney designs and builds a robot companion for Jet 2.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
+"title": "Ready Jet Go!"
+},
 "EP029516380449": {
 "categories": [
 "Public affairs",
@@ -387,6 +430,17 @@
 "desc": "Opposition in colonial North America to British policies over taxes, land and sovereignty escalates into violent confrontation; war gives 13 colonies a common cause.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
 "title": "The American Revolution"
+},
+"EP065640260002": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Outta Space pulls the word \"sun\" apart to make Reader Valley cold and dark; a super-powered baby needs something only the Super Readers can deliver; Outta Space meddles with animal sounds.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
 },
 "EP065640260005": {
 "categories": [
