@@ -289,6 +289,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP042659280010": {
+"categories": [
+"Cooking",
+"Competition Reality"
+],
+"category": "Cooking",
+"desc": "Challenges for the home cooks include a best-in-a-pinch recipe and a noodle dish representing their heritage.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21977501_b_v12_ae.jpg",
+"title": "The Great American Recipe"
+},
 "EP042753140001": {
 "category": "Travel",
 "desc": "Exploring the hottest place on Earth; an ultra-marathoner runs in the summer heat; the mayor of a town of one; an elder of the Timbisha Shoshone Tribe.",
@@ -361,6 +371,23 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
+"EP059312690001": {
+"category": "Crime drama",
+"desc": "There's a new assistant to train at Book's Books, but the excavation of a nearby bomb site that's full of skeletons leads to bookselling taking a back seat.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
+"title": "Bookish"
+},
+"EP060025880001": {
+"categories": [
+"Documentary",
+"History",
+"American history"
+],
+"category": "Documentary",
+"desc": "Opposition in colonial North America to British policies over taxes, land and sovereignty escalates into violent confrontation; war gives 13 colonies a common cause.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
+"title": "The American Revolution"
+},
 "EP065640260005": {
 "categories": [
 "Animated",
@@ -383,6 +410,16 @@
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
+},
+"SH000004390000": {
+"categories": [
+"Music",
+"Concert"
+],
+"category": "Music",
+"desc": "This long-running concert series features artists from every musical genre in a live-music setting. Originally created to shine a spotlight on original Texas music, the show has expanded its boundaries to encompass a wide range of styles and artists, featuring notables such as Pearl Jam, Elvis Costello, Johnny Cash and Neil Young.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p27849909_b_v12_aa.jpg",
+"title": "Austin City Limits"
 },
 "SH000193310000": {
 "categories": [
