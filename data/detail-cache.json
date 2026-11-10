@@ -332,6 +332,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP038670900030": {
+"categories": [
+"Crime drama",
+"Drama"
+],
+"category": "Crime drama",
+"desc": "When Jasper's former mentor is murdered, a suspect is arrested but the truth hides darker secrets; Jasper risks everything to expose the killer.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19979641_b_v8_az.jpg",
+"title": "Professor T"
+},
 "EP042659280010": {
 "categories": [
 "Cooking",
@@ -347,6 +357,12 @@
 "desc": "Exploring the hottest place on Earth; an ultra-marathoner runs in the summer heat; the mayor of a town of one; an elder of the Timbisha Shoshone Tribe.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
 "title": "America Outdoors With Baratunde Thurston"
+},
+"EP046386990005": {
+"category": "Documentary",
+"desc": "The evolving meaning of the Statue of Liberty and how it embodies values and conflicts in America, from abolition to the treatment of refugees.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987151_b_v12_aa.jpg",
+"title": "Iconic America: Our Symbols and Stories With David Rubenstein"
 },
 "EP048303190178": {
 "categories": [
@@ -782,6 +798,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30613664_b_v8_ab.jpg",
 "title": "Pegao's en la mañana"
 },
+"SH061429760000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "An exploration of Hong Kong includes a look at traditional Chinese medicine, fishing, meditating with a Buddhist monk at the Po Lin Monastery, crafting a classic bamboo birdcage and a lesson on playing rugby; host Peter Greenberg.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31628432_b_v8_aa.jpg",
+"title": "Hidden Hong Kong"
+},
 "SH063812630000": {
 "categories": [
 "Special",
@@ -792,6 +818,17 @@
 "desc": "Tracing the history of geology's fundamental theory of plate tectonics through footage of erupting volcanoes, massive earthquakes and various global terrain.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p32754884_b_v8_aa.jpg",
 "title": "Planet of the Plates"
+},
+"SH064787940000": {
+"categories": [
+"Special",
+"Documentary",
+"Biography"
+],
+"category": "Special",
+"desc": "The untold story of Emmett Ashford, who became Major League Baseball's first Black umpire after 15 years of perseverance through discrimination.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33358614_b_v12_ab.jpg",
+"title": "Called Up: The Emmett Ashford Story"
 },
 "SH065790580000": {
 "category": "Competition Reality",
