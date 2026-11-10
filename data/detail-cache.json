@@ -84,6 +84,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP003618800097": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "There's a race to release Shari Spotter from Hacker's trap before Hacker can wreak havoc with Stumblesnore's magic.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800106": {
 "categories": [
 "Animated",
@@ -259,6 +270,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP023305860134": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "After an earthquake, Celery takes the kids into space to study the Earth's plates and fault lines; Zerk, Jet's overactive cousin, visits Earth.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
+"title": "Ready Jet Go!"
+},
 "EP023305860135": {
 "categories": [
 "Animated",
@@ -357,6 +379,12 @@
 "desc": "Exploring the hottest place on Earth; an ultra-marathoner runs in the summer heat; the mayor of a town of one; an elder of the Timbisha Shoshone Tribe.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
 "title": "America Outdoors With Baratunde Thurston"
+},
+"EP044867650010": {
+"category": "Documentary",
+"desc": "Three women veterans discuss what it is like to feel invisible.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23123778_b_v8_aa.jpg",
+"title": "After Action"
 },
 "EP046386990005": {
 "category": "Documentary",
@@ -711,6 +739,17 @@
 "desc": "Fernanda Castillo (Roxana Rodiles Gallardo), Raúl Méndez (Alejandro Ferrer), Matías Novoa (Daniel Laborde / Eduardo Tapia Garcia \"El Tilapia\")",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18354593_b_v12_aa.jpg",
 "title": "Enemigo íntimo"
+},
+"SH030407970000": {
+"categories": [
+"Art",
+"Theater",
+"Music"
+],
+"category": "Art",
+"desc": "Featuring a variety of musical performances, plays and movies.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15882825_b_v12_ac.jpg",
+"title": "Classic Art Showcase"
 },
 "SH031072580000": {
 "category": "Soap",
