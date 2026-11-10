@@ -51,6 +51,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
 "title": "Arthur"
 },
+"EP000441070037": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The parents and their children promise not to watch TV for an entire week; Arthur learns that Binky can't sleep without a night light.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP000441070070": {
 "categories": [
 "Animated",
@@ -172,6 +183,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880111": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "When a rogue wave crashes into the Tortuga, the Wild Kratts get separated; Jimmy and Aviva end up on rafts in the middle of the ocean. Koki is trapped on a sinking Tortuga.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880116": {
 "categories": [
 "Children",
@@ -223,6 +245,17 @@
 ],
 "category": "Children",
 "desc": "Omar has plans to surprise Orla with a 500th birthday party; the team accidentally gets locked out of its van.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
+},
+"EP020042990302": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "An ancient stone warrior has been let loose in the Museum of Natural Odd; the Mobile Unit gets ranked low on the Odd Squad Magazine progress reports.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
@@ -441,6 +474,17 @@
 "Animated",
 "Entertainment",
 "Educational"
+],
+"category": "Animated",
+"desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP059042210023": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
 ],
 "category": "Animated",
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
