@@ -354,6 +354,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072134": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320011": {
 "categories": [
 "Animated",
@@ -413,6 +419,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
 "title": "America Outdoors With Baratunde Thurston"
 },
+"EP044042290012": {
+"category": "Performing arts",
+"desc": "La banda Snarky Puppy realiza un tributo a Susana Baca. Los invitados incluyen a Silvana Estrada, Gaby Moreno, Silvia Pérez Cruz y Fuensanta.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22686900_b_v12_ab.jpg",
+"title": "NEXT at the Kennedy Center"
+},
 "EP044867650010": {
 "category": "Documentary",
 "desc": "Three women veterans discuss what it is like to feel invisible.",
@@ -468,6 +480,16 @@
 "desc": "Exploring the first wave of the Great Migration (1910-1940) when more than one million Black Americans fled the Jim Crow South for the promised lands of the North.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
 "title": "Great Migrations: A People on the Move"
+},
+"EP055816700006": {
+"categories": [
+"Documentary",
+"Travel"
+],
+"category": "Documentary",
+"desc": "Traveling through Arizona's Sonoran Desert, finding Chinese chorizo, desert noir music, street poetry and a baseball team drawn from tribes across the country.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p29418206_b_v12_ab.jpg",
+"title": "Pati Jinich Explores PanAmericana"
 },
 "EP059042210005": {
 "categories": [
@@ -871,6 +893,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987262_b_v8_ab.jpg",
 "title": "Primera pregunta"
 },
+"SH057660360000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "An aging outback rancher and saddle-maker tells the story of an era of commerce via mule pack trains that was key to livelihood for centuries on Mexico's Baja California peninsula.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30104231_b_v11_aa.jpg",
+"title": "La Recua: The Mule Pack Train"
+},
 "SH058988740000": {
 "categories": [
 "News",
@@ -929,6 +961,16 @@
 "desc": "Jason Kelce hosts a musical celebration of our nation's heroes, past and present; training at the United States Military Academy at West Point; members of the 3d U.S. Infantry Regiment \"The Old Guard.\"",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33961839_b_v12_aa.jpg",
 "title": "Salute to Service 2026: A Veterans Day Celebration"
+},
+"SH065892290000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "Native college student-athletes explore the complex history of basketball in Indigenous boarding schools and its evolution into a symbol of cultural resilience.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33971567_b_v8_ad.jpg",
+"title": "Medicine Ball"
 },
 "SH065940320000": {
 "category": "Documentary",
