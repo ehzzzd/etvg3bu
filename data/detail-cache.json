@@ -182,6 +182,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
 },
+"EP010131490392": {
+"categories": [
+"How-to",
+"Arts/crafts"
+],
+"category": "How-to",
+"desc": "Vivika Hansen DeNegre uses vintage studio photographs in her art, creating mandala artwork.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p472140_b_v8_ab.jpg",
+"title": "Quilting Arts"
+},
 "EP013451880013": {
 "categories": [
 "Children",
@@ -259,6 +269,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013962340626": {
+"category": "House/garden",
+"desc": "Summer Celebration in Jackson, Tenn.; answering questions about weeds, roses, tomatoes, butterflies and more.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8583278_b_v8_ab.jpg",
+"title": "Family Plot: Gardening in the Mid-South"
+},
 "EP014793540132": {
 "categories": [
 "Basketball",
@@ -269,6 +285,17 @@
 "desc": "Acción del juego 1 de los octavos de final del Baloncesto Superior Nacional Femenino 2026. Desde el Coliseo Guillermo Angulo.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
 "title": "Baloncesto Superior Nacional Femenino"
+},
+"EP017206580176": {
+"categories": [
+"Kayaking",
+"Outdoors",
+"Travel"
+],
+"category": "Kayaking",
+"desc": "Exploring the Caribbean's first and only sea kayaking trail -- the Waitukubuli Sea Trail in Dominica.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9897159_b_v12_ag.jpg",
+"title": "Facing Waves"
 },
 "EP018882470096": {
 "categories": [
@@ -568,6 +595,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
 "title": "Citizen Nation"
 },
+"EP052844640018": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Nico and Arugula start a hamster sitter business; Carl is afraid to tell his Mama that his new shoes hurt his feet.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
+"title": "Carl the Collector"
+},
 "EP053841700001": {
 "category": "Documentary",
 "desc": "Exploring the first wave of the Great Migration (1910-1940) when more than one million Black Americans fled the Jim Crow South for the promised lands of the North.",
@@ -689,6 +727,12 @@
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
+},
+"MV011810120000": {
+"category": "Comedy",
+"desc": "Un policía excéntrico de Antinarcóticos, a quien no le gusta colaborar con nadie, tiene que aprender a congeniar con un nuevo compañero: un perro pastor alemán. La pareja afrontará una misión muy peligrosa.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11598_v_v8_ao.jpg",
+"title": "Superagente K-9"
 },
 "SH000004390000": {
 "categories": [
