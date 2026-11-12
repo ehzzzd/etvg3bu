@@ -94,6 +94,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636196_b_v8_aa.jpg",
 "title": "Arthur"
 },
+"EP000441070219": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Francine copies and pastes information from a Website to use as her school report; everyone loves the new reality-TV series except Arthur.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636180_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP000441070412": {
 "categories": [
 "Animated",
@@ -291,6 +302,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
+"EP020042990303": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "The Mobile Unit is called to Pinehurst, N.C., to stop a villain who is stealing various objects.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
+},
 "EP020042990488": {
 "categories": [
 "Children",
@@ -409,6 +431,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP034893320010": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Benny and the crew investigate why monarch butterflies are missing from the school garden; AJ's shady spot disappears.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
 "EP034893320011": {
 "categories": [
 "Animated",
@@ -507,6 +540,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
 "title": "The World According to Polka"
 },
+"EP049548040004": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla, Everett and her sisters build makeshift carnival games for their brother, Luke, using household and recycled materials; Louisa seeks help to create a special beat for her school presentation.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP049548040006": {
 "categories": [
 "Animated",
@@ -559,6 +603,17 @@
 ],
 "category": "Animated",
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP059042210018": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "As a hurricane approaches, the Hunter kids learn about preparation and safety, moving furniture inside and checking their emergency supplies.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
