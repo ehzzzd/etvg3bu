@@ -137,6 +137,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP003618800046": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Christopher Lloyd (Voice), Gilbert Gottfried (Voice), Novie Edwards (Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800097": {
 "categories": [
 "Animated",
@@ -265,6 +276,17 @@
 ],
 "category": "Children",
 "desc": "When a rogue wave crashes into the Tortuga, the Wild Kratts get separated; Jimmy and Aviva end up on rafts in the middle of the ocean. Koki is trapped on a sinking Tortuga.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP013451880112": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Jenna Warren (Reporter - Guest Voice)",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
@@ -426,6 +448,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP022687710245": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The crew helps the Bumblebee Queen prepare for growing season; the gang learns the history of an old oak tree.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
 "EP022687710246": {
 "categories": [
 "Animated",
@@ -495,6 +528,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072135": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072136": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
