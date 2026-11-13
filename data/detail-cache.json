@@ -39,6 +39,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185481_b_v8_ah.jpg",
 "title": "Nature"
 },
+"EP000030540667": {
+"categories": [
+"Anthology",
+"Nature"
+],
+"category": "Anthology",
+"desc": "A 25-year study uncovers how Fongoli chimps adapted to the extreme heat and dryness of Senegal's savanna woodlands.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185481_b_v8_ah.jpg",
+"title": "Nature"
+},
 "EP000031631106": {
 "categories": [
 "Science",
@@ -47,6 +57,17 @@
 ],
 "category": "Science",
 "desc": "How the rise of sexual reproduction fuels diversity, pushing life to specialize and shaping everything from tiny single-celled organisms to towering ostriches.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
+"title": "NOVA"
+},
+"EP000031631107": {
+"categories": [
+"Science",
+"Nature",
+"Anthology"
+],
+"category": "Science",
+"desc": "An evolutionary ride from early aquatic ancestors to highly-optimized runners like the horse, whose story is linked to our own.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
 "title": "NOVA"
 },
@@ -182,6 +203,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
 },
+"EP003644950163": {
+"categories": [
+"Documentary",
+"Science",
+"History"
+],
+"category": "Documentary",
+"desc": "How the Continental soldiers' loss at the Battle of Camden in South Carolina turned the tide of the American Revolution.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
+"title": "Secrets of the Dead"
+},
 "EP010131490392": {
 "categories": [
 "How-to",
@@ -283,6 +315,16 @@
 ],
 "category": "Basketball",
 "desc": "Acción del juego 1 de los octavos de final del Baloncesto Superior Nacional Femenino 2026. Desde el Coliseo Guillermo Angulo.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
+"title": "Baloncesto Superior Nacional Femenino"
+},
+"EP014793540133": {
+"categories": [
+"Basketball",
+"2026 Post-season"
+],
+"category": "Basketball",
+"desc": "Cobertura del juego cuatro de los cuartos de final del Baloncesto Superior Nacional Femenino temporada 2026.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
 "title": "Baloncesto Superior Nacional Femenino"
 },
@@ -609,6 +651,12 @@
 "EP053841700001": {
 "category": "Documentary",
 "desc": "Exploring the first wave of the Great Migration (1910-1940) when more than one million Black Americans fled the Jim Crow South for the promised lands of the North.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
+"title": "Great Migrations: A People on the Move"
+},
+"EP053841700002": {
+"category": "Documentary",
+"desc": "The second wave of the Great Migration -- 1940-1970, when Northern and Western Black communities matured through migration and transformed the cultural and political power of Black America.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
 "title": "Great Migrations: A People on the Move"
 },
