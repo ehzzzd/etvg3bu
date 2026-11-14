@@ -361,6 +361,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9897159_b_v12_ag.jpg",
 "title": "Facing Waves"
 },
+"EP018882470033": {
+"categories": [
+"Romance",
+"Comedy drama"
+],
+"category": "Romance",
+"desc": "Ana quits but Alberto finds a way to save her career; Cristina's life may be exposed after an argument with Alberto; Patricia's wedding nears collapse.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10612085_b_v12_aj.jpg",
+"title": "Velvet"
+},
 "EP018882470096": {
 "categories": [
 "Romance",
@@ -615,6 +625,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22686900_b_v12_ab.jpg",
 "title": "NEXT at the Kennedy Center"
 },
+"EP044513200001": {
+"category": "Documentary",
+"desc": "Con motivo del centenario de la apertura de la tumba del rey Tutankamón, se echa un vistazo a los misterios de su vida y su entierro.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22922937_b_v12_ab.jpg",
+"title": "Tutankhamun: Allies & Enemies"
+},
 "EP044867650010": {
 "category": "Documentary",
 "desc": "Three women veterans discuss what it is like to feel invisible.",
@@ -673,6 +689,12 @@
 "EP052400180001": {
 "category": "Documentary",
 "desc": "Teenage contestants from Wyoming, Las Vegas and Richmond, Va., embark on a year-long civics competition.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
+"title": "Citizen Nation"
+},
+"EP052400180002": {
+"category": "Documentary",
+"desc": "Pressure builds as students tackle the first round of competition, answering judges' questions in the style of Congressional hearings and showing an understanding of democracy and how it connects to their lives.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
 "title": "Citizen Nation"
 },
@@ -1149,6 +1171,12 @@
 "desc": "Lo último en análisis político y de actualidad, con espacio para opinión, entrevistas e información exclusiva.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987262_b_v8_ab.jpg",
 "title": "Primera pregunta"
+},
+"SH047594960000": {
+"category": "Special",
+"desc": "E100 - Al nacer el hijo de Karla y Daniel, él descubre que ella lo dejó por otra mujer.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24827757_b_v12_aa.jpg",
+"title": "Acércate a Rocío de Telemundo"
 },
 "SH057660360000": {
 "categories": [
