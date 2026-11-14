@@ -203,6 +203,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800157": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Hacker's niece Harmony returns to the Northern Frontier with a new pet, Sparkletoes, which quickly outstays its welcome.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003644950162": {
 "categories": [
 "Documentary",
@@ -309,6 +320,17 @@
 ],
 "category": "Children",
 "desc": "The Wild Kratts are accidentally miniaturized while adventuring in the Amazon; they set out to retrieve the Miniaturizer stolen by a monkey, relying on the powers of the poison frog.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP013451880162": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Chris sets up a massive cross-country race in the North; each team member sets off across the tundra with little more than one form of transportation and a small pack of gear.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
@@ -447,6 +469,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP022687710242": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The crew needs to find a way to pull parade floats when Nature Cat forgets to put gas in the tractors; the gang searches for Hal's pond pals.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
 "EP022687710244": {
 "categories": [
 "Animated",
@@ -544,6 +577,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072136": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072137": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
@@ -661,6 +700,16 @@
 ],
 "category": "Travel",
 "desc": "The Chardon Polka Band explores roller skating with visits to the roller derby and an old-fashioned skating rink; musical selections include skate-inspired tunes from the 90s and disco era.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
+"title": "The World According to Polka"
+},
+"EP048923260009": {
+"categories": [
+"Travel",
+"Music"
+],
+"category": "Travel",
+"desc": "The Chardon Band visits the Simply Slavic festival in Youngstown, Ohio, for music, food, libations and a look at folk traditions.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
 "title": "The World According to Polka"
 },
