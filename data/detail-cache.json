@@ -148,6 +148,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP003618800007": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "In order to save Poddleville's power pods, the team must crack the pattern that unlocks the cyberpower vault.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800046": {
 "categories": [
 "Animated",
@@ -682,6 +693,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP034893320073": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
 "EP038670900030": {
 "categories": [
 "Crime drama",
@@ -869,6 +891,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
+"EP059042210016": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "After a groundhog predicts more winter weather, Benny is convinced he will have snow on his birthday so he plans a snow-filled birthday party.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
 "EP059042210018": {
 "categories": [
 "Animated",
@@ -938,6 +971,17 @@
 ],
 "category": "Animated",
 "desc": "Alpha Pig gets stuck inside the digital e-comic world of his Super Story tablet; Letter-bot malfunctions and thinks everything is litter; the Shuffler has the hiccups.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
+},
+"EP065640260010": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Mr. More takes letter m's and makes more Mr. Mores; Alpha Pig's transforming shoes go haywire; Power Paige wants a Miss Mega comic.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },
