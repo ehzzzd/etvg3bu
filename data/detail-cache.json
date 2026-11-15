@@ -71,6 +71,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
 "title": "NOVA"
 },
+"EP000174790884": {
+"categories": [
+"Music",
+"Drama",
+"Performing arts"
+],
+"category": "Music",
+"desc": "The Free Shakespeare in the Park production of the timeless tale of two young lovers from warring families.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184075_b_v11_aa.jpg",
+"title": "Great Performances"
+},
 "EP000441070036": {
 "categories": [
 "Animated",
@@ -334,6 +345,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880164": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "The brothers try to rescue Aviva's work from a protective parent.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880165": {
 "categories": [
 "Children",
@@ -455,6 +477,17 @@
 ],
 "category": "Animated",
 "desc": "The gang replants their favorite sunflower; after the gang gets lost during a treasure hunt, Nature Cat advises them to follow mossy trees home.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
+"title": "Nature Cat"
+},
+"EP022687710239": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Nature Cat tries to figure out a way to complete the Outdoor Nature Warrior Challenge and stay cool during a heat wave; the group plays hide-and-seek with Screechy the screech owl.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
 "title": "Nature Cat"
 },
@@ -594,6 +627,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072137": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072138": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
