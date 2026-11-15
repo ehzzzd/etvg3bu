@@ -546,6 +546,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
 "title": "Firing Line With Margaret Hoover"
 },
+"EP029516380450": {
+"categories": [
+"Public affairs",
+"Interview",
+"Debate"
+],
+"category": "Public affairs",
+"desc": "As AI races toward superintelligence, Nobel laureate Geoffrey Hinton warns of existential threats, calls for U.S.-China cooperation and considers our moral obligations to conscious machines.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
+"title": "Firing Line With Margaret Hoover"
+},
 "EP030033072131": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
@@ -658,6 +669,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
 "title": "America Outdoors With Baratunde Thurston"
 },
+"EP042753140002": {
+"category": "Travel",
+"desc": "Venturing into the wilds of Idaho to explore its evolving outdoor culture; ranchers and backcountry pilots share the wilderness with resettled refugees; how climate change impacts an age-old salmon fishery.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22024253_b_v12_ac.jpg",
+"title": "America Outdoors With Baratunde Thurston"
+},
 "EP044042290012": {
 "category": "Performing arts",
 "desc": "La banda Snarky Puppy realiza un tributo a Susana Baca. Los invitados incluyen a Silvana Estrada, Gaby Moreno, Silvia Pérez Cruz y Fuensanta.",
@@ -690,6 +707,17 @@
 ],
 "category": "News",
 "desc": "Peter Baker, The New York Times; Leigh Ann Caldwell, Puck; Stephen Hayes, The Dispatch; Adam Harris, Radio Atlantic.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25350982_b_v12_aa.jpg",
+"title": "Washington Week With The Atlantic"
+},
+"EP048303190179": {
+"categories": [
+"News",
+"Public affairs",
+"Politics"
+],
+"category": "News",
+"desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25350982_b_v12_aa.jpg",
 "title": "Washington Week With The Atlantic"
 },
@@ -879,6 +907,16 @@
 "desc": "Tres compañeros de trabajo emprenden una misión de ayuda para que un nuevo amigo pierda la virginidad.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p36173_v_v8_ar.jpg",
 "title": "Virgen a los 40"
+},
+"MV002378380000": {
+"categories": [
+"Drama",
+"Action"
+],
+"category": "Drama",
+"desc": "Shawn MacArthur (Channing Tatum) sobrevive vendiendo artículos falsificados en las calles de Nueva York. Pero él tiene un talento natural para pelear en las calles, mismo que desea usar el estafador Harvey Boarden (Terrence Howard). Formando una complicada alianza con Boarden, Shawn se convierte en un experto en el circuito callejero, superando a boxeadores profesionales, artistas marciales y grandes peleadores. Shawn quiere salirse de ese mundo pero está por enfrentar la pelea de su vida.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p191307_v_v8_al.jpg",
+"title": "Fighting"
 },
 "MV004802450000": {
 "category": "Comedy",
