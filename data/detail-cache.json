@@ -1,4 +1,14 @@
 {
+"EP000004390661": {
+"categories": [
+"Music",
+"Concert"
+],
+"category": "Music",
+"desc": "Colombian American singer-songwriter Sebastián Yatra performs global hits and highlights from his album \"Milagro.\"",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184304_b_v12_aa.jpg",
+"title": "Austin City Limits"
+},
 "EP000017620930": {
 "categories": [
 "Documentary",
@@ -601,6 +611,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
 "title": "Firing Line With Margaret Hoover"
 },
+"EP029777970026": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Molly spends the night at Tooey's house when a blizzard strikes Qyah; Molly loses her fish charm bracelet in an ice hole.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15558419_b_v8_aa.jpg",
+"title": "Molly of Denali"
+},
 "EP030033072131": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
@@ -721,6 +742,16 @@
 ],
 "category": "Cooking",
 "desc": "Challenges for the home cooks include a best-in-a-pinch recipe and a noodle dish representing their heritage.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21977501_b_v12_ae.jpg",
+"title": "The Great American Recipe"
+},
+"EP042659280011": {
+"categories": [
+"Cooking",
+"Competition Reality"
+],
+"category": "Cooking",
+"desc": "The cooks prepare their favorite comfort food and a dish inspired by a loved one; recipes range from bacon-wrapped meatloaf to chicken curry.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21977501_b_v12_ae.jpg",
 "title": "The Great American Recipe"
 },
@@ -941,6 +972,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
 "title": "Bookish"
 },
+"EP059312690002": {
+"category": "Crime drama",
+"desc": "Bliss and Book's investigation into Harkup's death continues as Book discovers some surprising evidence in the case of the bomb site skeletons.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
+"title": "Bookish"
+},
 "EP060025880001": {
 "categories": [
 "Documentary",
@@ -949,6 +986,17 @@
 ],
 "category": "Documentary",
 "desc": "Opposition in colonial North America to British policies over taxes, land and sovereignty escalates into violent confrontation; war gives 13 colonies a common cause.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
+"title": "The American Revolution"
+},
+"EP060025880002": {
+"categories": [
+"Documentary",
+"History",
+"American history"
+],
+"category": "Documentary",
+"desc": "Congress puts George Washington in command of a new Continental Army; Congress declares American independence in July 1776.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
 "title": "The American Revolution"
 },
