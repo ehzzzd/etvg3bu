@@ -19,6 +19,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184043_b_v12_aa.jpg",
 "title": "Frontline"
 },
+"EP000029300325": {
+"categories": [
+"Children",
+"Educational"
+],
+"category": "Children",
+"desc": "Ana Platypus wants a pet; Bob Trow brings his dog to meet Fred Rogers.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184024_b_v8_ab.jpg",
+"title": "Mister Rogers' Neighborhood"
+},
 "EP000029300405": {
 "categories": [
 "Children",
@@ -246,6 +256,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800182": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Buzz and Delete try to help when Harmony gets stuck on a math word problem; Buzz and Delete try to make it into the Cyber Book of Records.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003644950162": {
 "categories": [
 "Documentary",
@@ -330,6 +351,17 @@
 ],
 "category": "Children",
 "desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Jenna Warren (Reporter - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP013451880114": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin and Chris take Jimmy to a swimming tutor -- a sea otter named Coach.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
@@ -586,6 +618,17 @@
 ],
 "category": "Animated",
 "desc": "The kids join Celery in a space race with Uncle Zucchini, Auntie Eggplant and Zerk; Sydney designs and builds a robot companion for Jet 2.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
+"title": "Ready Jet Go!"
+},
+"EP023305860136": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Jet and the kids learn how wind works; Sean and Sydney try to teach Jet how to play golf.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
 "title": "Ready Jet Go!"
 },
@@ -855,6 +898,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
 },
+"EP049548040036": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla struggles to sleep and tries to figure out what is wrong with her sleep routine; Lyla tries to do her own hairstyle.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP052400180001": {
 "category": "Documentary",
 "desc": "Teenage contestants from Wyoming, Las Vegas and Richmond, Va., embark on a year-long civics competition.",
@@ -1008,6 +1062,17 @@
 ],
 "category": "Animated",
 "desc": "Outta Space pulls the word \"sun\" apart to make Reader Valley cold and dark; a super-powered baby needs something only the Super Readers can deliver; Outta Space meddles with animal sounds.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
+},
+"EP065640260003": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "A giant bookworm is eating its way through Reader Valley; Outta Space ruins a picnic by making it rain; Villains race the Super Readers.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },
