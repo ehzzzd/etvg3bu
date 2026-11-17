@@ -124,6 +124,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
 "title": "Arthur"
 },
+"EP000441070038": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Arthur is afraid he'll freeze up during his piano recital; Francine and The Brain don't like being on the soccer team together.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP000441070070": {
 "categories": [
 "Animated",
@@ -398,6 +409,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880163": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "The gang thinks about whether there is life on other planets.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880164": {
 "categories": [
 "Children",
@@ -511,6 +533,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
+"EP020042990462": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "Ozzi and Orli go on a mission to catch the villain who is ruining the Triangle Sisters' café; Opie must collect enough money to pay for Captain O's 10-layer birthday cake.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
+},
 "EP020042990488": {
 "categories": [
 "Children",
@@ -598,6 +631,17 @@
 "desc": "The gang hopes to get rid of the monstrous pumpkins haunting Hugo the goose's farm before the Halloween party; Nature Cat learns about catfish.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
+},
+"EP023305860133": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The kids take the souped-up family saucer on a trip to the moon; Jet attempts to teach Mitchell's dog some new tricks.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
+"title": "Ready Jet Go!"
 },
 "EP023305860134": {
 "categories": [
