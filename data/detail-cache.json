@@ -778,6 +778,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19979641_b_v8_az.jpg",
 "title": "Professor T"
 },
+"EP038670900032": {
+"categories": [
+"Crime drama",
+"Drama"
+],
+"category": "Crime drama",
+"desc": "Murder and cryptic ciphers put Jasper, Maiya and Dan in the crosshairs as loyalties fracture and fears of a serial killer grow.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19979641_b_v8_az.jpg",
+"title": "Professor T"
+},
 "EP042659280010": {
 "categories": [
 "Cooking",
@@ -828,9 +838,21 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23123778_b_v8_aa.jpg",
 "title": "After Action"
 },
+"EP044867650011": {
+"category": "Documentary",
+"desc": "Three veterans who felt compelled to serve after becoming Gold Star survivors.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23123778_b_v8_aa.jpg",
+"title": "After Action"
+},
 "EP046386990005": {
 "category": "Documentary",
 "desc": "The evolving meaning of the Statue of Liberty and how it embodies values and conflicts in America, from abolition to the treatment of refugees.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987151_b_v12_aa.jpg",
+"title": "Iconic America: Our Symbols and Stories With David Rubenstein"
+},
+"EP046386990006": {
+"category": "Documentary",
+"desc": "The American bald eagle symbolizes patriotism, environmental activism and Native American traditions.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987151_b_v12_aa.jpg",
 "title": "Iconic America: Our Symbols and Stories With David Rubenstein"
 },
@@ -1461,6 +1483,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24827757_b_v12_aa.jpg",
 "title": "Acércate a Rocío de Telemundo"
 },
+"SH054712250000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "Peter Greenberg baila con una banda de música de Nueva Orleans, practica con el equipo de béisbol de LSU y descubre artefactos en un sitio arqueológico nativo americano en Luisiana.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28472618_b_v8_ab.jpg",
+"title": "Hidden Louisiana"
+},
 "SH057660360000": {
 "categories": [
 "Special",
@@ -1480,6 +1512,16 @@
 "desc": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30613664_b_v8_ab.jpg",
 "title": "Pegao's en la mañana"
+},
+"SH061213210000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "Las cicatrices duraderas de la guerra, a través de la historia del cabo JV Villarreal, un Marine mexicano-estadounidense de San Antonio, Texas, quien murió en acción en Afganistán.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31524753_b_v12_ab.jpg",
+"title": "VOCES: American Sons"
 },
 "SH061429760000": {
 "categories": [
