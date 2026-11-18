@@ -102,6 +102,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184075_b_v11_aa.jpg",
 "title": "Great Performances"
 },
+"EP000441070034": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Arthur stars in Muffy's action film; D.W. plans a daring escape when she is sent to her room.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP000441070036": {
 "categories": [
 "Animated",
@@ -267,6 +278,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800159": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Christopher Lloyd (Hacker - Voice), Gilbert Gottfried (Digit - Voice), Novie Edwards (Jackie - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800182": {
 "categories": [
 "Animated",
@@ -343,6 +365,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880102": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Athena Karkanis (Aviva - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880111": {
 "categories": [
 "Children",
@@ -384,6 +417,17 @@
 ],
 "category": "Children",
 "desc": "Martin Kratt (Martin - Voice), Chris Kratt (Chris - Voice), Athena Karkanis (Aviva - Guest Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
+"EP013451880117": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Chris finds a little lost red panda; before he can reunite her with her mother, Zach steals her, intent on giving her to Donita Donata as a birthday present.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
@@ -442,6 +486,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013885800912": {
+"categories": [
+"How-to",
+"House/garden"
+],
+"category": "How-to",
+"desc": "Esta serie didáctica ofrece a los televidentes consejos prácticos de jardinería y aborda temas variados, oportunos y de vanguardia.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p391686_b_v8_aa.jpg",
+"title": "Garden Smart"
+},
 "EP013962340626": {
 "category": "House/garden",
 "desc": "Summer Celebration in Jackson, Tenn.; answering questions about weeds, roses, tomatoes, butterflies and more.",
@@ -468,6 +522,12 @@
 "desc": "Cobertura del juego cuatro de los cuartos de final del Baloncesto Superior Nacional Femenino temporada 2026.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
 "title": "Baloncesto Superior Nacional Femenino"
+},
+"EP014979550405": {
+"category": "How-to",
+"desc": "Se acolcha rápido y a gran escala con el diseño de la flor de la pasión. Se trabaja con costuras grandes. Se crean plantillas de gran tamaño.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
+"title": "Fons & Porter's Love of Quilting"
 },
 "EP017206580176": {
 "categories": [
@@ -499,6 +559,17 @@
 "desc": "Patricia and Valentín progress quickly; Rita develops a medical worry; Cristina's revenge against Ana threatens others; Mateo runs into an old flame.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10612085_b_v12_aj.jpg",
 "title": "Velvet"
+},
+"EP020042990230": {
+"categories": [
+"Children",
+"Educational",
+"Entertainment"
+],
+"category": "Children",
+"desc": "Odd Squad builds a replica of the villain's vault to intercept a jetpack; Olympia tries to win back a stolen gadget on a game show.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
+"title": "Odd Squad"
 },
 "EP020042990301": {
 "categories": [
@@ -554,6 +625,17 @@
 "desc": "On the town's football derby day, Osric tries to solve a case while being followed by a documentary crew; Techie Tallulah heads to Niagara Falls on a mission that will get Orli out of Precinct 97531 so she can carry out her evil plan.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
+},
+"EP022687710231": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Squeeks needs to find her missing magnifying glass in time for the Rock Stars Club meeting; the gang tracks down a sweet scent.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
+"title": "Nature Cat"
 },
 "EP022687710238": {
 "categories": [
@@ -790,6 +872,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP034893320017": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "A baby porcupine needs help, but the crew has trouble getting close to it; Fur Blur comes down with a hamster cold and the only cure is to sniff the flower of a certain plant.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
 "EP034893320021": {
 "categories": [
 "Animated",
@@ -867,6 +960,12 @@
 "EP044042290012": {
 "category": "Performing arts",
 "desc": "La banda Snarky Puppy realiza un tributo a Susana Baca. Los invitados incluyen a Silvana Estrada, Gaby Moreno, Silvia Pérez Cruz y Fuensanta.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22686900_b_v12_ab.jpg",
+"title": "NEXT at the Kennedy Center"
+},
+"EP044042290013": {
+"category": "Performing arts",
+"desc": "Una mezcla de artistas de hip hop, jazz, danza moderna y más se presentan en el Kennedy Center.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22686900_b_v12_ab.jpg",
 "title": "NEXT at the Kennedy Center"
 },
@@ -964,6 +1063,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
 },
+"EP049548040007": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla and Luke make a hamster playground; the Loops family embarks on a journey to figure out why Stu keeps beeping.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP049548040036": {
 "categories": [
 "Animated",
@@ -974,6 +1084,16 @@
 "desc": "Lyla struggles to sleep and tries to figure out what is wrong with her sleep routine; Lyla tries to do her own hairstyle.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
+},
+"EP051534370001": {
+"categories": [
+"Travel",
+"Cooking"
+],
+"category": "Travel",
+"desc": "El chef Corso prepara deliciosas comidas gourmet para mochileros en Diablo, California, durante una excursión de un día con un par de amigos.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p27471666_b_v12_aa.jpg",
+"title": "Outdoor Eats"
 },
 "EP052400180001": {
 "category": "Documentary",
@@ -997,6 +1117,27 @@
 "desc": "Nico and Arugula start a hamster sitter business; Carl is afraid to tell his Mama that his new shoes hurt his feet.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
 "title": "Carl the Collector"
+},
+"EP052844640024": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Dylan is excited to play his new game, but things take a turn when the game pieces fall into a floor vent; Carl is determined to get into the FuzzyWorld Book of Records.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
+"title": "Carl the Collector"
+},
+"EP052956710013": {
+"categories": [
+"Documentary",
+"Travel"
+],
+"category": "Documentary",
+"desc": "Se exploran los condados de Buchanan y Dickenson en Virginia, desde las vistas montañosas hasta su historia de minería de carbón.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24781342_b_v12_ad.jpg",
+"title": "Hometowns"
 },
 "EP053841700001": {
 "category": "Documentary",
@@ -1032,6 +1173,17 @@
 "title": "Sacred Planet With Gulnaz Khan"
 },
 "EP059042210005": {
+"categories": [
+"Animated",
+"Entertainment",
+"Educational"
+],
+"category": "Animated",
+"desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP059042210006": {
 "categories": [
 "Animated",
 "Entertainment",
@@ -1164,6 +1316,15 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },
+"EP066431010003": {
+"categories": [
+"Cooking",
+"Travel"
+],
+"category": "Cooking",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30946981_b_v8_ab.jpg",
+"title": "Neven's Ulster Food Tour"
+},
 "MV001925660000": {
 "category": "Romantic comedy",
 "desc": "Tres compañeros de trabajo emprenden una misión de ayuda para que un nuevo amigo pierda la virginidad.",
@@ -1227,6 +1388,16 @@
 "category": "Art",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p354951_b_v8_ac.jpg",
 "title": "Classic Arts Showcase"
+},
+"SH003177560000": {
+"categories": [
+"Documentary",
+"Entertainment"
+],
+"category": "Documentary",
+"desc": "As the title suggests, a series of documentaries resembles an independent film festival in its diversity of subject matter, from hula dancing to crossword mania as captured by a roster of edgy and creative filmmakers.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28184239_b_v12_ab.jpg",
+"title": "Independent Lens"
 },
 "SH003260420000": {
 "category": "News",
@@ -1479,6 +1650,11 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18237834_b_v8_ab.jpg",
 "title": "Mi perro Chocolo"
 },
+"SH035336440000": {
+"category": "Musical",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18414338_b_v12_ac.jpg",
+"title": "Classic Arts Showcase"
+},
 "SH037623630000": {
 "categories": [
 "Newsmagazine",
@@ -1556,6 +1732,11 @@
 "desc": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30613664_b_v8_ab.jpg",
 "title": "Pegao's en la mañana"
+},
+"SH059367020000": {
+"category": "Documentary",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30750542_b_v12_ab.jpg",
+"title": "Mundo Maya"
 },
 "SH061213210000": {
 "categories": [
