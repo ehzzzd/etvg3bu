@@ -502,6 +502,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8583278_b_v8_ab.jpg",
 "title": "Family Plot: Gardening in the Mid-South"
 },
+"EP013979180102": {
+"categories": [
+"Travel",
+"How-to"
+],
+"category": "Travel",
+"desc": "Explorando una mina de cobre en el Museo Mundial de Minería en Butte, Montana. Maquinaria de perforación.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8482080_b_v8_ac.jpg",
+"title": "Painting and Travel With Roger & Sarah Bansemer"
+},
 "EP014793540132": {
 "categories": [
 "Basketball",
@@ -1476,6 +1486,11 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p256230_b_v12_ac.jpg",
 "title": "Law and Order"
 },
+"SH010835950000": {
+"category": "Community",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p624425_st_v8_aa.jpg",
+"title": "Ciencias Sociales"
+},
 "SH011682050000": {
 "category": "Travel",
 "desc": "Programa infantil en donde los niños tienen la oportunidad de explorar el mundo.",
@@ -1736,6 +1751,10 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24827757_b_v12_aa.jpg",
 "title": "Acércate a Rocío de Telemundo"
 },
+"SH051436380000": {
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p27435119_b_v12_aa.jpg",
+"title": "Estadísticas aplicadas a las ciencias sociales"
+},
 "SH054712250000": {
 "categories": [
 "Special",
@@ -1745,6 +1764,12 @@
 "desc": "Peter Greenberg baila con una banda de música de Nueva Orleans, practica con el equipo de béisbol de LSU y descubre artefactos en un sitio arqueológico nativo americano en Luisiana.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28472618_b_v8_ab.jpg",
 "title": "Hidden Louisiana"
+},
+"SH054916450000": {
+"category": "Educational",
+"desc": "En esta lección se exploran las bases del pensamiento científico que dieron origen a lo que hoy se conoce como psicología.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p29081601_st_v8_aa.jpg",
+"title": "Psicología 123"
 },
 "SH057660360000": {
 "categories": [
