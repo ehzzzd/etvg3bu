@@ -523,11 +523,23 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8860487_b_v8_aa.jpg",
 "title": "Baloncesto Superior Nacional Femenino"
 },
+"EP014887710190": {
+"category": "Travel",
+"desc": "Aventuras de un solo día que exploran la comida, la cultura y la historia de las ciudades del estado de Texas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8095927_b_v8_ad.jpg",
+"title": "The Daytripper"
+},
 "EP014979550405": {
 "category": "How-to",
 "desc": "Se acolcha rápido y a gran escala con el diseño de la flor de la pasión. Se trabaja con costuras grandes. Se crean plantillas de gran tamaño.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
 "title": "Fons & Porter's Love of Quilting"
+},
+"EP016152860524": {
+"category": "Cooking",
+"desc": "Bean with bacon soup; jalapeño and chow chow cornbread; bourbon apple pie with cranberries, raisins and pecans.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9465570_b_v8_ab.jpg",
+"title": "Tim Farmer's Country Kitchen"
 },
 "EP017206580176": {
 "categories": [
@@ -757,6 +769,12 @@
 "desc": "Jet and the kids learn how wind works; Sean and Sydney try to teach Jet how to play golf.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15160688_b_v12_ab.jpg",
 "title": "Ready Jet Go!"
+},
+"EP029165150090": {
+"category": "Art",
+"desc": "Cielo y las suaves olas del océano para una pintura de playa.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9989230_b_v8_aa.jpg",
+"title": "Painting With Wilson Bickford"
 },
 "EP029516380449": {
 "categories": [
@@ -1491,6 +1509,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8533244_b_v8_ab.jpg",
 "title": "Borinqueando"
 },
+"SH014237780000": {
+"categories": [
+"Science",
+"Technology",
+"Documentary"
+],
+"category": "Science",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8696289_st_v8_aa.jpg",
+"title": "Ciencia Tecnología y Sociedad"
+},
 "SH014793540000": {
 "category": "Basketball",
 "desc": "Acción del Baloncesto Superior Nacional Femenino.",
@@ -1686,6 +1714,11 @@
 "desc": "Los hermanos Reyes están dispuestos a vengar la muerte de su hermana menor. El plan cambia de rumbo cuando conocen a las hermanas Elizondo, hijas del hacendado a quien culpan de su tragedia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p20469169_b_v8_aa.jpg",
 "title": "Pasión de gavilanes"
+},
+"SH045954320000": {
+"category": "Educational",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23735842_st_v8_aa.jpg",
+"title": "Introducción a las destrezas de información"
 },
 "SH046387130000": {
 "categories": [
