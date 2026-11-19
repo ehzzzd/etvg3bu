@@ -1344,6 +1344,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },
+"EP065948370002": {
+"category": "Documentary",
+"desc": "Progressive reformers try to make the justice system more fair.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33998894_b_v8_aa.jpg",
+"title": "Crime and Punishment in America"
+},
 "EP066431010003": {
 "categories": [
 "Cooking",
@@ -1352,6 +1358,37 @@
 "category": "Cooking",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30946981_b_v8_ab.jpg",
 "title": "Neven's Ulster Food Tour"
+},
+"MV000512350000": {
+"categories": [
+"Children",
+"Comedy"
+],
+"category": "Children",
+"desc": "Pedro Picapiedra no puede creerse su buena suerte cuando le nombran vicepresidente de su compañía. Sin embargo, el cavernícola no sabe que le han tendido una trampa para hacerle el responsable legal de un desfalco.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15683_v_v8_af.jpg",
+"title": "The Flintstones"
+},
+"MV000983750000": {
+"categories": [
+"Children",
+"Comedy"
+],
+"category": "Children",
+"desc": "Pedro y Pablo deciden ganarse los corazones de sus chicas favoritas, Vilma y Betty, en una romántica visita a \"Rock Vegas\", pero tendrán que vérselas con la entrometida y vividora madre de Vilma, así como con el magnate Chip Rockefeller.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25307_v_v11_ao.jpg",
+"title": "The Flintstones in Viva Rock Vegas"
+},
+"MV001433550000": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Un marinero aventurero y una hermosa pasajera clandestina tienen 10 días para impedir que un príncipe sea ejecutado.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p32276_v_v8_af.jpg",
+"title": "Sinbad: Legend of the Seven Seas"
 },
 "MV001925660000": {
 "category": "Romantic comedy",
@@ -1369,6 +1406,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p191307_v_v8_al.jpg",
 "title": "Fighting"
 },
+"MV004004730000": {
+"categories": [
+"Musical comedy",
+"Romantic comedy"
+],
+"category": "Musical comedy",
+"desc": "La estudiante universitaria Beca sabe que ella no quiere ser parte de un grupo, pero ese es el lugar al que llega después de arribar a su nueva escuela. Entre las chicas malas, buenas y extrañas, Beca descubre que lo único que tienen en común es lo bien que cantan juntas. Ella saca a las mujeres de su zona de comodidad de piezas tradicionales de los arreglos innovadores y en mundo de las combinaciones armónicas en una pelea en la cima de las competencias musicales universitarias.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9276475_v_v12_ak.jpg",
+"title": "Pitch Perfect"
+},
 "MV004802450000": {
 "category": "Comedy",
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
@@ -1380,6 +1427,12 @@
 "desc": "Un policía excéntrico de Antinarcóticos, a quien no le gusta colaborar con nadie, tiene que aprender a congeniar con un nuevo compañero: un perro pastor alemán. La pareja afrontará una misión muy peligrosa.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11598_v_v8_ao.jpg",
 "title": "Superagente K-9"
+},
+"MV029222900000": {
+"category": "Comedy",
+"desc": "Para salvar de la quiebra el taller de carreras heredado de su padre, Linda entra a una competencia. Desesperada, contrata a tres supuestos expertos de un show de televisión sobre autos, sin saber que en realidad son actores que no saben de mecánica.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34475120_b_v12_aa.jpg",
+"title": "Los mecánicos"
 },
 "SH000004390000": {
 "categories": [
@@ -1891,5 +1944,27 @@
 "desc": "Cobertura especial de las elecciones de medio término con resultados en tiempo real. Análisis profundo del voto latino, su influencia política y los temas que impulsan la participación hispana.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34234655_b_v12_ac.jpg",
 "title": "Examen a Trump: Decisión 2026"
+},
+"SH066372030000": {
+"categories": [
+"Special",
+"Event",
+"Parade"
+],
+"category": "Special",
+"desc": "La temporada festiva comienza por todo lo alto con una celebración única por los 100 años del desfile, con espectaculares globos, carrozas, artistas y muchas sorpresas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34235792_b_v12_ab.jpg",
+"title": "Macy's Thanksgiving Day Parade"
+},
+"SH066980300000": {
+"categories": [
+"Special",
+"Travel",
+"Cooking"
+],
+"category": "Special",
+"desc": "Zoe responde a la pregunta: ¿cuánto esfuerzo hay detrás de una taza de café de Puerto Rico?. Para hacerlo va a las montañas cafetaleras del país hasta los lugares donde se procesa, se tuesta y se prepara.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34539423_b_v12_aa.jpg",
+"title": "Mis 120 pepitas de café"
 }
 }
