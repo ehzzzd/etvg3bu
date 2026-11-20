@@ -1350,6 +1350,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33998894_b_v8_aa.jpg",
 "title": "Crime and Punishment in America"
 },
+"EP065948370003": {
+"category": "Documentary",
+"desc": "The exploits of outlaws fill the headlines and the FBI promises to wage a war on crime.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33998894_b_v8_aa.jpg",
+"title": "Crime and Punishment in America"
+},
 "EP066431010003": {
 "categories": [
 "Cooking",
@@ -1450,6 +1456,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10592929_v_v8_af.jpg",
 "title": "Fifty Shades of Grey"
 },
+"MV010803150000": {
+"category": "Comedy",
+"desc": "Un abogado queda inhabilitado para mentir durante 24 horas, y tratará de hacer que el mayor deseo de su hijo se cumpla.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19140_v_v8_as.jpg",
+"title": "Liar Liar"
+},
 "MV011810120000": {
 "category": "Comedy",
 "desc": "Un policía excéntrico de Antinarcóticos, a quien no le gusta colaborar con nadie, tiene que aprender a congeniar con un nuevo compañero: un perro pastor alemán. La pareja afrontará una misión muy peligrosa.",
@@ -1461,6 +1473,12 @@
 "desc": "Para salvar de la quiebra el taller de carreras heredado de su padre, Linda entra a una competencia. Desesperada, contrata a tres supuestos expertos de un show de televisión sobre autos, sin saber que en realidad son actores que no saben de mecánica.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34475120_b_v12_aa.jpg",
 "title": "Los mecánicos"
+},
+"MV029222920000": {
+"category": "Comedy",
+"desc": "La paz de Linda y sus mecánicos peligra cuando una hermana ilegítima reclama el taller familiar junto a un piloto profesional que resulta ser su exnovio. Para salvar el negocio, el equipo deberá competir en un peligroso rally internacional.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34475194_b_v12_aa.jpg",
+"title": "Los mecánicos 2"
 },
 "SH000004390000": {
 "categories": [
@@ -1810,6 +1828,12 @@
 "desc": "Los hermanos Reyes están dispuestos a vengar la muerte de su hermana menor. El plan cambia de rumbo cuando conocen a las hermanas Elizondo, hijas del hacendado a quien culpan de su tragedia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p20469169_b_v8_aa.jpg",
 "title": "Pasión de gavilanes"
+},
+"SH041970320000": {
+"category": "Documentary",
+"desc": "From Africa to Asia to the Arctic, six of the Earth's most vulnerable ecosystems confront climate change; host Dr. M. Sanjayan.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26662311_b_v8_aa.jpg",
+"title": "Changing Planet"
 },
 "SH045954320000": {
 "category": "Educational",
