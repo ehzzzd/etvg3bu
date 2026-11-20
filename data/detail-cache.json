@@ -1379,6 +1379,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25307_v_v11_ao.jpg",
 "title": "The Flintstones in Viva Rock Vegas"
 },
+"MV001041750000": {
+"category": "Comedy",
+"desc": "Un equipo de porristas compiten contra el equipo de una escuela de la ciudad por un codiciado título nacional.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26127_v_v8_aa.jpg",
+"title": "Bring It On"
+},
 "MV001433550000": {
 "categories": [
 "Animated",
@@ -1389,6 +1395,18 @@
 "desc": "Un marinero aventurero y una hermosa pasajera clandestina tienen 10 días para impedir que un príncipe sea ejecutado.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p32276_v_v8_af.jpg",
 "title": "Sinbad: Legend of the Seven Seas"
+},
+"MV001810360000": {
+"category": "Comedy",
+"desc": "Tres se convierten en una multitud cuando un recién casado invita a un amigo desempleado a que se muda temporalmente con él y con su esposa.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p159815_v_v11_ab.jpg",
+"title": "You, Me and Dupree"
+},
+"MV001904640000": {
+"category": "Comedy",
+"desc": "Una mala jugada del destino evita que Randy Daytona sea considerado todo un fenómeno del tenis de mesa. Ahora, él debe regresar a realizar una asignación encubierta para el Gobierno. El FBI quiere que participe en un torneo patrocinado por Feng, un entusiasta del tenis de mesa y un reconocido criminal. Randy debe ganarse la confianza de Feng y llevarlo ante la justicia.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p162831_v_v11_al.jpg",
+"title": "Balls of Fury"
 },
 "MV001925660000": {
 "category": "Romantic comedy",
@@ -1421,6 +1439,16 @@
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
+},
+"MV006386610000": {
+"categories": [
+"Romance",
+"Drama"
+],
+"category": "Romance",
+"desc": "Una estudiante de literatura inicia un romance atrevido con un hombre de negocios controlador cuyos gustos sexuales se encuentran en la frontera del dolor y el placer.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10592929_v_v8_af.jpg",
+"title": "Fifty Shades of Grey"
 },
 "MV011810120000": {
 "category": "Comedy",
@@ -1868,6 +1896,17 @@
 "desc": "An exploration of Hong Kong includes a look at traditional Chinese medicine, fishing, meditating with a Buddhist monk at the Po Lin Monastery, crafting a classic bamboo birdcage and a lesson on playing rugby; host Peter Greenberg.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31628432_b_v8_aa.jpg",
 "title": "Hidden Hong Kong"
+},
+"SH062153450000": {
+"categories": [
+"Holiday",
+"Special",
+"Event"
+],
+"category": "Holiday",
+"desc": "Un espacio para celebrar la Navidad junto con la comunidad y los seres queridos.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31980956_b_v8_aa.jpg",
+"title": "Abrazo navideño"
 },
 "SH063812630000": {
 "categories": [
