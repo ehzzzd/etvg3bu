@@ -113,6 +113,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
 "title": "Arthur"
 },
+"EP000441070035": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Arthur has nightmares about his pants splitting during class; Francine's sister turns out to be a better jockey than she is.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8636243_b_v8_ac.jpg",
+"title": "Arthur"
+},
 "EP000441070036": {
 "categories": [
 "Animated",
@@ -867,6 +878,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072141": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320010": {
 "categories": [
 "Animated",
@@ -897,6 +914,17 @@
 ],
 "category": "Animated",
 "desc": "An ice cream truck is accidentally made invisible, so the crew must rely on its sounds to find it; people everywhere get stuck when a flying super-glue gadget goes haywire.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
+"EP034893320016": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The crew must find their way out of an overgrown, weedy area after being accidentally shrunk to the size of bugs; the crew helps Lucita's grandmother when her favorite scenic spot is flooded.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
@@ -1796,6 +1824,17 @@
 "category": "Musical",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18414338_b_v12_ac.jpg",
 "title": "Classic Arts Showcase"
+},
+"SH036182050000": {
+"categories": [
+"Children",
+"Holiday",
+"Special"
+],
+"category": "Children",
+"desc": "It's a busy time for Arthur as he and his family prepare for Thanksgiving while the elementary students prepare for the annual Thanksgiving parade.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18804974_b_v8_ab.jpg",
+"title": "An Arthur Thanksgiving"
 },
 "SH037623630000": {
 "categories": [
