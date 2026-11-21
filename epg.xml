@@ -2873,22 +2873,47 @@
   </programme>
   <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Weather Hunters Corky's Weird Desert Mystery</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">The Hunters investigate a weather mystery surrounding massive rocks that move on their own in the desert.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Lyla in the Loop The Case of the Mysterious Cake; Kibbles and Tricks</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla bakes a cake without a recipe; Everett teaches his cat new tricks using sounds and symbols.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Carl the Collector The Lost Yo-Yo; Rainy Day</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Carl's medium-sized fuchsia yo-yo goes missing from his collection; a rainy day changes Carl's pool day plans.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Daniel Tiger's Neighborhood Be a Vegetable Taster!; Daniel Tries a New Food</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Teacher Harriet shows the class the school's vegetable garden; Miss Elaina encourages Daniel to try some new food.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p9175156_b_v12_ap.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Into the Outdoors</title>
+    <category lang="es">Children</category>
+    <category lang="es">Outdoors</category>
+    <category lang="es">Nature</category>
+    <desc lang="es">"Into the Outdoors" aims to get kids to want to go outside to explore, discover and understand the natural world around them. Part science lesson and part travelogue, the show not only tells viewers that they should help with energy conservation, it also explains why energy conservation is important. The young explorers featured on the show uncover the science behind sensible solutions to creating a healthy planet. But it's not all about science, there's craziness and laughter mixed in, because -- well -- learning should be fun.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p409135_b_v12_ac.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="liberty-3-wmtj">
@@ -4189,7 +4214,7 @@
     <title lang="es">Almas heridas</title>
     <sub-titles/>
   </programme>
-  <programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="liberty-4-wapa">
+  <programme start="20261120050000 +0000" stop="20261120063000 +0000" channel="liberty-4-wapa">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -4197,12 +4222,6 @@
     <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
     <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
-  </programme>
-  <programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="liberty-4-wapa">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Pain Relief Revealed</title>
   </programme>
   <programme start="20261120063000 +0000" stop="20261120080000 +0000" channel="liberty-4-wapa">
     <title lang="es">Pégate al mediodía</title>
@@ -4502,19 +4521,19 @@
     <title lang="es">Película</title>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Destan</title>
+    <title lang="es">Más allá del amor</title>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="liberty-4-wapa">
-    <title lang="es">S.W.A.T.</title>
+    <title lang="es">NCIS: Los Ángeles</title>
     <sub-titles/>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124033000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 p. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261124033000 +0000" stop="20261124053000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Soñar contigo</title>
+  <programme start="20261124033000 +0000" stop="20261124050000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Almas heridas</title>
   </programme>
-  <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="liberty-4-wapa">
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="liberty-4-wapa">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -4523,12 +4542,12 @@
     <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124073000 +0000" channel="liberty-4-wapa">
+  <programme start="20261124060000 +0000" stop="20261124063000 +0000" channel="liberty-4-wapa">
+    <title lang="es">La Dr. Polo vida sin límites</title>
+  </programme>
+  <programme start="20261124063000 +0000" stop="20261124080000 +0000" channel="liberty-4-wapa">
     <title lang="es">Pégate al mediodía</title>
     <sub-titles/>
-  </programme>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 p. m.</title>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124085600 +0000" channel="liberty-4-wapa">
     <title lang="es">Lo sé todo</title>
@@ -4536,31 +4555,35 @@
   </programme>
   <programme start="20261124085600 +0000" stop="20261124093000 +0000" channel="liberty-4-wapa">
     <title lang="es">Noticentro al amanecer: Primera edición</title>
+    <sub-titles/>
   </programme>
   <programme start="20261124093000 +0000" stop="20261124140000 +0000" channel="liberty-4-wapa">
     <title lang="es">Noticentro al amanecer</title>
     <sub-titles/>
   </programme>
   <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Enfermeras</title>
+    <title lang="es">Reyes</title>
   </programme>
   <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 a. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261124153000 +0000" stop="20261124183000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Pégate todo a la tarde</title>
+  <programme start="20261124153000 +0000" stop="20261124170000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Pégate al mediodía</title>
   </programme>
-  <programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="liberty-4-wapa">
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Viva la tarde</title>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124193000 +0000" channel="liberty-4-wapa">
     <title lang="es">Lo sé todo</title>
   </programme>
   <programme start="20261124193000 +0000" stop="20261124200000 +0000" channel="liberty-4-wapa">
     <title lang="es">Los datos son los datos</title>
   </programme>
-  <programme start="20261124200000 +0000" stop="20261124213000 +0000" channel="liberty-4-wapa">
+  <programme start="20261124200000 +0000" stop="20261124220000 +0000" channel="liberty-4-wapa">
     <title lang="es">Noticentro edición estelar</title>
   </programme>
-  <programme start="20261124213000 +0000" stop="20261124230000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Melissa</title>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Super Chef Celebrities</title>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="liberty-4-wapa">
     <title lang="es">Película</title>
@@ -26190,12 +26213,12 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261121003000 +0000" stop="20261121033000 +0000" channel="liberty-34-espn">
+  <programme start="20261121003000 +0000" stop="20261121040600 +0000" channel="liberty-34-espn">
     <title lang="es">College Football Clemson at Duke</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261121033000 +0000" stop="20261121050000 +0000" channel="liberty-34-espn">
+  <programme start="20261121040600 +0000" stop="20261121050000 +0000" channel="liberty-34-espn">
     <title lang="es">SportsCenter With Scott Van Pelt</title>
     <live/>
     <sub-titles/>
@@ -72242,7 +72265,7 @@
     <title lang="es">Mujeres de negocios</title>
   </programme>
   <programme start="20261121040000 +0000" stop="20261121054000 +0000" channel="liberty-91-cinlus">
-    <title lang="es">La doble cara del narco</title>
+    <title lang="es">La doble cara del narco (2025, Action)</title>
     <new/>
   </programme>
   <programme start="20261121054000 +0000" stop="20261121071500 +0000" channel="liberty-91-cinlus">
@@ -115823,21 +115846,24 @@
     <title lang="es">Tendencias SXXI</title>
   </programme>
   <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La hora Hola</title>
+    <title lang="es">¡Hola! TV Iconos</title>
   </programme>
   <programme start="20261124120000 +0000" stop="20261124123000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Coronas y palacios</title>
+    <title lang="es">La lista VIP</title>
   </programme>
   <programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La Dr. Polo vida sin límites</title>
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+    <sub-titles/>
   </programme>
   <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Video Fashion News</title>
+    <title lang="es">Vidas Reales</title>
   </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="liberty-146-holatv">
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="liberty-146-holatv">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -115849,32 +115875,49 @@
   <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="liberty-146-holatv">
     <title lang="es">Las reinas del shopping</title>
   </programme>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La hora Hola</title>
+  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Coronas y palacios</title>
   </programme>
-  <programme start="20261124170000 +0000" stop="20261124190000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Moda</title>
+  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Fashion Forward</title>
+  </programme>
+  <programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="liberty-146-holatv">
+    <title lang="es">La lista VIP</title>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124183000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Cóctel de noticias</title>
+  </programme>
+  <programme start="20261124183000 +0000" stop="20261124190000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Las consejeras de estilo</title>
+    <previously-shown/>
   </programme>
   <programme start="20261124190000 +0000" stop="20261124193000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Video Fashion News</title>
+    <title lang="es">Stars in Style</title>
   </programme>
   <programme start="20261124193000 +0000" stop="20261124203000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Un nuevo look para una nueva vida</title>
+    <title lang="es">Las Berrocal</title>
+    <previously-shown/>
   </programme>
-  <programme start="20261124203000 +0000" stop="20261124213000 +0000" channel="liberty-146-holatv">
-    <title lang="es">El clóset de...</title>
+  <programme start="20261124203000 +0000" stop="20261124210000 +0000" channel="liberty-146-holatv">
+    <title lang="es">La lista VIP</title>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124213000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Cóctel de noticias</title>
   </programme>
   <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="liberty-146-holatv">
-    <title lang="es">El álbum de las celebridades</title>
+    <title lang="es">Stars in Style</title>
   </programme>
   <programme start="20261124220000 +0000" stop="20261124223000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Top de estilo</title>
+    <title lang="es">Fashion Forward</title>
   </programme>
   <programme start="20261124223000 +0000" stop="20261124230000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Espléndida</title>
+    <title lang="es">Vidas Reales</title>
   </programme>
   <programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Happy &amp; Zen</title>
+    <title lang="es">La lista VIP</title>
   </programme>
   <programme start="20261124233000 +0000" stop="20261125000000 +0000" channel="liberty-146-holatv">
     <title lang="es">Tendencias SXXI</title>
@@ -124656,7 +124699,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261122170000 +0000" stop="20261122190000 +0000" channel="liberty-155-sec">
-    <title lang="es">Women's College Volleyball SEC Tournament: TBA vs. Florida</title>
+    <title lang="es">Women's College Volleyball SEC Tournament: Georgia vs. Florida</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -133895,22 +133938,47 @@
   </programme>
   <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Weather Hunters Corky's Weird Desert Mystery</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">The Hunters investigate a weather mystery surrounding massive rocks that move on their own in the desert.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Lyla in the Loop The Case of the Mysterious Cake; Kibbles and Tricks</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla bakes a cake without a recipe; Everett teaches his cat new tricks using sounds and symbols.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Carl the Collector The Lost Yo-Yo; Rainy Day</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Carl's medium-sized fuchsia yo-yo goes missing from his collection; a rainy day changes Carl's pool day plans.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Daniel Tiger's Neighborhood Be a Vegetable Taster!; Daniel Tries a New Food</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Teacher Harriet shows the class the school's vegetable garden; Miss Elaina encourages Daniel to try some new food.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p9175156_b_v12_ap.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Into the Outdoors</title>
+    <category lang="es">Children</category>
+    <category lang="es">Outdoors</category>
+    <category lang="es">Nature</category>
+    <desc lang="es">"Into the Outdoors" aims to get kids to want to go outside to explore, discover and understand the natural world around them. Part science lesson and part travelogue, the show not only tells viewers that they should help with energy conservation, it also explains why energy conservation is important. The young explorers featured on the show uncover the science behind sensible solutions to creating a healthy planet. But it's not all about science, there's craziness and laughter mixed in, because -- well -- learning should be fun.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p409135_b_v12_ac.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="liberty-203-wmtjdt">
@@ -135211,7 +135279,7 @@
     <title lang="es">Almas heridas</title>
     <sub-titles/>
   </programme>
-  <programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261120050000 +0000" stop="20261120063000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -135219,12 +135287,6 @@
     <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
     <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
-  </programme>
-  <programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pain Relief Revealed</title>
   </programme>
   <programme start="20261120063000 +0000" stop="20261120080000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Pégate al mediodía</title>
@@ -135374,31 +135436,7 @@
     <title lang="es">Stillwater (2021, Drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pain Relief Revealed</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pain Relief Revealed</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Programa pagado</title>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
-    <sub-titles/>
-  </programme>
-  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261122060000 +0000" stop="20261122100000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -135469,17 +135507,14 @@
     <title lang="es">Law &amp; Order</title>
     <sub-titles/>
   </programme>
-  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Operation Smile</title>
-  </programme>
-  <programme start="20261123050000 +0000" stop="20261123053000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pain Relief Revealed</title>
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123063000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">La Dr. Polo vida sin límites</title>
+  <programme start="20261123043000 +0000" stop="20261123063000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+    <sub-titles/>
   </programme>
   <programme start="20261123063000 +0000" stop="20261123080000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Pégate al mediodía</title>
@@ -135491,16 +135526,17 @@
   </programme>
   <programme start="20261123085600 +0000" stop="20261123093000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro al amanecer: Primera edición</title>
+    <sub-titles/>
   </programme>
   <programme start="20261123093000 +0000" stop="20261123140000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro al amanecer</title>
     <sub-titles/>
   </programme>
   <programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Enfermeras</title>
+    <title lang="es">Reyes</title>
   </programme>
   <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 a. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
   <programme start="20261123153000 +0000" stop="20261123170000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Pégate al mediodía</title>
@@ -135518,25 +135554,25 @@
     <title lang="es">Noticentro edición estelar</title>
   </programme>
   <programme start="20261123213000 +0000" stop="20261123230000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Melissa</title>
+    <title lang="es">Hermanos: La fuerza del amor</title>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124010000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Película</title>
+    <title lang="es">Super Chef Celebrities</title>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Destan</title>
+    <title lang="es">Más allá del amor</title>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">S.W.A.T.</title>
+    <title lang="es">NCIS: Los Ángeles</title>
     <sub-titles/>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124033000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 p. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261124033000 +0000" stop="20261124053000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Soñar contigo</title>
+  <programme start="20261124033000 +0000" stop="20261124050000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Almas heridas</title>
   </programme>
-  <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261124050000 +0000" stop="20261124063000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -135545,12 +135581,9 @@
     <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124073000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261124063000 +0000" stop="20261124080000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Pégate al mediodía</title>
     <sub-titles/>
-  </programme>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 p. m.</title>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124085600 +0000" channel="liberty-204-wapadt">
     <title lang="es">Lo sé todo</title>
@@ -135558,31 +135591,35 @@
   </programme>
   <programme start="20261124085600 +0000" stop="20261124093000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro al amanecer: Primera edición</title>
+    <sub-titles/>
   </programme>
   <programme start="20261124093000 +0000" stop="20261124140000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro al amanecer</title>
     <sub-titles/>
   </programme>
   <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Enfermeras</title>
+    <title lang="es">Reyes</title>
   </programme>
   <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 a. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261124153000 +0000" stop="20261124183000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pégate todo a la tarde</title>
+  <programme start="20261124153000 +0000" stop="20261124170000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Pégate al mediodía</title>
   </programme>
-  <programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Viva la tarde</title>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124193000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Lo sé todo</title>
   </programme>
   <programme start="20261124193000 +0000" stop="20261124200000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Los datos son los datos</title>
   </programme>
-  <programme start="20261124200000 +0000" stop="20261124213000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261124200000 +0000" stop="20261124220000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro edición estelar</title>
   </programme>
-  <programme start="20261124213000 +0000" stop="20261124230000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Melissa</title>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Super Chef Celebrities</title>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Película</title>
@@ -211743,38 +211780,58 @@
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="liberty-346-holahd">
     <title lang="es">Las reinas del shopping</title>
   </programme>
-  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="liberty-346-holahd">
-    <title lang="es">La hora Hola</title>
+  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Fashion Forward</title>
   </programme>
-  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="liberty-346-holahd">
-    <title lang="es">Moda</title>
+  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="liberty-346-holahd">
+    <title lang="es">La lista VIP</title>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Cóctel de noticias</title>
+  </programme>
+  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Las consejeras de estilo</title>
+    <previously-shown/>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="liberty-346-holahd">
     <title lang="es">Las reinas del shopping</title>
   </programme>
-  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="liberty-346-holahd">
-    <title lang="es">La hora Hola</title>
+  <programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Fashion Forward</title>
   </programme>
-  <programme start="20261124050000 +0000" stop="20261124070000 +0000" channel="liberty-346-holahd">
-    <title lang="es">Moda</title>
+  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="liberty-346-holahd">
+    <title lang="es">La lista VIP</title>
   </programme>
-  <programme start="20261124070000 +0000" stop="20261124073000 +0000" channel="liberty-346-holahd">
-    <title lang="es">Top de estilo</title>
+  <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Cóctel de noticias</title>
   </programme>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="liberty-346-holahd">
+  <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Las consejeras de estilo</title>
+    <previously-shown/>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124063000 +0000" channel="liberty-346-holahd">
     <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Cóctel de noticias</title>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="liberty-346-holahd">
+    <title lang="es">¡Hola! TV Iconos</title>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="liberty-346-holahd">
     <title lang="es">Las reinas del shopping</title>
   </programme>
-  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="liberty-346-holahd">
-    <title lang="es">La hora Hola</title>
+  <programme start="20261124090000 +0000" stop="20261124093000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Hashtag ¡Hola! TV</title>
+  </programme>
+  <programme start="20261124093000 +0000" stop="20261124100000 +0000" channel="liberty-346-holahd">
+    <title lang="es">Coronas y palacios</title>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124103000 +0000" channel="liberty-346-holahd">
-    <title lang="es">El álbum de las celebridades</title>
+    <title lang="es">La lista VIP</title>
   </programme>
   <programme start="20261124103000 +0000" stop="20261124110000 +0000" channel="liberty-346-holahd">
-    <title lang="es">Top de estilo</title>
+    <title lang="es">Tendencias SXXI</title>
   </programme>
   <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="liberty-346-holahd">
     <title lang="es">La hora Hola</title>
@@ -211783,18 +211840,15 @@
     <title lang="es">Coronas y palacios</title>
   </programme>
   <programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="liberty-346-holahd">
-    <title lang="es">Programa pagado</title>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
-    <sub-titles/>
+    <title lang="es">La Dr. Polo vida sin límites</title>
   </programme>
   <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="liberty-346-holahd">
     <title lang="es">Video Fashion News</title>
   </programme>
-  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="liberty-346-holahd">
+  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="liberty-346-holahd">
+    <title lang="es">La Dr. Polo vida sin límites</title>
+  </programme>
+  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="liberty-346-holahd">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>

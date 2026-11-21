@@ -567,6 +567,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
 "title": "Fons & Porter's Love of Quilting"
 },
+"EP015507510017": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Teacher Harriet shows the class the school's vegetable garden; Miss Elaina encourages Daniel to try some new food.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9175156_b_v12_ap.jpg",
+"title": "Daniel Tiger's Neighborhood"
+},
 "EP016152860524": {
 "category": "Cooking",
 "desc": "Bean with bacon soup; jalapeño and chow chow cornbread; bourbon apple pie with cranberries, raisins and pecans.",
@@ -1158,6 +1169,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
 },
+"EP049548040011": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla bakes a cake without a recipe; Everett teaches his cat new tricks using sounds and symbols.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP049548040036": {
 "categories": [
 "Animated",
@@ -1199,6 +1221,17 @@
 ],
 "category": "Animated",
 "desc": "Nico and Arugula start a hamster sitter business; Carl is afraid to tell his Mama that his new shoes hurt his feet.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
+"title": "Carl the Collector"
+},
+"EP052844640021": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Carl's medium-sized fuchsia yo-yo goes missing from his collection; a rainy day changes Carl's pool day plans.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
 "title": "Carl the Collector"
 },
@@ -1275,6 +1308,17 @@
 ],
 "category": "Animated",
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP059042210012": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The Hunters investigate a weather mystery surrounding massive rocks that move on their own in the desert.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
@@ -1587,6 +1631,17 @@
 "desc": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p934716_b_v8_ac.jpg",
 "title": "Telenoticias"
+},
+"SH004054840000": {
+"categories": [
+"Children",
+"Outdoors",
+"Nature"
+],
+"category": "Children",
+"desc": "\"Into the Outdoors\" aims to get kids to want to go outside to explore, discover and understand the natural world around them. Part science lesson and part travelogue, the show not only tells viewers that they should help with energy conservation, it also explains why energy conservation is important. The young explorers featured on the show uncover the science behind sensible solutions to creating a healthy planet. But it's not all about science, there's craziness and laughter mixed in, because -- well -- learning should be fun.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p409135_b_v12_ac.jpg",
+"title": "Into the Outdoors"
 },
 "SH004397550000": {
 "category": "Variety",
