@@ -387,6 +387,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880103": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin and Chris must take Aviva's new Creature Power Challenge when they argue over who gets to keep a creature souvenir.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880111": {
 "categories": [
 "Children",
@@ -667,6 +678,17 @@
 ],
 "category": "Animated",
 "desc": "Squeeks needs to find her missing magnifying glass in time for the Rock Stars Club meeting; the gang tracks down a sweet scent.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
+"title": "Nature Cat"
+},
+"EP022687710233": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The gang searches for the Leaf Fairy; Nature Cat's waterskiing stunts are interrupted by a swarm of bugs.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
 "title": "Nature Cat"
 },
@@ -1028,6 +1050,12 @@
 "EP044513200001": {
 "category": "Documentary",
 "desc": "Con motivo del centenario de la apertura de la tumba del rey Tutankamón, se echa un vistazo a los misterios de su vida y su entierro.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22922937_b_v12_ab.jpg",
+"title": "Tutankhamun: Allies & Enemies"
+},
+"EP044513200002": {
+"category": "Documentary",
+"desc": "Se exploran los misterios de la vida y la muerte de Tutankamón. La arqueóloga Yasmin El Shazly y el fotógrafo Mahmoud Rashad se reúnen con historiadores, arqueólogos y científicos para analizar las circunstancias de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p22922937_b_v12_ab.jpg",
 "title": "Tutankhamun: Allies & Enemies"
 },
@@ -1836,6 +1864,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18804974_b_v8_ab.jpg",
 "title": "An Arthur Thanksgiving"
 },
+"SH037623020000": {
+"categories": [
+"Documentary",
+"Biography"
+],
+"category": "Documentary",
+"desc": "El visionario trabajo y la vida turbulenta del escritor Ernest Hemingway, además de su influencia en la literatura y la cultura.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19464607_b_v8_ac.jpg",
+"title": "Hemingway"
+},
 "SH037623630000": {
 "categories": [
 "Newsmagazine",
@@ -1867,6 +1905,12 @@
 "desc": "Los hermanos Reyes están dispuestos a vengar la muerte de su hermana menor. El plan cambia de rumbo cuando conocen a las hermanas Elizondo, hijas del hacendado a quien culpan de su tragedia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p20469169_b_v8_aa.jpg",
 "title": "Pasión de gavilanes"
+},
+"SH039718770000": {
+"category": "Musical",
+"desc": "Íntimas presentaciones musicales en el escenario de The Old Steeple, en el pueblo victoriano de Ferndale, California.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18448455_b_v8_aa.jpg",
+"title": "Live From The Old Steeple"
 },
 "SH041970320000": {
 "category": "Documentary",
