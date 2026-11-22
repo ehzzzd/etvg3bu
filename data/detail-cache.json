@@ -273,6 +273,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800154": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The CyberSquad awaits the return of Kacy's Comet, but a glaring light in the sky blocks out all the stars.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800156": {
 "categories": [
 "Animated",
@@ -687,6 +698,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11086138_b_v12_bi.jpg",
 "title": "Odd Squad"
 },
+"EP022687710230": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Nature Cat must find music made by nature for the Nature Dance Party; Nature Cat's new toy goes missing.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
+"title": "Nature Cat"
+},
 "EP022687710231": {
 "categories": [
 "Animated",
@@ -934,6 +956,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072143": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320010": {
 "categories": [
 "Animated",
@@ -1008,6 +1036,17 @@
 ],
 "category": "Animated",
 "desc": "Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
+"EP034893320076": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Hail Caesar helps the crew search for a self-flying cape that took off from the store; AJ, Lucita and Sara get caught inside Schmubble Bubbles.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
@@ -1461,6 +1500,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },
+"EP065640260006": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Outta Space makes everything float; three little Space Spiders leave their webs all over Reader Valley; a giant jam blob oozes through town.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
+},
 "EP065640260010": {
 "categories": [
 "Animated",
@@ -1885,6 +1935,12 @@
 "desc": "Fernanda Castillo (Roxana Rodiles Gallardo), Raúl Méndez (Alejandro Ferrer), Matías Novoa (Daniel Laborde / Eduardo Tapia Garcia \"El Tilapia\")",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18354593_b_v12_aa.jpg",
 "title": "Enemigo íntimo"
+},
+"SH029256040000": {
+"category": "Documentary",
+"desc": "Recorra la historia, los viajes, la educación y la diversión de los museos estadounidenses. Explore el espacio exterior, el mundo submarino, el taller de Da Vinci, un submarino de la Segunda Guerra Mundial y mucho más.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21211740_b_v8_aa.jpg",
+"title": "Museum Access"
 },
 "SH030407970000": {
 "categories": [
