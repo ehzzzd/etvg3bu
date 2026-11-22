@@ -2959,22 +2959,44 @@
   </programme>
   <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Wild Kratts The Vanishing Stingray</title>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <category lang="es">Science</category>
+    <desc lang="es">Martin and Chris search for a creature with good hiding powers -- the stingray -- for a game of Creature Hide and Seek.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Weather Hunters A Dark and Stormy Night</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">The Hunters search for a way to monitor the weather after they lose power during a thunderstorm.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Lyla in the Loop Un-make a Mess; Hide and Go Stu</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla and Luke clean their room with help from Stu; Stu learns how to play hide-and-seek.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Carl the Collector A Collection to Get Rid of; The Button Collection</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Carl and his friends clean up the Fuzzytown Park; Carl accidentally breaks the birthday present Sheldon planned to give his mom.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Psicología 123</title>
@@ -3303,6 +3325,8 @@
   </programme>
   <programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Matemáticas 120. Introducción al álgebra</title>
@@ -3764,6 +3788,8 @@
   </programme>
   <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Ciencias Sociales</title>
@@ -3913,6 +3939,8 @@
   </programme>
   <programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Painting With Wilson Bickford Evening Palms</title>
@@ -4004,6 +4032,8 @@
   </programme>
   <programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Psicología 123</title>
@@ -12292,14 +12322,22 @@
     <title lang="es">OCTV News</title>
     <new/>
   </programme>
-  <programme start="20261126043500 +0000" stop="20261126053500 +0000" channel="liberty-16-wseesat">
-    <title lang="es">Comics Unleashed With Byron Allen</title>
+  <programme start="20261126043500 +0000" stop="20261126050500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Comics Unleashed With Byron Allen Shayma Tash; Matt McClowry; Jared Goldstein; Rob Ward</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126053500 +0000" stop="20261126063500 +0000" channel="liberty-16-wseesat">
-    <title lang="es">Funny You Should Ask</title>
+  <programme start="20261126050500 +0000" stop="20261126053500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Comics Unleashed With Byron Allen Eleanor Kerrigan; Jordan Conley; Eddie Ifft; Allen Strickland Williams</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126053500 +0000" stop="20261126060500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Funny You Should Ask Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Natasha Leggero; Jay Mohr</title>
     <new/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126060500 +0000" stop="20261126063500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Funny You Should Ask</title>
     <sub-titles/>
   </programme>
   <programme start="20261126063500 +0000" stop="20261126070500 +0000" channel="liberty-16-wseesat">
@@ -14415,7 +14453,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="liberty-19-cnn">
-    <title lang="es">Have I Got News for You November 21, 2026: Adam Kinzinger, Aaron Parnas</title>
+    <title lang="es">Have I Got News for You Adam Kinzinger, Aaron Parnas</title>
     <new/>
     <sub-titles/>
   </programme>
@@ -14429,7 +14467,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="liberty-19-cnn">
-    <title lang="es">Have I Got News for You November 21, 2026: Adam Kinzinger, Aaron Parnas</title>
+    <title lang="es">Have I Got News for You Adam Kinzinger, Aaron Parnas</title>
     <sub-titles/>
   </programme>
   <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="liberty-19-cnn">
@@ -25945,31 +25983,31 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122031500 +0000" channel="liberty-34-espn">
+  <programme start="20261122000000 +0000" stop="20261122033300 +0000" channel="liberty-34-espn">
     <title lang="es">College Football Virginia Tech at Miami</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122031500 +0000" stop="20261122061500 +0000" channel="liberty-34-espn">
+  <programme start="20261122033300 +0000" stop="20261122072000 +0000" channel="liberty-34-espn">
     <title lang="es">College Football Oklahoma State at Arizona State</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122061500 +0000" stop="20261122080000 +0000" channel="liberty-34-espn">
+  <programme start="20261122072000 +0000" stop="20261122082000 +0000" channel="liberty-34-espn">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="liberty-34-espn">
+  <programme start="20261122082000 +0000" stop="20261122092100 +0000" channel="liberty-34-espn">
     <title lang="es">College Football Final</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="liberty-34-espn">
+  <programme start="20261122092100 +0000" stop="20261122095100 +0000" channel="liberty-34-espn">
     <title lang="es">NFL Matchup Week 11</title>
     <sub-titles/>
   </programme>
-  <programme start="20261122093000 +0000" stop="20261122113000 +0000" channel="liberty-34-espn">
+  <programme start="20261122095100 +0000" stop="20261122113000 +0000" channel="liberty-34-espn">
     <title lang="es">College Football Virginia Tech at Miami</title>
     <new/>
     <sub-titles/>
@@ -27189,52 +27227,52 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122000000 +0000" stop="20261122033300 +0000" channel="liberty-37-espnd">
     <title lang="es">Fútbol Americano Universitario Virginia Tech vs. Miami</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122030000 +0000" stop="20261122050000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122033300 +0000" stop="20261122050000 +0000" channel="liberty-37-espnd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122050000 +0000" stop="20261122060700 +0000" channel="liberty-37-espnd">
     <title lang="es">Fútbol picante</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122060700 +0000" stop="20261122070700 +0000" channel="liberty-37-espnd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122070700 +0000" stop="20261122075900 +0000" channel="liberty-37-espnd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122075900 +0000" stop="20261122085900 +0000" channel="liberty-37-espnd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122085900 +0000" stop="20261122095900 +0000" channel="liberty-37-espnd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122095900 +0000" stop="20261122105900 +0000" channel="liberty-37-espnd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="liberty-37-espnd">
+  <programme start="20261122105900 +0000" stop="20261122115900 +0000" channel="liberty-37-espnd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261122125500 +0000" channel="liberty-37-espnd">
+  <programme start="20261122115900 +0000" stop="20261122125500 +0000" channel="liberty-37-espnd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>
@@ -77202,12 +77240,10 @@
   </programme>
   <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="liberty-104-oxygen">
     <title lang="es">Prosecuting Evil With Kelly Siegler Blood Against Blood</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="liberty-104-oxygen">
     <title lang="es">Homicide for the Holidays Season of Secrets</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="liberty-104-oxygen">
@@ -110442,11 +110478,11 @@
   <programme start="20261125051600 +0000" stop="20261125060600 +0000" channel="liberty-140-idl">
     <title lang="es">Devoción mortal Cura por Cienciologia</title>
   </programme>
-  <programme start="20261125060600 +0000" stop="20261125065600 +0000" channel="liberty-140-idl">
+  <programme start="20261125060600 +0000" stop="20261125065700 +0000" channel="liberty-140-idl">
     <title lang="es">Cuando el mal se disfraza Disfruta el momento mientras dure</title>
     <sub-titles/>
   </programme>
-  <programme start="20261125065600 +0000" stop="20261125083600 +0000" channel="liberty-140-idl">
+  <programme start="20261125065700 +0000" stop="20261125083600 +0000" channel="liberty-140-idl">
     <title lang="es">Demonios de Hollywood Estrellas infantiles fuera de control</title>
   </programme>
   <programme start="20261125083600 +0000" stop="20261125092400 +0000" channel="liberty-140-idl">
@@ -111330,11 +111366,11 @@
   <programme start="20261125051600 +0000" stop="20261125060600 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Devoción mortal Cura por Cienciologia</title>
   </programme>
-  <programme start="20261125060600 +0000" stop="20261125065600 +0000" channel="liberty-140-idl-alt340">
+  <programme start="20261125060600 +0000" stop="20261125065700 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Cuando el mal se disfraza Disfruta el momento mientras dure</title>
     <sub-titles/>
   </programme>
-  <programme start="20261125065600 +0000" stop="20261125083600 +0000" channel="liberty-140-idl-alt340">
+  <programme start="20261125065700 +0000" stop="20261125083600 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Demonios de Hollywood Estrellas infantiles fuera de control</title>
   </programme>
   <programme start="20261125083600 +0000" stop="20261125092400 +0000" channel="liberty-140-idl-alt340">
@@ -115660,43 +115696,56 @@
     <title lang="es">Casas de ensueño frente al mar</title>
   </programme>
   <programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Happy &amp; Zen</title>
+    <title lang="es">Las consejeras de estilo</title>
+    <previously-shown/>
   </programme>
   <programme start="20261129003000 +0000" stop="20261129013000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Moda</title>
+    <title lang="es">Especiales realeza William y Kate, reinventando la paternidad</title>
   </programme>
   <programme start="20261129013000 +0000" stop="20261129020000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Coronas y palacios</title>
+    <title lang="es">Cóctel de noticias</title>
   </programme>
   <programme start="20261129020000 +0000" stop="20261129030000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Especiales realeza</title>
+    <title lang="es">Moda</title>
   </programme>
   <programme start="20261129030000 +0000" stop="20261129040000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La casa de vacaciones perfecta</title>
-  </programme>
-  <programme start="20261129040000 +0000" stop="20261129050000 +0000" channel="liberty-146-holatv">
     <title lang="es">Íntimo y personal</title>
   </programme>
-  <programme start="20261129050000 +0000" stop="20261129053000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Happy &amp; Zen</title>
+  <programme start="20261129040000 +0000" stop="20261129043000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Fashion Forward</title>
   </programme>
-  <programme start="20261129053000 +0000" stop="20261129060000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Coronas y palacios</title>
+  <programme start="20261129043000 +0000" stop="20261129050000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Cóctel de noticias</title>
   </programme>
-  <programme start="20261129060000 +0000" stop="20261129070000 +0000" channel="liberty-146-holatv">
-    <title lang="es">La casa de vacaciones perfecta</title>
+  <programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Moda</title>
   </programme>
-  <programme start="20261129070000 +0000" stop="20261129090000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Íntimo y personal</title>
+  <programme start="20261129060000 +0000" stop="20261129063000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261129063000 +0000" stop="20261129070000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Fashion Forward</title>
+  </programme>
+  <programme start="20261129070000 +0000" stop="20261129080000 +0000" channel="liberty-146-holatv">
+    <title lang="es">¡Hola! TV Iconos</title>
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129083000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Cóctel de noticias</title>
+  </programme>
+  <programme start="20261129083000 +0000" stop="20261129090000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Tendencias SXXI</title>
   </programme>
   <programme start="20261129090000 +0000" stop="20261129093000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Vidas Reales</title>
+    <title lang="es">Hashtag ¡Hola! TV</title>
   </programme>
-  <programme start="20261129093000 +0000" stop="20261129103000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Especiales realeza</title>
+  <programme start="20261129093000 +0000" stop="20261129100000 +0000" channel="liberty-146-holatv">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20261129100000 +0000" stop="20261129103000 +0000" channel="liberty-146-holatv">
+    <title lang="es">La lista VIP</title>
   </programme>
   <programme start="20261129103000 +0000" stop="20261129110000 +0000" channel="liberty-146-holatv">
-    <title lang="es">Coronas y palacios</title>
+    <title lang="es">Tendencias SXXI</title>
   </programme>
   <programme start="20261129110000 +0000" stop="20261129120000 +0000" channel="liberty-146-holatv">
     <title lang="es">¡Hola! TV Iconos</title>
@@ -133337,22 +133386,44 @@
   </programme>
   <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Wild Kratts The Vanishing Stingray</title>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <category lang="es">Science</category>
+    <desc lang="es">Martin and Chris search for a creature with good hiding powers -- the stingray -- for a game of Creature Hide and Seek.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Weather Hunters A Dark and Stormy Night</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">The Hunters search for a way to monitor the weather after they lose power during a thunderstorm.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Lyla in the Loop Un-make a Mess; Hide and Go Stu</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla and Luke clean their room with help from Stu; Stu learns how to play hide-and-seek.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Carl the Collector A Collection to Get Rid of; The Button Collection</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Educational</category>
+    <desc lang="es">Carl and his friends clean up the Fuzzytown Park; Carl accidentally breaks the birthday present Sheldon planned to give his mom.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Psicología 123</title>
@@ -133681,6 +133752,8 @@
   </programme>
   <programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Matemáticas 120. Introducción al álgebra</title>
@@ -134142,6 +134215,8 @@
   </programme>
   <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Ciencias Sociales</title>
@@ -134291,6 +134366,8 @@
   </programme>
   <programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Painting With Wilson Bickford Evening Palms</title>
@@ -134382,6 +134459,8 @@
   </programme>
   <programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Introducción a la gerencia Mana</title>
+    <category lang="es">Public affairs</category>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg"/>
   </programme>
   <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Psicología 123</title>
@@ -142700,7 +142779,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="liberty-219-cnnhd">
-    <title lang="es">Have I Got News for You November 21, 2026: Adam Kinzinger, Aaron Parnas</title>
+    <title lang="es">Have I Got News for You Adam Kinzinger, Aaron Parnas</title>
     <new/>
     <sub-titles/>
   </programme>
@@ -142714,7 +142793,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="liberty-219-cnnhd">
-    <title lang="es">Have I Got News for You November 21, 2026: Adam Kinzinger, Aaron Parnas</title>
+    <title lang="es">Have I Got News for You Adam Kinzinger, Aaron Parnas</title>
     <sub-titles/>
   </programme>
   <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="liberty-219-cnnhd">
@@ -150121,12 +150200,10 @@
   </programme>
   <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="liberty-227-oxygnhd">
     <title lang="es">Prosecuting Evil With Kelly Siegler Blood Against Blood</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="liberty-227-oxygnhd">
     <title lang="es">Homicide for the Holidays Season of Secrets</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="liberty-227-oxygnhd">
@@ -155486,31 +155563,31 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122031500 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122000000 +0000" stop="20261122033300 +0000" channel="liberty-234-espnhd">
     <title lang="es">College Football Virginia Tech at Miami</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122031500 +0000" stop="20261122061500 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122033300 +0000" stop="20261122072000 +0000" channel="liberty-234-espnhd">
     <title lang="es">College Football Oklahoma State at Arizona State</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122061500 +0000" stop="20261122080000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122072000 +0000" stop="20261122082000 +0000" channel="liberty-234-espnhd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122082000 +0000" stop="20261122092100 +0000" channel="liberty-234-espnhd">
     <title lang="es">College Football Final</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122092100 +0000" stop="20261122095100 +0000" channel="liberty-234-espnhd">
     <title lang="es">NFL Matchup Week 11</title>
     <sub-titles/>
   </programme>
-  <programme start="20261122093000 +0000" stop="20261122113000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122095100 +0000" stop="20261122113000 +0000" channel="liberty-234-espnhd">
     <title lang="es">College Football Virginia Tech at Miami</title>
     <new/>
     <sub-titles/>
@@ -157678,52 +157755,52 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122000000 +0000" stop="20261122033300 +0000" channel="liberty-237-espndhd">
     <title lang="es">Fútbol Americano Universitario Virginia Tech vs. Miami</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122030000 +0000" stop="20261122050000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122033300 +0000" stop="20261122050000 +0000" channel="liberty-237-espndhd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122050000 +0000" stop="20261122060700 +0000" channel="liberty-237-espndhd">
     <title lang="es">Fútbol picante</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122060700 +0000" stop="20261122070700 +0000" channel="liberty-237-espndhd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122070700 +0000" stop="20261122075900 +0000" channel="liberty-237-espndhd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122075900 +0000" stop="20261122085900 +0000" channel="liberty-237-espndhd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122085900 +0000" stop="20261122095900 +0000" channel="liberty-237-espndhd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122095900 +0000" stop="20261122105900 +0000" channel="liberty-237-espndhd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122105900 +0000" stop="20261122115900 +0000" channel="liberty-237-espndhd">
     <title lang="es">Fútbol picante</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261122125500 +0000" channel="liberty-237-espndhd">
+  <programme start="20261122115900 +0000" stop="20261122125500 +0000" channel="liberty-237-espndhd">
     <title lang="es">SportsCenter</title>
     <new/>
     <sub-titles/>

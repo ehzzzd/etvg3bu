@@ -470,6 +470,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
 "title": "Wild Kratts"
 },
+"EP013451880156": {
+"categories": [
+"Children",
+"Educational",
+"Science"
+],
+"category": "Children",
+"desc": "Martin and Chris search for a creature with good hiding powers -- the stingray -- for a game of Creature Hide and Seek.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8369911_b_v12_am.jpg",
+"title": "Wild Kratts"
+},
 "EP013451880159": {
 "categories": [
 "Children",
@@ -1236,6 +1247,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
 },
+"EP049548040010": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla and Luke clean their room with help from Stu; Stu learns how to play hide-and-seek.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP049548040011": {
 "categories": [
 "Animated",
@@ -1279,6 +1301,17 @@
 "desc": "Pressure builds as students tackle the first round of competition, answering judges' questions in the style of Congressional hearings and showing an understanding of democracy and how it connects to their lives.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
 "title": "Citizen Nation"
+},
+"EP052844640015": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Carl and his friends clean up the Fuzzytown Park; Carl accidentally breaks the birthday present Sheldon planned to give his mom.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28255941_b_v8_aa.jpg",
+"title": "Carl the Collector"
 },
 "EP052844640018": {
 "categories": [
@@ -1375,6 +1408,17 @@
 ],
 "category": "Animated",
 "desc": "Tandi Fomukong (Lily Hunter - Voice), Al Roker (Al Hunter - Voice), Holly Robinson Peete (Dot Hunter - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
+"EP059042210011": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The Hunters search for a way to monitor the weather after they lose power during a thunderstorm.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
@@ -2071,6 +2115,11 @@
 "desc": "Lo último en análisis político y de actualidad, con espacio para opinión, entrevistas e información exclusiva.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987262_b_v8_ab.jpg",
 "title": "Primera pregunta"
+},
+"SH046842750000": {
+"category": "Public affairs",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24345025_b_v8_aa.jpg",
+"title": "Introducción a la gerencia Mana"
 },
 "SH047594960000": {
 "category": "Special",
