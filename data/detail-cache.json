@@ -102,6 +102,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184075_b_v11_aa.jpg",
 "title": "Great Performances"
 },
+"EP000174790886": {
+"category": "Music",
+"desc": "Marking conductor Gustavo Dudamel's debut with the New York Philharmonic with Mahler's Symphony No. 5 and a world premiere from Tania León.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184075_b_v11_aa.jpg",
+"title": "Great Performances"
+},
 "EP000441070034": {
 "categories": [
 "Animated",
@@ -852,6 +858,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
 "title": "Firing Line With Margaret Hoover"
 },
+"EP029516380451": {
+"categories": [
+"Public affairs",
+"Interview",
+"Debate"
+],
+"category": "Public affairs",
+"desc": "Former American Express CEO Ken Chenault calls on business leaders to defend democracy and national security, comments on AI and midterms and reflects on his career.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15429319_b_v8_aa.jpg",
+"title": "Firing Line With Margaret Hoover"
+},
 "EP029777970026": {
 "categories": [
 "Animated",
@@ -1113,6 +1130,17 @@
 ],
 "category": "News",
 "desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25350982_b_v12_aa.jpg",
+"title": "Washington Week With The Atlantic"
+},
+"EP048303190180": {
+"categories": [
+"News",
+"Public affairs",
+"Politics"
+],
+"category": "News",
+"desc": "Susan Glasser, The New Yorker; Adam Harris, Radio Atlantic; Nancy Youssef, The Atlantic.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25350982_b_v12_aa.jpg",
 "title": "Washington Week With The Atlantic"
 },
@@ -2134,6 +2162,17 @@
 "category": "Documentary",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33995788_b_v12_aa.jpg",
 "title": "Brothers and Borders"
+},
+"SH066089930000": {
+"categories": [
+"Animated",
+"Children",
+"Special"
+],
+"category": "Animated",
+"desc": "A young hero races to find Lion's stolen crown, meeting 13 animals preparing for the Carnival of the Animals; with music by Gustavo Dudamel and the Los Angeles Philharmonic.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34080628_b_v8_aa.jpg",
+"title": "Carnival of the Animals"
 },
 "SH066369480000": {
 "categories": [
