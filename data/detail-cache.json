@@ -1,4 +1,14 @@
 {
+"EP000004390647": {
+"categories": [
+"Music",
+"Concert"
+],
+"category": "Music",
+"desc": "Grammy and Academy Award winner Jon Batiste performs tunes from \"Big Money.\"",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184304_b_v12_aa.jpg",
+"title": "Austin City Limits"
+},
 "EP000004390661": {
 "categories": [
 "Music",
@@ -18,6 +28,16 @@
 "desc": "An investigation into how industry and government have failed to protect miners in Appalachia from black lung disease.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184043_b_v12_aa.jpg",
 "title": "Frontline"
+},
+"EP000029300306": {
+"categories": [
+"Children",
+"Educational"
+],
+"category": "Children",
+"desc": "Electric cars; a search is organized for the missing Prince Tuesday.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9169477_b_v8_aa.jpg",
+"title": "Mister Rogers' Neighborhood"
 },
 "EP000029300325": {
 "categories": [
@@ -219,6 +239,17 @@
 "title": "Cyberchase"
 },
 "EP003618800046": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Christopher Lloyd (Voice), Gilbert Gottfried (Voice), Novie Edwards (Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
+"EP003618800057": {
 "categories": [
 "Animated",
 "Children",
@@ -1101,6 +1132,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21977501_b_v12_ae.jpg",
 "title": "The Great American Recipe"
 },
+"EP042659280012": {
+"categories": [
+"Cooking",
+"Competition Reality"
+],
+"category": "Cooking",
+"desc": "The cooks prepare grab-and-go meals, from breakfast burritos to musubi; in the second round, the cooks make home-baked treats and part of the first \"Great American Recipe\" Bake Sale.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p21977501_b_v12_ae.jpg",
+"title": "The Great American Recipe"
+},
 "EP042753140001": {
 "category": "Travel",
 "desc": "Exploring the hottest place on Earth; an ultra-marathoner runs in the summer heat; the mayor of a town of one; an elder of the Timbisha Shoshone Tribe.",
@@ -1489,6 +1530,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
 "title": "Bookish"
 },
+"EP059312690003": {
+"category": "Crime drama",
+"desc": "There's excitement in the air when a film crew arrive at Archangel Lane, until an extra drops dead after eating poisoned chocolates meant for one of the cast.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
+"title": "Bookish"
+},
 "EP060025880001": {
 "categories": [
 "Documentary",
@@ -1508,6 +1555,17 @@
 ],
 "category": "Documentary",
 "desc": "Congress puts George Washington in command of a new Continental Army; Congress declares American independence in July 1776.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
+"title": "The American Revolution"
+},
+"EP060025880003": {
+"categories": [
+"Documentary",
+"History",
+"American history"
+],
+"category": "Documentary",
+"desc": "British General Howe defeats General Washington, forcing the Americans to abandon New York; Washington's army regroups in New Jersey before attacking an outpost at Trenton.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31007708_b_v12_aa.jpg",
 "title": "The American Revolution"
 },
