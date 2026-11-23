@@ -381,6 +381,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
 "title": "Secrets of the Dead"
 },
+"EP005388240591": {
+"category": "How-to",
+"desc": "Playing with curved piecing to make a Tulip Dance runner; testing two methods -- a three-pin method and a freezer paper template method.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
+"title": "Fons & Porter's Love of Quilting"
+},
 "EP010131490392": {
 "categories": [
 "How-to",
@@ -1321,6 +1327,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
 "title": "Lyla in the Loop"
 },
+"EP049548170023": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lyla supera su miedo a escalar rocas. Un juego de acertijos sobre objetos cotidianos creados por inventores negros.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg",
+"title": "Lyla in the Loop"
+},
 "EP051534370001": {
 "categories": [
 "Travel",
@@ -1496,6 +1513,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
 "title": "Weather Hunters"
 },
+"EP059042210022": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Lily, Corky and Benny attempt to film their own weather broadcast, but need Great Grandpa Wallace's tools to create their weathercast.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg",
+"title": "Weather Hunters"
+},
 "EP059042210023": {
 "categories": [
 "Animated",
@@ -1588,6 +1616,17 @@
 ],
 "category": "Animated",
 "desc": "A giant bookworm is eating its way through Reader Valley; Outta Space ruins a picnic by making it rain; Villains race the Super Readers.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
+"title": "Super Why's Comic Book Adventures"
+},
+"EP065640260004": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Mr. More's bubble bath goes wrong when his super strong bubbles start trapping everyone; characters come out of a book and wreck the library; a Letter Fog causes chaos.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg",
 "title": "Super Why's Comic Book Adventures"
 },

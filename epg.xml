@@ -2887,6 +2887,11 @@
   </programme>
   <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Super Why's Comic Book Adventures The More, the Bubblier!; Super Problems AT the Library!; The Letter Fog!</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Adventure</category>
+    <desc lang="es">Mr. More's bubble bath goes wrong when his super strong bubbles start trapping everyone; characters come out of a book and wreck the library; a Letter Fog causes chaos.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="liberty-3-wmtj">
@@ -2900,10 +2905,20 @@
   </programme>
   <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Weather Hunters The Weathercast</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lily, Corky and Benny attempt to film their own weather broadcast, but need Great Grandpa Wallace's tools to create their weathercast.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Lyla in the Loop Lyla Gets a Grip; Rappin' Riddles</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla supera su miedo a escalar rocas. Un juego de acertijos sobre objetos cotidianos creados por inventores negros.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="liberty-3-wmtj">
@@ -2917,6 +2932,9 @@
   </programme>
   <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="liberty-3-wmtj">
     <title lang="es">Fons &amp; Porter's Love of Quilting Tulip Dance</title>
+    <category lang="es">How-to</category>
+    <desc lang="es">Playing with curved piecing to make a Tulip Dance runner; testing two methods -- a three-pin method and a freezer paper template method.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="liberty-3-wmtj">
@@ -4457,21 +4475,19 @@
     <title lang="es">Super Chef Celebrities</title>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Destan</title>
+    <title lang="es">Más allá del amor</title>
   </programme>
   <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="liberty-4-wapa">
-    <title lang="es">El remix</title>
+    <title lang="es">NCIS</title>
+    <sub-titles/>
   </programme>
   <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 p. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261126033000 +0000" stop="20261126053000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Soñar contigo</title>
+  <programme start="20261126033000 +0000" stop="20261126050000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Almas heridas</title>
   </programme>
-  <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 p. m.</title>
-  </programme>
-  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="liberty-4-wapa">
+  <programme start="20261126050000 +0000" stop="20261126063000 +0000" channel="liberty-4-wapa">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -4488,36 +4504,29 @@
     <title lang="es">Lo sé todo</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126085600 +0000" stop="20261126093000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro al amanecer: Primera edición</title>
+  <programme start="20261126085600 +0000" stop="20261126110000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Sing 2 (2021, Animated)</title>
   </programme>
-  <programme start="20261126093000 +0000" stop="20261126140000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro al amanecer</title>
-    <sub-titles/>
+  <programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Cloudy With a Chance of Meatballs 2 (2013, Animated)</title>
   </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Enfermeras</title>
+  <programme start="20261126130000 +0000" stop="20261126150000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Beethoven 5 (2003, Children)</title>
   </programme>
-  <programme start="20261126150000 +0000" stop="20261126153000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Noticentro 11 a. m.</title>
+  <programme start="20261126150000 +0000" stop="20261126170000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Paddington 2 (2017, Family)</title>
   </programme>
-  <programme start="20261126153000 +0000" stop="20261126170000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Pégate al mediodía</title>
+  <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Clifford the Big Red Dog (2021, Children)</title>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Viva la tarde</title>
+  <programme start="20261126190000 +0000" stop="20261126210000 +0000" channel="liberty-4-wapa">
+    <title lang="es">Jack the Giant Slayer (2013, Fantasy)</title>
   </programme>
-  <programme start="20261126180000 +0000" stop="20261126193000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Lo sé todo</title>
-  </programme>
-  <programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Los datos son los datos</title>
-  </programme>
-  <programme start="20261126200000 +0000" stop="20261126213000 +0000" channel="liberty-4-wapa">
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-4-wapa">
     <title lang="es">Noticentro edición estelar</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126230000 +0000" channel="liberty-4-wapa">
-    <title lang="es">Melissa</title>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-4-wapa">
+    <title lang="es">The Accountant (2016, Thriller)</title>
   </programme>
   <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="liberty-4-wapa">
     <title lang="es">Película</title>
@@ -6689,89 +6698,60 @@
     <sub-titles/>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="liberty-11-wlii">
-    <title lang="es">La bóveda de Teleonce</title>
+    <title lang="es">Puerto Rico: Sabor a Navidad</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Enamorándonos</title>
-    <previously-shown/>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="liberty-11-wlii">
+  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-11-wlii">
     <title lang="es">Las noticias: Última edición</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="liberty-11-wlii">
-    <title lang="es">La rosa de los milagros</title>
+  <programme start="20261126020000 +0000" stop="20261126040000 +0000" channel="liberty-11-wlii">
+    <title lang="es">The Host (2020, Crime drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126040000 +0000" stop="20261126060000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Programa pagado</title>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Paid Program</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Vecinos</title>
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Las noticias</title>
+    <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="liberty-11-wlii">
-    <title lang="es">La Familia Peluche</title>
+  <programme start="20261126090000 +0000" stop="20261126110000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Something so Right (1982, Drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="liberty-11-wlii">
-    <title lang="es">El gordo y la flaca</title>
+  <programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Firehouse Dog (2007, Children)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126080000 +0000" stop="20261126093000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Primer impacto</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126093000 +0000" stop="20261126110000 +0000" channel="liberty-11-wlii">
-    <title lang="es">El Chavo del ocho</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126110000 +0000" stop="20261126140000 +0000" channel="liberty-11-wlii">
-    <title lang="es">En la mañana</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Las hijas de la señora García</title>
+  <programme start="20261126130000 +0000" stop="20261126150000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Hidden Orchard Mysteries: The Case of the Air B &amp; B Robbery (2020, Children)</title>
     <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Papás por conveniencia</title>
+    <title lang="es">El road trip del chef sin papeles</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Las noticias del mediodía</title>
+  <programme start="20261126160000 +0000" stop="20261126180000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Accidental Family (2022, Romantic comedy)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-11-wlii">
-    <title lang="es">PR en vivo</title>
+  <programme start="20261126180000 +0000" stop="20261126200000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Love's Kitchen (2011, Romantic comedy)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="liberty-11-wlii">
-    <title lang="es">El poder del pueblo</title>
+  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="liberty-11-wlii">
+    <title lang="es">5 Weddings (2018, Comedy drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Las noticias ahora</title>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Un soneo pa'l cielo</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Las noticias prime</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="liberty-11-wlii">
-    <title lang="es">La Última Palabra</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126223000 +0000" stop="20261127000000 +0000" channel="liberty-11-wlii">
-    <title lang="es">Jugando pelota dura</title>
+  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="liberty-11-wlii">
+    <title lang="es">Una Navidad diferente con TeleOnce</title>
     <sub-titles/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="liberty-11-wlii">
@@ -10447,7 +10427,6 @@
   </programme>
   <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-15-woradt">
     <title lang="es">The View</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-15-woradt">
@@ -10462,7 +10441,6 @@
   </programme>
   <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="liberty-15-woradt">
     <title lang="es">General Hospital</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="liberty-15-woradt">
@@ -11282,7 +11260,6 @@
   </programme>
   <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-15-woradt-alt215">
     <title lang="es">The View</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-15-woradt-alt215">
@@ -11297,7 +11274,6 @@
   </programme>
   <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="liberty-15-woradt-alt215">
     <title lang="es">General Hospital</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="liberty-15-woradt-alt215">
@@ -12210,14 +12186,22 @@
     <title lang="es">OCTV News</title>
     <new/>
   </programme>
-  <programme start="20261126043500 +0000" stop="20261126053500 +0000" channel="liberty-16-wseesat">
-    <title lang="es">Comics Unleashed With Byron Allen</title>
+  <programme start="20261126043500 +0000" stop="20261126050500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Comics Unleashed With Byron Allen Shayma Tash; Matt McClowry; Jared Goldstein; Rob Ward</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126053500 +0000" stop="20261126063500 +0000" channel="liberty-16-wseesat">
-    <title lang="es">Funny You Should Ask</title>
+  <programme start="20261126050500 +0000" stop="20261126053500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Comics Unleashed With Byron Allen Eleanor Kerrigan; Jordan Conley; Eddie Ifft; Allen Strickland Williams</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126053500 +0000" stop="20261126060500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Funny You Should Ask Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Natasha Leggero; Jay Mohr</title>
     <new/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126060500 +0000" stop="20261126063500 +0000" channel="liberty-16-wseesat">
+    <title lang="es">Funny You Should Ask</title>
     <sub-titles/>
   </programme>
   <programme start="20261126063500 +0000" stop="20261126070500 +0000" channel="liberty-16-wseesat">
@@ -12261,7 +12245,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126153000 +0000" channel="liberty-16-wseesat">
-    <title lang="es">On the Go PR</title>
+    <title lang="es">ICOPR</title>
   </programme>
   <programme start="20261126153000 +0000" stop="20261126160000 +0000" channel="liberty-16-wseesat">
     <title lang="es">Judge Judy Dog Poisoning?!; Mom Not a Fan of My Wife!</title>
@@ -13391,7 +13375,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-17-wsjxlp">
-    <title lang="es">College Basketball Teams TBA</title>
+    <title lang="es">College Basketball Fort Myers Tip-Off, Beach Division: Oklahoma vs. Purdue</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -19071,10 +19055,10 @@
     <title lang="es">Conclusiones</title>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126173000 +0000" channel="liberty-23-cnne">
-    <title lang="es">GloboEconomía</title>
+    <title lang="es">GloboEconomía Brasil: economía y mercados</title>
   </programme>
   <programme start="20261126173000 +0000" stop="20261126180000 +0000" channel="liberty-23-cnne">
-    <title lang="es">Showbiz</title>
+    <title lang="es">Showbiz Ojo crítico: "Llueve sobre Babel"</title>
   </programme>
   <programme start="20261126180000 +0000" stop="20261126210000 +0000" channel="liberty-23-cnne">
     <title lang="es">Redacción con Nacho Girón</title>
@@ -22288,8 +22272,20 @@
     <previously-shown/>
     <sub-titles/>
   </programme>
-  <programme start="20261126090000 +0000" stop="20261126120000 +0000" channel="liberty-29-lrw">
+  <programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="liberty-29-lrw">
     <title lang="es">Paid Programming</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="liberty-29-lrw">
+    <title lang="es">Tired of Pain? Go Drug-Free</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126113000 +0000" channel="liberty-29-lrw">
+    <title lang="es">Paid Programming</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="liberty-29-lrw">
+    <title lang="es">Tired of Pain? Go Drug-Free</title>
     <sub-titles/>
   </programme>
   <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="liberty-29-lrw">
@@ -26048,12 +26044,12 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122223000 +0000" stop="20261123003000 +0000" channel="liberty-34-espn">
+  <programme start="20261122223000 +0000" stop="20261123003500 +0000" channel="liberty-34-espn">
     <title lang="es">Women's College Basketball UCLA at Tennessee</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261123003000 +0000" stop="20261123013000 +0000" channel="liberty-34-espn">
+  <programme start="20261123003500 +0000" stop="20261123013000 +0000" channel="liberty-34-espn">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
@@ -26063,12 +26059,12 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261123033000 +0000" stop="20261123043000 +0000" channel="liberty-34-espn">
+  <programme start="20261123033000 +0000" stop="20261123042800 +0000" channel="liberty-34-espn">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261123043000 +0000" stop="20261123060000 +0000" channel="liberty-34-espn">
+  <programme start="20261123042800 +0000" stop="20261123060000 +0000" channel="liberty-34-espn">
     <title lang="es">SportsCenter With Scott Van Pelt</title>
     <live/>
     <sub-titles/>
@@ -30413,30 +30409,24 @@
   <programme start="20261125210000 +0000" stop="20261125230000 +0000" channel="liberty-44-wapadt2">
     <title lang="es">La línea deportiva</title>
   </programme>
-  <programme start="20261125230000 +0000" stop="20261125233000 +0000" channel="liberty-44-wapadt2">
+  <programme start="20261125230000 +0000" stop="20261126020000 +0000" channel="liberty-44-wapadt2">
     <title lang="es">Béisbol de la República Dominicana LIDOM Leones del Escogido vs. Águilas Cibaeñas</title>
     <live/>
   </programme>
-  <programme start="20261125233000 +0000" stop="20261126003000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Basketball Stories</title>
-  </programme>
-  <programme start="20261126003000 +0000" stop="20261126030000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Baloncesto NBA</title>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Shaq: The Rookie Season</title>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">World Sailing Show</title>
-  </programme>
-  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Play Ball</title>
+  <programme start="20261126020000 +0000" stop="20261126050000 +0000" channel="liberty-44-wapadt2">
+    <title lang="es">Béisbol de la República Dominicana LIDOM Gigantes del Cibao vs. Toros del Este</title>
   </programme>
   <programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">NBA Stories</title>
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+    <sub-titles/>
   </programme>
   <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">NBA Action</title>
+    <title lang="es">Boat Racing Grand Prix Sailing Show</title>
   </programme>
   <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="liberty-44-wapadt2">
     <title lang="es">La línea deportiva</title>
@@ -30445,26 +30435,26 @@
     <title lang="es">Super Estrellas de la Lucha Libre</title>
   </programme>
   <programme start="20261126090000 +0000" stop="20261126160000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Paid Programming</title>
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-44-wapadt2">
+  <programme start="20261126160000 +0000" stop="20261126180000 +0000" channel="liberty-44-wapadt2">
     <title lang="es">La línea deportiva</title>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126203000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Béisbol Serie del Caribe</title>
+  <programme start="20261126180000 +0000" stop="20261126210000 +0000" channel="liberty-44-wapadt2">
+    <title lang="es">Béisbol de la República Dominicana LIDOM Leones del Escogido vs. Águilas Cibaeñas</title>
   </programme>
-  <programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">Play Ball</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">NBA Stories</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">NBA Action</title>
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-44-wapadt2">
+    <title lang="es">La línea deportiva</title>
   </programme>
   <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-44-wapadt2">
-    <title lang="es">La línea deportiva</title>
+    <title lang="es">Clasificatorias para la Copa Mundial FIBA 2027 Uruguay vs. Canadá</title>
+    <live/>
   </programme>
   <programme start="20261126230000 +0000" stop="20261127013000 +0000" channel="liberty-44-wapadt2">
     <title lang="es">Baloncesto NBA</title>
@@ -30976,30 +30966,24 @@
   <programme start="20261125210000 +0000" stop="20261125230000 +0000" channel="liberty-44-wapadt2-alt244">
     <title lang="es">La línea deportiva</title>
   </programme>
-  <programme start="20261125230000 +0000" stop="20261125233000 +0000" channel="liberty-44-wapadt2-alt244">
+  <programme start="20261125230000 +0000" stop="20261126020000 +0000" channel="liberty-44-wapadt2-alt244">
     <title lang="es">Béisbol de la República Dominicana LIDOM Leones del Escogido vs. Águilas Cibaeñas</title>
     <live/>
   </programme>
-  <programme start="20261125233000 +0000" stop="20261126003000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Basketball Stories</title>
-  </programme>
-  <programme start="20261126003000 +0000" stop="20261126030000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Baloncesto NBA</title>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Shaq: The Rookie Season</title>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">World Sailing Show</title>
-  </programme>
-  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Play Ball</title>
+  <programme start="20261126020000 +0000" stop="20261126050000 +0000" channel="liberty-44-wapadt2-alt244">
+    <title lang="es">Béisbol de la República Dominicana LIDOM Gigantes del Cibao vs. Toros del Este</title>
   </programme>
   <programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">NBA Stories</title>
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+    <sub-titles/>
   </programme>
   <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">NBA Action</title>
+    <title lang="es">Boat Racing Grand Prix Sailing Show</title>
   </programme>
   <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="liberty-44-wapadt2-alt244">
     <title lang="es">La línea deportiva</title>
@@ -31008,26 +30992,26 @@
     <title lang="es">Super Estrellas de la Lucha Libre</title>
   </programme>
   <programme start="20261126090000 +0000" stop="20261126160000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Paid Programming</title>
+    <title lang="es">Programa pagado</title>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
     <sub-titles/>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-44-wapadt2-alt244">
+  <programme start="20261126160000 +0000" stop="20261126180000 +0000" channel="liberty-44-wapadt2-alt244">
     <title lang="es">La línea deportiva</title>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126203000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Béisbol Serie del Caribe</title>
+  <programme start="20261126180000 +0000" stop="20261126210000 +0000" channel="liberty-44-wapadt2-alt244">
+    <title lang="es">Béisbol de la República Dominicana LIDOM Leones del Escogido vs. Águilas Cibaeñas</title>
   </programme>
-  <programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">Play Ball</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">NBA Stories</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">NBA Action</title>
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-44-wapadt2-alt244">
+    <title lang="es">La línea deportiva</title>
   </programme>
   <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-44-wapadt2-alt244">
-    <title lang="es">La línea deportiva</title>
+    <title lang="es">Clasificatorias para la Copa Mundial FIBA 2027 Uruguay vs. Canadá</title>
+    <live/>
   </programme>
   <programme start="20261126230000 +0000" stop="20261127013000 +0000" channel="liberty-44-wapadt2-alt244">
     <title lang="es">Baloncesto NBA</title>
@@ -68821,7 +68805,8 @@
     <sub-titles/>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="liberty-87-unvso">
-    <title lang="es">Acércate a Rocío</title>
+    <title lang="es">Acércate a Rocío Mi media hermana es la amante de mi marido</title>
+    <sub-titles/>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-87-unvso">
     <title lang="es">Caso cerrado Dinero de menores; Boda iluminada</title>
@@ -68834,8 +68819,9 @@
     <sub-titles/>
   </programme>
   <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="liberty-87-unvso">
-    <title lang="es">Acércate a Rocío</title>
+    <title lang="es">Acércate a Rocío Me discriminan por ser bonita</title>
     <new/>
+    <sub-titles/>
   </programme>
   <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="liberty-87-unvso">
     <title lang="es">Lo que callamos las mujeres Cinthia: ¿Y si no hay mañana?</title>
@@ -68907,7 +68893,11 @@
     <previously-shown/>
     <sub-titles/>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="liberty-87-unvso">
+  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="liberty-87-unvso">
+    <title lang="es">Acércate a Rocío Me discriminan por ser bonita</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="liberty-87-unvso">
     <title lang="es">Acércate a Rocío</title>
   </programme>
   <programme start="20261127010000 +0000" stop="20261127012000 +0000" channel="liberty-87-unvso">
@@ -70568,16 +70558,16 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261125013000 +0000" stop="20261125025000 +0000" channel="liberty-89-tvei">
+  <programme start="20261125013000 +0000" stop="20261125024500 +0000" channel="liberty-89-tvei">
     <title lang="es">La revuelta</title>
     <sub-titles/>
   </programme>
-  <programme start="20261125025000 +0000" stop="20261125052000 +0000" channel="liberty-89-tvei">
+  <programme start="20261125024500 +0000" stop="20261125040500 +0000" channel="liberty-89-tvei">
     <title lang="es">La cena de los idiotas</title>
     <sub-titles/>
   </programme>
-  <programme start="20261125052000 +0000" stop="20261125061500 +0000" channel="liberty-89-tvei">
-    <title lang="es">Sukha</title>
+  <programme start="20261125040500 +0000" stop="20261125061500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Al cielo con ella</title>
     <sub-titles/>
   </programme>
   <programme start="20261125061500 +0000" stop="20261125065000 +0000" channel="liberty-89-tvei">
@@ -70654,12 +70644,8 @@
     <title lang="es">La promesa</title>
     <sub-titles/>
   </programme>
-  <programme start="20261125234000 +0000" stop="20261125234500 +0000" channel="liberty-89-tvei">
+  <programme start="20261125234000 +0000" stop="20261126003000 +0000" channel="liberty-89-tvei">
     <title lang="es">Sukha</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261125234500 +0000" stop="20261126003000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Turismo rural en el mundo</title>
     <sub-titles/>
   </programme>
   <programme start="20261126003000 +0000" stop="20261126010000 +0000" channel="liberty-89-tvei">
@@ -70668,83 +70654,68 @@
   </programme>
   <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="liberty-89-tvei">
     <title lang="es">TD Internacional</title>
+    <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126013000 +0000" stop="20261126021500 +0000" channel="liberty-89-tvei">
-    <title lang="es">4 estrellas</title>
+  <programme start="20261126013000 +0000" stop="20261126025000 +0000" channel="liberty-89-tvei">
+    <title lang="es">La revuelta</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126021500 +0000" stop="20261126054000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Baila como puedas</title>
-    <previously-shown/>
+  <programme start="20261126025000 +0000" stop="20261126053500 +0000" channel="liberty-89-tvei">
+    <title lang="es">El perro andaluz by Manu Sánchez</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126054000 +0000" stop="20261126063500 +0000" channel="liberty-89-tvei">
-    <title lang="es">Comerse el mundo</title>
+  <programme start="20261126053500 +0000" stop="20261126065000 +0000" channel="liberty-89-tvei">
+    <title lang="es">La cena de los idiotas</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126063500 +0000" stop="20261126070000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Zoom Net</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126070000 +0000" stop="20261126094000 +0000" channel="liberty-89-tvei">
+  <programme start="20261126065000 +0000" stop="20261126093500 +0000" channel="liberty-89-tvei">
     <title lang="es">La hora de la 1</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126094000 +0000" stop="20261126102000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Turismo rural en el mundo</title>
+  <programme start="20261126093500 +0000" stop="20261126135500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Mañaneros 360</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126102000 +0000" stop="20261126111500 +0000" channel="liberty-89-tvei">
-    <title lang="es">La aventura del saber</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126111500 +0000" stop="20261126121000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Salón de té La Moderna</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126121000 +0000" stop="20261126131000 +0000" channel="liberty-89-tvei">
-    <title lang="es">La promesa</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126131000 +0000" stop="20261126140000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Ahora o nunca</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126140000 +0000" stop="20261126145000 +0000" channel="liberty-89-tvei">
+  <programme start="20261126135500 +0000" stop="20261126143000 +0000" channel="liberty-89-tvei">
     <title lang="es">Telediario 1a edición</title>
+    <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126145000 +0000" stop="20261126180500 +0000" channel="liberty-89-tvei">
-    <title lang="es">Mañaneros</title>
+  <programme start="20261126143000 +0000" stop="20261126143500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Deportes</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126180500 +0000" stop="20261126181500 +0000" channel="liberty-89-tvei">
-    <title lang="es">Cámara abierta</title>
+  <programme start="20261126143500 +0000" stop="20261126144000 +0000" channel="liberty-89-tvei">
+    <title lang="es">El tiempo</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126181500 +0000" stop="20261126191500 +0000" channel="liberty-89-tvei">
-    <title lang="es">El comodín de la 1</title>
+  <programme start="20261126144000 +0000" stop="20261126145000 +0000" channel="liberty-89-tvei">
+    <title lang="es">Aquí la Tierra</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126191500 +0000" stop="20261126200000 +0000" channel="liberty-89-tvei">
+  <programme start="20261126145000 +0000" stop="20261126165500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Directo al Grano</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126165500 +0000" stop="20261126175000 +0000" channel="liberty-89-tvei">
+    <title lang="es">Senderos con Juan y Migas</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126175000 +0000" stop="20261126183500 +0000" channel="liberty-89-tvei">
     <title lang="es">Saber y ganar</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126205500 +0000" channel="liberty-89-tvei">
-    <title lang="es">Telediario 2</title>
+  <programme start="20261126183500 +0000" stop="20261126184500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Aquí la Tierra</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126205500 +0000" stop="20261126215000 +0000" channel="liberty-89-tvei">
-    <title lang="es">La promesa</title>
+  <programme start="20261126184500 +0000" stop="20261126194500 +0000" channel="liberty-89-tvei">
+    <title lang="es">Malas lenguas</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126215000 +0000" stop="20261126225000 +0000" channel="liberty-89-tvei">
-    <title lang="es">Salón de té La Moderna</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126225000 +0000" stop="20261126235000 +0000" channel="liberty-89-tvei">
-    <title lang="es">El cazador</title>
+  <programme start="20261126194500 +0000" stop="20261126235000 +0000" channel="liberty-89-tvei">
+    <title lang="es">La gran decisión</title>
     <sub-titles/>
   </programme>
   <programme start="20261126235000 +0000" stop="20261127002000 +0000" channel="liberty-89-tvei">
@@ -75072,8 +75043,12 @@
     <title lang="es">Smile Makeover: Nuvia's Permanent Teeth in 24 hours</title>
     <sub-titles/>
   </programme>
-  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="liberty-101-reelz">
+  <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="liberty-101-reelz">
     <title lang="es">Paid Programming</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="liberty-101-reelz">
+    <title lang="es">Car Repair Secrets!</title>
     <sub-titles/>
   </programme>
   <programme start="20261127140000 +0000" stop="20261127170000 +0000" channel="liberty-101-reelz">
@@ -77433,12 +77408,10 @@
   </programme>
   <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="liberty-104-oxygen">
     <title lang="es">Snapped: Killer Moms Sarah Hartsfield</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="liberty-104-oxygen">
     <title lang="es">Catfish Murders A Deadly Impersonator</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="liberty-104-oxygen">
@@ -79841,18 +79814,18 @@
     <title lang="es">Novias XL: la boutique</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125112500 +0000" stop="20261125121500 +0000" channel="liberty-108-dheal">
+  <programme start="20261125112500 +0000" stop="20261125121800 +0000" channel="liberty-108-dheal">
     <title lang="es">Dra. Sandra Lee: directo al grano Un jugoso secreto</title>
   </programme>
-  <programme start="20261125121500 +0000" stop="20261125135100 +0000" channel="liberty-108-dheal">
+  <programme start="20261125121800 +0000" stop="20261125140000 +0000" channel="liberty-108-dheal">
     <title lang="es">Kilos mortales: sus vidas hoy Dottie y Cynthia</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125135100 +0000" stop="20261125152700 +0000" channel="liberty-108-dheal">
+  <programme start="20261125140000 +0000" stop="20261125154200 +0000" channel="liberty-108-dheal">
     <title lang="es">Kilos mortales: sus vidas hoy Charity y Charly y Teretha</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125152700 +0000" stop="20261125170300 +0000" channel="liberty-108-dheal">
+  <programme start="20261125154200 +0000" stop="20261125170300 +0000" channel="liberty-108-dheal">
     <title lang="es">Kilos mortales: sus vidas hoy Los hermanos Assanti</title>
     <previously-shown/>
   </programme>
@@ -79893,9 +79866,11 @@
   </programme>
   <programme start="20261126020000 +0000" stop="20261126024500 +0000" channel="liberty-108-dheal">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261126024500 +0000" stop="20261126033000 +0000" channel="liberty-108-dheal">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261126033000 +0000" stop="20261126051000 +0000" channel="liberty-108-dheal">
     <title lang="es">MasterChef Celebrity Colombia Una oportunidad más</title>
@@ -79904,15 +79879,15 @@
     <title lang="es">Historias de peso: Clínica de obesidad Lillino</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126064600 +0000" channel="liberty-108-dheal">
+  <programme start="20261126060000 +0000" stop="20261126064800 +0000" channel="liberty-108-dheal">
     <title lang="es">Historias de peso: Clínica de obesidad Nora</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126064600 +0000" stop="20261126081800 +0000" channel="liberty-108-dheal">
+  <programme start="20261126064800 +0000" stop="20261126082200 +0000" channel="liberty-108-dheal">
     <title lang="es">Kilos mortales: sus vidas hoy Angie J</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126081800 +0000" stop="20261126095000 +0000" channel="liberty-108-dheal">
+  <programme start="20261126082200 +0000" stop="20261126095000 +0000" channel="liberty-108-dheal">
     <title lang="es">Kilos mortales: sus vidas hoy Angie J</title>
     <previously-shown/>
   </programme>
@@ -79930,7 +79905,7 @@
     <previously-shown/>
   </programme>
   <programme start="20261126112600 +0000" stop="20261126121500 +0000" channel="liberty-108-dheal">
-    <title lang="es">Dra. Sandra Lee: directo al grano Llámame la gran reventadora</title>
+    <title lang="es">Dra. Sandra Lee: directo al grano El súper pegamento al rescate</title>
   </programme>
   <programme start="20261126121500 +0000" stop="20261126130400 +0000" channel="liberty-108-dheal">
     <title lang="es">Hermanos a la obra: Bajo presión Un día para decidir</title>
@@ -79983,6 +79958,7 @@
   </programme>
   <programme start="20261126234500 +0000" stop="20261127003000 +0000" channel="liberty-108-dheal">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261127003000 +0000" stop="20261127011500 +0000" channel="liberty-108-dheal">
     <title lang="es">Efecto Brulée</title>
@@ -80729,18 +80705,18 @@
     <title lang="es">Novias XL: la boutique</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125112500 +0000" stop="20261125121500 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261125112500 +0000" stop="20261125121800 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Dra. Sandra Lee: directo al grano Un jugoso secreto</title>
   </programme>
-  <programme start="20261125121500 +0000" stop="20261125135100 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261125121800 +0000" stop="20261125140000 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Kilos mortales: sus vidas hoy Dottie y Cynthia</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125135100 +0000" stop="20261125152700 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261125140000 +0000" stop="20261125154200 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Kilos mortales: sus vidas hoy Charity y Charly y Teretha</title>
     <previously-shown/>
   </programme>
-  <programme start="20261125152700 +0000" stop="20261125170300 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261125154200 +0000" stop="20261125170300 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Kilos mortales: sus vidas hoy Los hermanos Assanti</title>
     <previously-shown/>
   </programme>
@@ -80781,9 +80757,11 @@
   </programme>
   <programme start="20261126020000 +0000" stop="20261126024500 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261126024500 +0000" stop="20261126033000 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261126033000 +0000" stop="20261126051000 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">MasterChef Celebrity Colombia Una oportunidad más</title>
@@ -80792,15 +80770,15 @@
     <title lang="es">Historias de peso: Clínica de obesidad Lillino</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126064600 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261126060000 +0000" stop="20261126064800 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Historias de peso: Clínica de obesidad Nora</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126064600 +0000" stop="20261126081800 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261126064800 +0000" stop="20261126082200 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Kilos mortales: sus vidas hoy Angie J</title>
     <previously-shown/>
   </programme>
-  <programme start="20261126081800 +0000" stop="20261126095000 +0000" channel="liberty-108-dheal-alt308">
+  <programme start="20261126082200 +0000" stop="20261126095000 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Kilos mortales: sus vidas hoy Angie J</title>
     <previously-shown/>
   </programme>
@@ -80818,7 +80796,7 @@
     <previously-shown/>
   </programme>
   <programme start="20261126112600 +0000" stop="20261126121500 +0000" channel="liberty-108-dheal-alt308">
-    <title lang="es">Dra. Sandra Lee: directo al grano Llámame la gran reventadora</title>
+    <title lang="es">Dra. Sandra Lee: directo al grano El súper pegamento al rescate</title>
   </programme>
   <programme start="20261126121500 +0000" stop="20261126130400 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Hermanos a la obra: Bajo presión Un día para decidir</title>
@@ -80871,6 +80849,7 @@
   </programme>
   <programme start="20261126234500 +0000" stop="20261127003000 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Efecto Brulée</title>
+    <previously-shown/>
   </programme>
   <programme start="20261127003000 +0000" stop="20261127011500 +0000" channel="liberty-108-dheal-alt308">
     <title lang="es">Efecto Brulée</title>
@@ -82945,12 +82924,15 @@
   <programme start="20261126103000 +0000" stop="20261126113000 +0000" channel="liberty-111-postv">
     <title lang="es">Water for Life</title>
   </programme>
-  <programme start="20261126113000 +0000" stop="20261126130000 +0000" channel="liberty-111-postv">
+  <programme start="20261126113000 +0000" stop="20261126123000 +0000" channel="liberty-111-postv">
+    <title lang="es">Natural Blood Pressure Management</title>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="liberty-111-postv">
     <title lang="es">Paid Programming</title>
     <sub-titles/>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126133000 +0000" channel="liberty-111-postv">
-    <title lang="es">Lawson Perdue, Grace for Today</title>
+    <title lang="es">Natural Blood Pressure Management</title>
   </programme>
   <programme start="20261126133000 +0000" stop="20261126140000 +0000" channel="liberty-111-postv">
     <title lang="es">Men's Health - All-Natural Secret for Prostate Health</title>
@@ -99802,8 +99784,7 @@
     <title lang="es">The Aging Brain</title>
   </programme>
   <programme start="20261126120000 +0000" stop="20261126123000 +0000" channel="liberty-129-cin">
-    <title lang="es">Paid Programming</title>
-    <sub-titles/>
+    <title lang="es">Pain Relief Revealed</title>
   </programme>
   <programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="liberty-129-cin">
     <title lang="es">Natural Blood Pressure Management</title>
@@ -105776,8 +105757,7 @@
     <title lang="es">Natural Blood Pressure Management</title>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="liberty-135-fyisd">
-    <title lang="es">Paid Programming</title>
-    <sub-titles/>
+    <title lang="es">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
   </programme>
   <programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="liberty-135-fyisd">
     <title lang="es">The Aging Brain</title>
@@ -107028,9 +107008,17 @@
   <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-136-vice">
     <title lang="es">Hamilton's Pharmacopeia The Lazy Lizard School of Hedonism</title>
   </programme>
-  <programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="liberty-136-vice">
-    <title lang="es">Paid Programming</title>
-    <sub-titles/>
+  <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="liberty-136-vice">
+    <title lang="es">Joint Relief Revolution</title>
+  </programme>
+  <programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="liberty-136-vice">
+    <title lang="es">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
+  </programme>
+  <programme start="20261126120000 +0000" stop="20261126123000 +0000" channel="liberty-136-vice">
+    <title lang="es">Joint Relief Revolution</title>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="liberty-136-vice">
+    <title lang="es">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126133000 +0000" channel="liberty-136-vice">
     <title lang="es">Black Market With Michael K. Williams New Jersey Drive</title>
@@ -110833,13 +110821,13 @@
   <programme start="20261125155600 +0000" stop="20261125164600 +0000" channel="liberty-140-idl">
     <title lang="es">Asesinatos en las redes sociales De pobreza a riqueza... a furia</title>
   </programme>
-  <programme start="20261125164600 +0000" stop="20261125173600 +0000" channel="liberty-140-idl">
+  <programme start="20261125164600 +0000" stop="20261125173700 +0000" channel="liberty-140-idl">
     <title lang="es">Parientes Perversos La casa de los secretos</title>
   </programme>
-  <programme start="20261125173600 +0000" stop="20261125191600 +0000" channel="liberty-140-idl">
+  <programme start="20261125173700 +0000" stop="20261125192200 +0000" channel="liberty-140-idl">
     <title lang="es">Demonios de Hollywood La maldición de la garra de hierro</title>
   </programme>
-  <programme start="20261125191600 +0000" stop="20261125205600 +0000" channel="liberty-140-idl">
+  <programme start="20261125192200 +0000" stop="20261125205600 +0000" channel="liberty-140-idl">
     <title lang="es">Demonios de Hollywood Estrellas infantiles fuera de control</title>
   </programme>
   <programme start="20261125205600 +0000" stop="20261125214600 +0000" channel="liberty-140-idl">
@@ -111725,13 +111713,13 @@
   <programme start="20261125155600 +0000" stop="20261125164600 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Asesinatos en las redes sociales De pobreza a riqueza... a furia</title>
   </programme>
-  <programme start="20261125164600 +0000" stop="20261125173600 +0000" channel="liberty-140-idl-alt340">
+  <programme start="20261125164600 +0000" stop="20261125173700 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Parientes Perversos La casa de los secretos</title>
   </programme>
-  <programme start="20261125173600 +0000" stop="20261125191600 +0000" channel="liberty-140-idl-alt340">
+  <programme start="20261125173700 +0000" stop="20261125192200 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Demonios de Hollywood La maldición de la garra de hierro</title>
   </programme>
-  <programme start="20261125191600 +0000" stop="20261125205600 +0000" channel="liberty-140-idl-alt340">
+  <programme start="20261125192200 +0000" stop="20261125205600 +0000" channel="liberty-140-idl-alt340">
     <title lang="es">Demonios de Hollywood Estrellas infantiles fuera de control</title>
   </programme>
   <programme start="20261125205600 +0000" stop="20261125214600 +0000" channel="liberty-140-idl-alt340">
@@ -120032,38 +120020,53 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261126050000 +0000" stop="20261126070000 +0000" channel="liberty-150-cnni">
+  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="liberty-150-cnni">
     <title lang="es">The Story Is With Elex Michaelson</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261126070000 +0000" stop="20261126100000 +0000" channel="liberty-150-cnni">
+  <programme start="20261126060000 +0000" stop="20261126064500 +0000" channel="liberty-150-cnni">
+    <title lang="es">The Story Is With Elex Michaelson</title>
+    <live/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126064500 +0000" stop="20261126070000 +0000" channel="liberty-150-cnni">
+    <title lang="es">World Sport</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126084500 +0000" channel="liberty-150-cnni">
+    <title lang="es">CNN Newsroom</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126084500 +0000" stop="20261126090000 +0000" channel="liberty-150-cnni">
+    <title lang="es">World Sport</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="liberty-150-cnni">
     <title lang="es">CNN Newsroom</title>
     <sub-titles/>
   </programme>
   <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-150-cnni">
-    <title lang="es">CNN Headline Express</title>
-    <new/>
+    <title lang="es">Amanpour</title>
     <sub-titles/>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="liberty-150-cnni">
     <title lang="es">CNN This Morning</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="liberty-150-cnni">
+    <title lang="es">Iran and the Bomb: A Fareed Zakaria Special</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261126120000 +0000" stop="20261126133000 +0000" channel="liberty-150-cnni">
-    <title lang="es">CNN News Central</title>
-    <live/>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126133000 +0000" stop="20261126140000 +0000" channel="liberty-150-cnni">
-    <title lang="es">World Sport</title>
+  <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="liberty-150-cnni">
+    <title lang="es">The Trials of Lindsay Clancy</title>
     <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126140000 +0000" stop="20261126144500 +0000" channel="liberty-150-cnni">
-    <title lang="es">Connect the World</title>
-    <new/>
+    <title lang="es">Connect the World Thursday, November 26, 2026 9am ET</title>
+    <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126144500 +0000" stop="20261126150000 +0000" channel="liberty-150-cnni">
@@ -120072,28 +120075,38 @@
     <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="liberty-150-cnni">
-    <title lang="es">Connect the World</title>
-    <new/>
+    <title lang="es">Connect the World Thursday, November 26, 2026 10am ET</title>
+    <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126180000 +0000" channel="liberty-150-cnni">
-    <title lang="es">One World With Zain Asher</title>
-    <new/>
+  <programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="liberty-150-cnni">
+    <title lang="es">One World With Zain Asher Thursday, November 26, 2026 11am ET</title>
+    <live/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126163000 +0000" stop="20261126170000 +0000" channel="liberty-150-cnni">
+    <title lang="es">CNN Creators: The Intro</title>
+    <live/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-150-cnni">
+    <title lang="es">One World With Zain Asher Thursday, November 26, 2026 12pm ET</title>
+    <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="liberty-150-cnni">
     <title lang="es">Amanpour</title>
-    <new/>
+    <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="liberty-150-cnni">
     <title lang="es">Isa Soares Tonight</title>
-    <new/>
+    <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="liberty-150-cnni">
     <title lang="es">What We Know With Max Foster</title>
-    <new/>
+    <live/>
     <sub-titles/>
   </programme>
   <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-150-cnni">
@@ -120101,20 +120114,16 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="liberty-150-cnni">
-    <title lang="es">The Lead With Jake Tapper</title>
-    <new/>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-150-cnni">
+    <title lang="es">Amanpour</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="liberty-150-cnni">
-    <title lang="es">World Sport</title>
-    <live/>
+  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="liberty-150-cnni">
+    <title lang="es">Global Perspectives In Bangkok</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="liberty-150-cnni">
-    <title lang="es">The Brief With Jim Sciutto</title>
-    <new/>
-    <sub-titles/>
+  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="liberty-150-cnni">
+    <title lang="es">To Be Announced</title>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="liberty-150-cnni">
     <title lang="es">The Trials of Lindsay Clancy</title>
@@ -124491,7 +124500,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261124013000 +0000" stop="20261124033000 +0000" channel="liberty-155-sec">
-    <title lang="es">Women's College Volleyball SEC Tournament, Second Semifinal: Teams TBA</title>
+    <title lang="es">Women's College Volleyball SEC Tournament: Vanderbilt vs. Kentucky</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -125100,13 +125109,17 @@
     <title lang="es">El Chiringuito de Jugones</title>
     <live/>
   </programme>
-  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-156-fxdep">
+  <programme start="20261126000000 +0000" stop="20261126020000 +0000" channel="liberty-156-fxdep">
+    <title lang="es">Fútbol Argentino Primera División Boca Juniors vs. Independiente Rivadavia</title>
+    <live/>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="liberty-156-fxdep">
     <title lang="es">Referentes</title>
     <new/>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126040000 +0000" channel="liberty-156-fxdep">
-    <title lang="es">Fútbol Colombiano Primera División</title>
-    <live/>
+  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="liberty-156-fxdep">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <new/>
   </programme>
   <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="liberty-156-fxdep">
     <title lang="es">FOX 365</title>
@@ -125117,16 +125130,13 @@
     <live/>
   </programme>
   <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="liberty-156-fxdep">
-    <title lang="es">Los espartanos con José Pablo Coello</title>
-    <new/>
+    <title lang="es">FOX 365</title>
   </programme>
   <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="liberty-156-fxdep">
     <title lang="es">Cuadro titular</title>
-    <sub-titles/>
   </programme>
   <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-156-fxdep">
     <title lang="es">FOX 365</title>
-    <sub-titles/>
   </programme>
   <programme start="20261126090000 +0000" stop="20261126120000 +0000" channel="liberty-156-fxdep">
     <title lang="es">Programa pagado</title>
@@ -125140,19 +125150,15 @@
   </programme>
   <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="liberty-156-fxdep">
     <title lang="es">FOX 365</title>
-    <sub-titles/>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="liberty-156-fxdep">
     <title lang="es">Cuadro titular</title>
-    <sub-titles/>
   </programme>
   <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-156-fxdep">
     <title lang="es">FOX 365</title>
-    <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126170000 +0000" channel="liberty-156-fxdep">
     <title lang="es">El Chiringuito de Jugones</title>
-    <new/>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-156-fxdep">
     <title lang="es">Nación Centroamérica</title>
@@ -125163,8 +125169,7 @@
     <new/>
   </programme>
   <programme start="20261126190000 +0000" stop="20261126210000 +0000" channel="liberty-156-fxdep">
-    <title lang="es">Fútbol Saudi Pro League</title>
-    <live/>
+    <title lang="es">Fútbol Argentino Primera División Boca Juniors vs. Independiente Rivadavia</title>
   </programme>
   <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="liberty-156-fxdep">
     <title lang="es">FOXD NFL Pregame</title>
@@ -130287,10 +130292,13 @@
   <programme start="20261125230000 +0000" stop="20261125233000 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Tendance XXI Lison de Caunes; Pascal Montfort</title>
   </programme>
-  <programme start="20261125233000 +0000" stop="20261126003300 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261125233000 +0000" stop="20261126002100 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Le Point</title>
   </programme>
-  <programme start="20261126003300 +0000" stop="20261126010000 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126002100 +0000" stop="20261126003800 +0000" channel="liberty-190-tv5mond">
+    <title lang="es">Démo de mode</title>
+  </programme>
+  <programme start="20261126003800 +0000" stop="20261126010000 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Un si grand soleil</title>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126013100 +0000" channel="liberty-190-tv5mond">
@@ -130303,7 +130311,7 @@
     <title lang="es">Le 23h</title>
   </programme>
   <programme start="20261126043100 +0000" stop="20261126060300 +0000" channel="liberty-190-tv5mond">
-    <title lang="es">Échappées belles</title>
+    <title lang="es">Échappées belles Ouganda, une aventure inoubliable</title>
   </programme>
   <programme start="20261126060300 +0000" stop="20261126062800 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Le 6h info</title>
@@ -130314,8 +130322,11 @@
   <programme start="20261126075900 +0000" stop="20261126084800 +0000" channel="liberty-190-tv5mond">
     <title lang="es">OPJ Abusés</title>
   </programme>
-  <programme start="20261126084800 +0000" stop="20261126100800 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126084800 +0000" stop="20261126093800 +0000" channel="liberty-190-tv5mond">
     <title lang="es">OPJ Abusés</title>
+  </programme>
+  <programme start="20261126093800 +0000" stop="20261126100800 +0000" channel="liberty-190-tv5mond">
+    <title lang="es">Le match dans le match</title>
   </programme>
   <programme start="20261126100800 +0000" stop="20261126103000 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Un si grand soleil</title>
@@ -130344,16 +130355,19 @@
   <programme start="20261126150000 +0000" stop="20261126152900 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Le journal de France 2</title>
   </programme>
-  <programme start="20261126152900 +0000" stop="20261126160000 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126152900 +0000" stop="20261126155600 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Littoral</title>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="liberty-190-tv5mond">
-    <title lang="es">Construire demain Les murs intérieurs</title>
+  <programme start="20261126155600 +0000" stop="20261126162000 +0000" channel="liberty-190-tv5mond">
+    <title lang="es">Construire demain</title>
   </programme>
-  <programme start="20261126163000 +0000" stop="20261126170000 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126162000 +0000" stop="20261126164100 +0000" channel="liberty-190-tv5mond">
     <title lang="es">L'épicerie</title>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126172900 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126164100 +0000" stop="20261126170700 +0000" channel="liberty-190-tv5mond">
+    <title lang="es">Le match dans le match</title>
+  </programme>
+  <programme start="20261126170700 +0000" stop="20261126172900 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Un si grand soleil</title>
   </programme>
   <programme start="20261126172900 +0000" stop="20261126180000 +0000" channel="liberty-190-tv5mond">
@@ -130380,8 +130394,11 @@
   <programme start="20261126200200 +0000" stop="20261126203000 +0000" channel="liberty-190-tv5mond">
     <title lang="es">C'est du Belge</title>
   </programme>
-  <programme start="20261126203000 +0000" stop="20261126213000 +0000" channel="liberty-190-tv5mond">
+  <programme start="20261126203000 +0000" stop="20261126211400 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20261126211400 +0000" stop="20261126213000 +0000" channel="liberty-190-tv5mond">
+    <title lang="es">Itinéraires paysans</title>
   </programme>
   <programme start="20261126213000 +0000" stop="20261126214200 +0000" channel="liberty-190-tv5mond">
     <title lang="es">Les comptines de Maryse</title>
@@ -133544,6 +133561,11 @@
   </programme>
   <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Super Why's Comic Book Adventures The More, the Bubblier!; Super Problems AT the Library!; The Letter Fog!</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Adventure</category>
+    <desc lang="es">Mr. More's bubble bath goes wrong when his super strong bubbles start trapping everyone; characters come out of a book and wreck the library; a Letter Fog causes chaos.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p33833853_b_v12_ab.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="liberty-203-wmtjdt">
@@ -133557,10 +133579,20 @@
   </programme>
   <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Weather Hunters The Weathercast</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lily, Corky and Benny attempt to film their own weather broadcast, but need Great Grandpa Wallace's tools to create their weathercast.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p30699963_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Lyla in the Loop Lyla Gets a Grip; Rappin' Riddles</title>
+    <category lang="es">Animated</category>
+    <category lang="es">Children</category>
+    <category lang="es">Entertainment</category>
+    <desc lang="es">Lyla supera su miedo a escalar rocas. Un juego de acertijos sobre objetos cotidianos creados por inventores negros.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p26268938_b_v12_aa.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="liberty-203-wmtjdt">
@@ -133574,6 +133606,9 @@
   </programme>
   <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="liberty-203-wmtjdt">
     <title lang="es">Fons &amp; Porter's Love of Quilting Tulip Dance</title>
+    <category lang="es">How-to</category>
+    <desc lang="es">Playing with curved piecing to make a Tulip Dance runner; testing two methods -- a three-pin method and a freezer paper template method.</desc>
+    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg"/>
     <sub-titles/>
   </programme>
   <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="liberty-203-wmtjdt">
@@ -135114,21 +135149,19 @@
     <title lang="es">Super Chef Celebrities</title>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Destan</title>
+    <title lang="es">Más allá del amor</title>
   </programme>
   <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">El remix</title>
+    <title lang="es">NCIS</title>
+    <sub-titles/>
   </programme>
   <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 p. m.</title>
+    <title lang="es">Noticentro</title>
   </programme>
-  <programme start="20261126033000 +0000" stop="20261126053000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Soñar contigo</title>
+  <programme start="20261126033000 +0000" stop="20261126050000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Almas heridas</title>
   </programme>
-  <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 p. m.</title>
-  </programme>
-  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261126050000 +0000" stop="20261126063000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Programa pagado</title>
     <category lang="es">Consumer</category>
     <category lang="es">Shopping</category>
@@ -135145,36 +135178,29 @@
     <title lang="es">Lo sé todo</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126085600 +0000" stop="20261126093000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro al amanecer: Primera edición</title>
+  <programme start="20261126085600 +0000" stop="20261126110000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Sing 2 (2021, Animated)</title>
   </programme>
-  <programme start="20261126093000 +0000" stop="20261126140000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro al amanecer</title>
-    <sub-titles/>
+  <programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Cloudy With a Chance of Meatballs 2 (2013, Animated)</title>
   </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Enfermeras</title>
+  <programme start="20261126130000 +0000" stop="20261126150000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Beethoven 5 (2003, Children)</title>
   </programme>
-  <programme start="20261126150000 +0000" stop="20261126153000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Noticentro 11 a. m.</title>
+  <programme start="20261126150000 +0000" stop="20261126170000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Paddington 2 (2017, Family)</title>
   </programme>
-  <programme start="20261126153000 +0000" stop="20261126170000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Pégate al mediodía</title>
+  <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Clifford the Big Red Dog (2021, Children)</title>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Viva la tarde</title>
+  <programme start="20261126190000 +0000" stop="20261126210000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">Jack the Giant Slayer (2013, Fantasy)</title>
   </programme>
-  <programme start="20261126180000 +0000" stop="20261126193000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Lo sé todo</title>
-  </programme>
-  <programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Los datos son los datos</title>
-  </programme>
-  <programme start="20261126200000 +0000" stop="20261126213000 +0000" channel="liberty-204-wapadt">
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Noticentro edición estelar</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126230000 +0000" channel="liberty-204-wapadt">
-    <title lang="es">Melissa</title>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-204-wapadt">
+    <title lang="es">The Accountant (2016, Thriller)</title>
   </programme>
   <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="liberty-204-wapadt">
     <title lang="es">Película</title>
@@ -137804,89 +137830,60 @@
     <sub-titles/>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">La bóveda de Teleonce</title>
+    <title lang="es">Puerto Rico: Sabor a Navidad</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Enamorándonos</title>
-    <previously-shown/>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="liberty-211-wliidt">
+  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-211-wliidt">
     <title lang="es">Las noticias: Última edición</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">La rosa de los milagros</title>
+  <programme start="20261126020000 +0000" stop="20261126040000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">The Host (2020, Crime drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126040000 +0000" stop="20261126060000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Programa pagado</title>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://www.tvtv.us/api/v2/gn/pi/assets/p459763_b_v12_bc.jpg"/>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Paid Program</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Vecinos</title>
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Las noticias</title>
+    <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">La Familia Peluche</title>
+  <programme start="20261126090000 +0000" stop="20261126110000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Something so Right (1982, Drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">El gordo y la flaca</title>
+  <programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Firehouse Dog (2007, Children)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126080000 +0000" stop="20261126093000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Primer impacto</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126093000 +0000" stop="20261126110000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">El Chavo del ocho</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126110000 +0000" stop="20261126140000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">En la mañana</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Las hijas de la señora García</title>
+  <programme start="20261126130000 +0000" stop="20261126150000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Hidden Orchard Mysteries: The Case of the Air B &amp; B Robbery (2020, Children)</title>
     <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Papás por conveniencia</title>
+    <title lang="es">El road trip del chef sin papeles</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Las noticias del mediodía</title>
+  <programme start="20261126160000 +0000" stop="20261126180000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Accidental Family (2022, Romantic comedy)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">PR en vivo</title>
+  <programme start="20261126180000 +0000" stop="20261126200000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Love's Kitchen (2011, Romantic comedy)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">El poder del pueblo</title>
+  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">5 Weddings (2018, Comedy drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Las noticias ahora</title>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Un soneo pa'l cielo</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Las noticias prime</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">La Última Palabra</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126223000 +0000" stop="20261127000000 +0000" channel="liberty-211-wliidt">
-    <title lang="es">Jugando pelota dura</title>
+  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="liberty-211-wliidt">
+    <title lang="es">Una Navidad diferente con TeleOnce</title>
     <sub-titles/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="liberty-211-wliidt">
@@ -138708,32 +138705,52 @@
     <previously-shown/>
     <sub-titles/>
   </programme>
-  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-213-wehd">
-    <title lang="es">Paid Programming</title>
+  <programme start="20261126100000 +0000" stop="20261126103000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Smile Makeover: Nuvia's Permanent Teeth in 24 hours</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126103000 +0000" stop="20261126110000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Bathroom Makeover</title>
     <sub-titles/>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="liberty-213-wehd">
-    <title lang="es">Best Mattress Topper Ever!</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126113000 +0000" stop="20261126140000 +0000" channel="liberty-213-wehd">
     <title lang="es">Paid Programming</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-213-wehd">
+  <programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Get A Beautiful New Smile in 24 Hours</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126120000 +0000" stop="20261126123000 +0000" channel="liberty-213-wehd">
+    <title lang="es">The Aging Brain</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Smile Makeover: Nuvia's Permanent Teeth in 24 hours</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126130000 +0000" stop="20261126133000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Natural Blood Pressure Management</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126133000 +0000" stop="20261126140000 +0000" channel="liberty-213-wehd">
+    <title lang="es">Paid Programming</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126140000 +0000" stop="20261126150300 +0000" channel="liberty-213-wehd">
     <title lang="es">Love After Lockup The Road to Rehab</title>
     <previously-shown/>
     <sub-titles/>
   </programme>
-  <programme start="20261126150000 +0000" stop="20261126180200 +0000" channel="liberty-213-wehd">
+  <programme start="20261126150300 +0000" stop="20261126180700 +0000" channel="liberty-213-wehd">
     <title lang="es">The Karate Kid (1984, Drama)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126180200 +0000" stop="20261126203000 +0000" channel="liberty-213-wehd">
+  <programme start="20261126180700 +0000" stop="20261126203500 +0000" channel="liberty-213-wehd">
     <title lang="es">Groundhog Day (1993, Romantic comedy)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126203000 +0000" stop="20261126230000 +0000" channel="liberty-213-wehd">
+  <programme start="20261126203500 +0000" stop="20261126230000 +0000" channel="liberty-213-wehd">
     <title lang="es">Trading Places (1983, Comedy)</title>
     <sub-titles/>
   </programme>
@@ -140710,14 +140727,22 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126043500 +0000" stop="20261126053500 +0000" channel="liberty-216-wseedt">
-    <title lang="es">Comics Unleashed With Byron Allen</title>
+  <programme start="20261126043500 +0000" stop="20261126050500 +0000" channel="liberty-216-wseedt">
+    <title lang="es">Comics Unleashed With Byron Allen Shayma Tash; Matt McClowry; Jared Goldstein; Rob Ward</title>
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126053500 +0000" stop="20261126063500 +0000" channel="liberty-216-wseedt">
-    <title lang="es">Funny You Should Ask</title>
+  <programme start="20261126050500 +0000" stop="20261126053500 +0000" channel="liberty-216-wseedt">
+    <title lang="es">Comics Unleashed With Byron Allen Eleanor Kerrigan; Jordan Conley; Eddie Ifft; Allen Strickland Williams</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126053500 +0000" stop="20261126060500 +0000" channel="liberty-216-wseedt">
+    <title lang="es">Funny You Should Ask Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Natasha Leggero; Jay Mohr</title>
     <new/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126060500 +0000" stop="20261126063500 +0000" channel="liberty-216-wseedt">
+    <title lang="es">Funny You Should Ask</title>
     <sub-titles/>
   </programme>
   <programme start="20261126063500 +0000" stop="20261126070500 +0000" channel="liberty-216-wseedt">
@@ -141884,7 +141909,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="liberty-217-wsjxhd">
-    <title lang="es">College Basketball Teams TBA</title>
+    <title lang="es">College Basketball Fort Myers Tip-Off, Beach Division: Oklahoma vs. Purdue</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -149985,16 +150010,12 @@
     <title lang="es">Rizzoli &amp; Isles Cuts Like a Knife</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126090200 +0000" stop="20261126093200 +0000" channel="liberty-226-lifehd">
-    <title lang="es">Natural Blood Pressure Management</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126093200 +0000" stop="20261126100200 +0000" channel="liberty-226-lifehd">
-    <title lang="es">The Aging Brain</title>
+  <programme start="20261126090200 +0000" stop="20261126100200 +0000" channel="liberty-226-lifehd">
+    <title lang="es">Paid Programming</title>
     <sub-titles/>
   </programme>
   <programme start="20261126100200 +0000" stop="20261126103200 +0000" channel="liberty-226-lifehd">
-    <title lang="es">Paid Programming</title>
+    <title lang="es">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
     <sub-titles/>
   </programme>
   <programme start="20261126103200 +0000" stop="20261126110000 +0000" channel="liberty-226-lifehd">
@@ -150506,12 +150527,10 @@
   </programme>
   <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="liberty-227-oxygnhd">
     <title lang="es">Snapped: Killer Moms Sarah Hartsfield</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261123030000 +0000" stop="20261123040000 +0000" channel="liberty-227-oxygnhd">
     <title lang="es">Catfish Murders A Deadly Impersonator</title>
-    <new/>
     <sub-titles/>
   </programme>
   <programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="liberty-227-oxygnhd">
@@ -156011,12 +156030,12 @@
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261122223000 +0000" stop="20261123003000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261122223000 +0000" stop="20261123003500 +0000" channel="liberty-234-espnhd">
     <title lang="es">Women's College Basketball UCLA at Tennessee</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261123003000 +0000" stop="20261123013000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261123003500 +0000" stop="20261123013000 +0000" channel="liberty-234-espnhd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
@@ -156026,12 +156045,12 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261123033000 +0000" stop="20261123043000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261123033000 +0000" stop="20261123042800 +0000" channel="liberty-234-espnhd">
     <title lang="es">SportsCenter</title>
     <live/>
     <sub-titles/>
   </programme>
-  <programme start="20261123043000 +0000" stop="20261123060000 +0000" channel="liberty-234-espnhd">
+  <programme start="20261123042800 +0000" stop="20261123060000 +0000" channel="liberty-234-espnhd">
     <title lang="es">SportsCenter With Scott Van Pelt</title>
     <live/>
     <sub-titles/>
@@ -160153,12 +160172,12 @@
     <title lang="es">Top 20 Greatest Games 2009 Tiebreaker: Detroit Tigers vs. Minnesota Twins</title>
     <sub-titles/>
   </programme>
-  <programme start="20261122220000 +0000" stop="20261122233000 +0000" channel="liberty-240-mlbhd">
+  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="liberty-240-mlbhd">
     <title lang="es">Top 20 Greatest Games 1995 ALDS, Game 5: Seattle Mariners vs. New York Yankees</title>
     <sub-titles/>
   </programme>
-  <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="liberty-240-mlbhd">
-    <title lang="es">Top 20 Greatest Games 1993 World Series, Game 6: Philadelphia vs. Toronto</title>
+  <programme start="20261122223000 +0000" stop="20261123000000 +0000" channel="liberty-240-mlbhd">
+    <title lang="es">MLB Tonight Skubal Breaking News</title>
     <sub-titles/>
   </programme>
   <programme start="20261123000000 +0000" stop="20261123140000 +0000" channel="liberty-240-mlbhd">
@@ -161218,7 +161237,7 @@
     <title lang="es">NBA Action Inside the Lakers' Rise</title>
   </programme>
   <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="liberty-242-nbatvhd">
-    <title lang="es">Full Court 11/22/26</title>
+    <title lang="es">Full Court</title>
     <new/>
   </programme>
   <programme start="20261123043000 +0000" stop="20261123170000 +0000" channel="liberty-242-nbatvhd">
@@ -161406,7 +161425,7 @@
     <new/>
   </programme>
   <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="liberty-242-nbatvhd">
-    <title lang="es">Inside Practice Brooklyn Nets</title>
+    <title lang="es">NBA Rooks: Rookie Debuts</title>
   </programme>
   <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="liberty-242-nbatvhd">
     <title lang="es">NBA Action</title>
@@ -164221,7 +164240,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="liberty-248-bravohd">
-    <title lang="es">The Real Housewives of Potomac</title>
+    <title lang="es">The Real Housewives of Potomac Cold Beach, Hot Gossip</title>
     <previously-shown/>
     <sub-titles/>
   </programme>
@@ -169476,8 +169495,20 @@
     <title lang="es">Holiday Wars Santa's New Gig</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126080000 +0000" stop="20261126110000 +0000" channel="liberty-252-cookhd">
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-252-cookhd">
     <title lang="es">Holiday Wars Elves vs. Reindeer</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="liberty-252-cookhd">
+    <title lang="es">See Wrinkles and Bags Vanish Instantly With GEN90!!</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="liberty-252-cookhd">
+    <title lang="es">Pain Relief Revealed</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-252-cookhd">
+    <title lang="es">Paid Programming</title>
     <sub-titles/>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="liberty-252-cookhd">
@@ -174210,8 +174241,12 @@
     <title lang="es">Bathroom Makeover</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-257-fxxhd">
+  <programme start="20261126100000 +0000" stop="20261126103000 +0000" channel="liberty-257-fxxhd">
     <title lang="es">Paid Programming</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126103000 +0000" stop="20261126110000 +0000" channel="liberty-257-fxxhd">
+    <title lang="es">Pain Relief Revealed</title>
     <sub-titles/>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="liberty-257-fxxhd">
@@ -195990,7 +196025,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261124013000 +0000" stop="20261124033000 +0000" channel="liberty-277-sech">
-    <title lang="es">Women's College Volleyball SEC Tournament, Second Semifinal: Teams TBA</title>
+    <title lang="es">Women's College Volleyball SEC Tournament: Vanderbilt vs. Kentucky</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -199214,7 +199249,8 @@
     <sub-titles/>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="liberty-287-unvsohd">
-    <title lang="es">Acércate a Rocío</title>
+    <title lang="es">Acércate a Rocío Mi media hermana es la amante de mi marido</title>
+    <sub-titles/>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="liberty-287-unvsohd">
     <title lang="es">Caso cerrado Dinero de menores; Boda iluminada</title>
@@ -199227,8 +199263,9 @@
     <sub-titles/>
   </programme>
   <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="liberty-287-unvsohd">
-    <title lang="es">Acércate a Rocío</title>
+    <title lang="es">Acércate a Rocío Me discriminan por ser bonita</title>
     <new/>
+    <sub-titles/>
   </programme>
   <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="liberty-287-unvsohd">
     <title lang="es">Lo que callamos las mujeres Cinthia: ¿Y si no hay mañana?</title>
@@ -199301,7 +199338,8 @@
     <sub-titles/>
   </programme>
   <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="liberty-287-unvsohd">
-    <title lang="es">Acércate a Rocío</title>
+    <title lang="es">Acércate a Rocío Me discriminan por ser bonita</title>
+    <sub-titles/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="liberty-287-unvsohd">
     <title lang="es">Acércate a Rocío Me dicen la entierra maridos</title>
@@ -202647,12 +202685,8 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="liberty-291-idhd">
+  <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="liberty-291-idhd">
     <title lang="es">The Killer Beside Me Carpool Predator</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="liberty-291-idhd">
-    <title lang="es">Deadly Women 2.0 Fantasy Land</title>
     <sub-titles/>
   </programme>
   <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="liberty-291-idhd">
@@ -203617,20 +203651,29 @@
     <title lang="es">Destruction Decoded Hurricanes, Typhoons, Cyclones</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126040100 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos</title>
+  <programme start="20261126020000 +0000" stop="20261126030100 +0000" channel="liberty-292-scihd">
+    <title lang="es">Strip the Cosmos Terraforming Mars</title>
+    <new/>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126030100 +0000" stop="20261126040100 +0000" channel="liberty-292-scihd">
+    <title lang="es">Strip the Cosmos Secrets Revealed</title>
     <sub-titles/>
   </programme>
   <programme start="20261126040100 +0000" stop="20261126050000 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos Alien Worlds</title>
+    <title lang="es">Strip the Cosmos Hunting Alien Worlds</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126050000 +0000" stop="20261126070100 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos</title>
+  <programme start="20261126050000 +0000" stop="20261126060100 +0000" channel="liberty-292-scihd">
+    <title lang="es">Strip the Cosmos Terraforming Mars</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126060100 +0000" stop="20261126070100 +0000" channel="liberty-292-scihd">
+    <title lang="es">Strip the Cosmos Secrets Revealed</title>
     <sub-titles/>
   </programme>
   <programme start="20261126070100 +0000" stop="20261126080000 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos Alien Worlds</title>
+    <title lang="es">Strip the Cosmos Hunting Alien Worlds</title>
     <sub-titles/>
   </programme>
   <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-292-scihd">
@@ -203650,15 +203693,15 @@
     <sub-titles/>
   </programme>
   <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos</title>
+    <title lang="es">Strip the Cosmos Secrets Revealed</title>
     <sub-titles/>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos Alien Worlds</title>
+    <title lang="es">Strip the Cosmos Hunting Alien Worlds</title>
     <sub-titles/>
   </programme>
   <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="liberty-292-scihd">
-    <title lang="es">Strip the Cosmos</title>
+    <title lang="es">Strip the Cosmos Settling the Solar System</title>
     <sub-titles/>
   </programme>
   <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="liberty-292-scihd">
@@ -208981,7 +209024,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="liberty-315-qvchd">
-    <title lang="es">Laura Geller Makeup Studio</title>
+    <title lang="es">Lug - Bags &amp; Accessories</title>
     <sub-titles/>
   </programme>
   <programme start="20261126100000 +0000" stop="20261126120000 +0000" channel="liberty-315-qvchd">
@@ -209004,7 +209047,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="liberty-315-qvchd">
-    <title lang="es">Great Gifts</title>
+    <title lang="es">Practical Presents</title>
     <live/>
     <sub-titles/>
   </programme>
@@ -211547,12 +211590,20 @@
     <new/>
     <sub-titles/>
   </programme>
-  <programme start="20261126070000 +0000" stop="20261126090000 +0000" channel="liberty-349-jtvhd">
-    <title lang="es">Precious World of Pearls Precious World of Pearls (Nov 26th, 2026 02:00)</title>
+  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="liberty-349-jtvhd">
+    <title lang="es">Silver Showcase Jewelry Silver Showcase (Nov 26th, 2026 02:00)</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126090000 +0000" stop="20261126110000 +0000" channel="liberty-349-jtvhd">
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="liberty-349-jtvhd">
+    <title lang="es">Precious World of Pearls Precious World of Pearls (Nov 26th, 2026 03:00)</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="liberty-349-jtvhd">
     <title lang="es">Silver Showcase Jewelry Silver Showcase (Nov 26th, 2026 04:00)</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="liberty-349-jtvhd">
+    <title lang="es">Prazana Lab-Grown Diamonds Prazana Lab-Grown Diamonds (Nov 26th, 2026 00:00)</title>
     <sub-titles/>
   </programme>
   <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="liberty-349-jtvhd">
@@ -216706,7 +216757,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261126024500 +0000" stop="20261126032000 +0000" channel="liberty-401-hbohthd">
-    <title lang="es">Oobah: Scams for a Better Tomorrow</title>
+    <title lang="es">Oobah: Scams for a Better Tomorrow Wellness</title>
   </programme>
   <programme start="20261126032000 +0000" stop="20261126050800 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Invite (2026, Comedy drama)</title>
@@ -216716,7 +216767,7 @@
     <title lang="es">The Buffalo Miracle</title>
   </programme>
   <programme start="20261126054700 +0000" stop="20261126062200 +0000" channel="liberty-401-hbohthd">
-    <title lang="es">Oobah: Scams for a Better Tomorrow</title>
+    <title lang="es">Oobah: Scams for a Better Tomorrow Wellness</title>
   </programme>
   <programme start="20261126062200 +0000" stop="20261126071900 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Gilded Age</title>
@@ -216752,28 +216803,20 @@
   <programme start="20261126193500 +0000" stop="20261126201200 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Buffalo Miracle</title>
   </programme>
-  <programme start="20261126201200 +0000" stop="20261126210900 +0000" channel="liberty-401-hbohthd">
+  <programme start="20261126201200 +0000" stop="20261126215500 +0000" channel="liberty-401-hbohthd">
+    <title lang="es">Skyscraper (2018, Action)</title>
+    <sub-titles/>
+  </programme>
+  <programme start="20261126215500 +0000" stop="20261126225200 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Gilded Age Ring the Bells</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126210900 +0000" stop="20261126220100 +0000" channel="liberty-401-hbohthd">
+  <programme start="20261126225200 +0000" stop="20261126234400 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Gilded Age You Won't Hear Me Beg</title>
     <sub-titles/>
   </programme>
-  <programme start="20261126220100 +0000" stop="20261126225300 +0000" channel="liberty-401-hbohthd">
-    <title lang="es">The Gilded Age</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126225300 +0000" stop="20261126234400 +0000" channel="liberty-401-hbohthd">
-    <title lang="es">The Gilded Age</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126234400 +0000" stop="20261126234900 +0000" channel="liberty-401-hbohthd">
+  <programme start="20261126234400 +0000" stop="20261127003600 +0000" channel="liberty-401-hbohthd">
     <title lang="es">The Gilded Age Ain't That Good News</title>
-    <sub-titles/>
-  </programme>
-  <programme start="20261126234900 +0000" stop="20261127003600 +0000" channel="liberty-401-hbohthd">
-    <title lang="es">Skyscraper (2018, Action)</title>
     <sub-titles/>
   </programme>
   <programme start="20261127003600 +0000" stop="20261127013200 +0000" channel="liberty-401-hbohthd">
@@ -218082,7 +218125,7 @@
     <title lang="es">The Slightest Touch</title>
   </programme>
   <programme start="20261126084400 +0000" stop="20261126093800 +0000" channel="liberty-404-hbolahd">
-    <title lang="es">War</title>
+    <title lang="es">War Socios</title>
   </programme>
   <programme start="20261126093800 +0000" stop="20261126101200 +0000" channel="liberty-404-hbolahd">
     <title lang="es">Oobah: Scams for a Better Tomorrow</title>
@@ -219517,7 +219560,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261125053600 +0000" stop="20261125072500 +0000" channel="liberty-406-hbomvhd">
-    <title lang="es">Supergirl (1984, Science fiction)</title>
+    <title lang="es">Supergirl (2026, Action)</title>
     <sub-titles/>
   </programme>
   <programme start="20261125072500 +0000" stop="20261125090700 +0000" channel="liberty-406-hbomvhd">
@@ -237216,7 +237259,7 @@
     <title lang="es">The Slightest Touch</title>
   </programme>
   <programme start="20261126084400 +0000" stop="20261126093800 +0000" channel="liberty-504-hbolat">
-    <title lang="es">War</title>
+    <title lang="es">War Socios</title>
   </programme>
   <programme start="20261126093800 +0000" stop="20261126101200 +0000" channel="liberty-504-hbolat">
     <title lang="es">Oobah: Scams for a Better Tomorrow</title>
@@ -238651,7 +238694,7 @@
     <sub-titles/>
   </programme>
   <programme start="20261125053600 +0000" stop="20261125072500 +0000" channel="liberty-506-hbomov">
-    <title lang="es">Supergirl (1984, Science fiction)</title>
+    <title lang="es">Supergirl (2026, Action)</title>
     <sub-titles/>
   </programme>
   <programme start="20261125072500 +0000" stop="20261125090700 +0000" channel="liberty-506-hbomov">
