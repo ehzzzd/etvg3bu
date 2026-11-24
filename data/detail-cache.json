@@ -1108,6 +1108,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19979641_b_v8_az.jpg",
 "title": "Professor T"
 },
+"EP038670900031": {
+"categories": [
+"Crime drama",
+"Drama"
+],
+"category": "Crime drama",
+"desc": "Lizzie Back (Diana Tyson), Ben Miller (Professor T), Sarah Woodward (Ingrid Snares)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p19979641_b_v8_az.jpg",
+"title": "Professor T"
+},
 "EP038670900032": {
 "categories": [
 "Crime drama",
@@ -1196,6 +1206,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23123778_b_v8_aa.jpg",
 "title": "After Action"
 },
+"EP044867650012": {
+"category": "Documentary",
+"desc": "Three service members who now serve openly still fear future legislation or executive orders may negatively impact their service.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23123778_b_v8_aa.jpg",
+"title": "After Action"
+},
 "EP046386990005": {
 "category": "Documentary",
 "desc": "The evolving meaning of the Statue of Liberty and how it embodies values and conflicts in America, from abolition to the treatment of refugees.",
@@ -1205,6 +1221,12 @@
 "EP046386990006": {
 "category": "Documentary",
 "desc": "The American bald eagle symbolizes patriotism, environmental activism and Native American traditions.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987151_b_v12_aa.jpg",
+"title": "Iconic America: Our Symbols and Stories With David Rubenstein"
+},
+"EP046386990007": {
+"category": "Documentary",
+"desc": "As Confederate statues are removed across the country, arguments escalate over the fate of the Monument at Stone Mountain in Georgia.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p23987151_b_v12_aa.jpg",
 "title": "Iconic America: Our Symbols and Stories With David Rubenstein"
 },
@@ -1563,6 +1585,12 @@
 "desc": "There's excitement in the air when a film crew arrive at Archangel Lane, until an extra drops dead after eating poisoned chocolates meant for one of the cast.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30581974_b_v11_ai.jpg",
 "title": "Bookish"
+},
+"EP059697570013": {
+"category": "Crime drama",
+"desc": "As the Task Force faces uncertainty, the Brink's-Mat criminals face their day in court; in Spain, a dangerous manhunt is launched.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30341165_b_v11_ak.jpg",
+"title": "The Gold on Masterpiece"
 },
 "EP060025880001": {
 "categories": [
