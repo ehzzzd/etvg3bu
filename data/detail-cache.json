@@ -238,6 +238,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP003177560589": {
+"categories": [
+"Documentary",
+"Entertainment"
+],
+"category": "Documentary",
+"desc": "A family provides 24-hour care for their son, in a coma after a traumatic brain injury, revealing love, hope, grief and the hidden labor of caregiving.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185854_b_v12_ac.jpg",
+"title": "Independent Lens"
+},
 "EP003618800007": {
 "categories": [
 "Animated",
@@ -1141,6 +1151,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
+"EP035613910001": {
+"category": "Documentary",
+"desc": "En Madagascar, la isla más extraña y antigua de la Tierra, habita una gran variedad de especies únicas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18552786_b_v12_ab.jpg",
+"title": "Islands of Wonder"
+},
 "EP038670900030": {
 "categories": [
 "Crime drama",
@@ -1864,6 +1880,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p11598_v_v8_ao.jpg",
 "title": "Superagente K-9"
 },
+"MV012290270000": {
+"category": "Documentary",
+"desc": "Sonia Warshawski, sobreviviente del Holocausto, recibe una orden de desalojo para su sastrería, tras 35 años en el negocio. Ahora deberá elegir entre iniciar su comercio en un nuevo lugar o retirarse.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p13733570_v_v12_aa.jpg",
+"title": "Big Sonia"
+},
 "MV029222900000": {
 "category": "Comedy",
 "desc": "Para salvar de la quiebra el taller de carreras heredado de su padre, Linda entra a una competencia. Desesperada, contrata a tres supuestos expertos de un show de televisión sobre autos, sin saber que en realidad son actores que no saben de mecánica.",
@@ -2436,6 +2458,16 @@
 "desc": "Historian John Monsky tells the story of America's journey to the moon and those who made it possible, inside and outside of NASA; featuring performances of music from the 1960s and 1970s.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33971653_b_v8_ab.jpg",
 "title": "We Chose to Go to the Moon"
+},
+"SH065931420000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"desc": "An adopted man's search to find his place has been a life-long pursuit obstructed by a lack of transparency and deceit.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p33991562_b_v12_aa.jpg",
+"title": "Il Mio Posto a Tavola (My Place at the Table)"
 },
 "SH065940320000": {
 "category": "Documentary",
