@@ -281,6 +281,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
+"EP003618800065": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Tikiville's landscape wilts and turns brown when Hacker steals the Egg of Benedicta.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
 "EP003618800097": {
 "categories": [
 "Animated",
@@ -832,6 +843,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
 "title": "Nature Cat"
 },
+"EP022687710235": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Taran Killam (Nature Cat - Voice), Kate McKinnon (Squeeks - Voice), Bobby Moynihan (Hal - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12133555_b_v12_ai.jpg",
+"title": "Nature Cat"
+},
 "EP022687710238": {
 "categories": [
 "Animated",
@@ -1063,6 +1085,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072144": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320010": {
 "categories": [
 "Animated",
@@ -1126,6 +1154,17 @@
 ],
 "category": "Animated",
 "desc": "AJ accidentally ruins a schoolmate's box sled, so the crew helps him find the materials he needs to repair it; the crew takes care of someone else's class pet, a super frog, until it gets out and hops through town.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
+"EP034893320023": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Sparks' Crew tries to figure out how to stop Rubberband Robbie from bouncing all over the school; the Sparks' Crew tests out low-tech ways to communicate after phone service is down.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
