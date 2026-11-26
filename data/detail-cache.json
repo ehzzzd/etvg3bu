@@ -419,6 +419,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
 "title": "Fons & Porter's Love of Quilting"
 },
+"EP007145170544": {
+"categories": [
+"Documentary",
+"Biography"
+],
+"category": "Documentary",
+"desc": "Un perfil de la arquitecta Liz Diller, considerada una de las diseñadoras de espacios culturales más influyentes.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185856_b_v12_ab.jpg",
+"title": "American Masters"
+},
 "EP010131490392": {
 "categories": [
 "How-to",
@@ -684,6 +694,16 @@
 "desc": "Se acolcha rápido y a gran escala con el diseño de la flor de la pasión. Se trabaja con costuras grandes. Se crean plantillas de gran tamaño.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p387807_b_v8_ae.jpg",
 "title": "Fons & Porter's Love of Quilting"
+},
+"EP015253350030": {
+"categories": [
+"Documentary",
+"History"
+],
+"category": "Documentary",
+"desc": "Julianna Margulies habla de cómo preserva sus tradiciones familiares; la autora Azar Nafisi y la chef Lidia Bastianich.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p12257316_b_v12_ac.jpg",
+"title": "Finding Your Roots With Henry Louis Gates, Jr."
 },
 "EP015507510017": {
 "categories": [
@@ -1086,6 +1106,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072144": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072145": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
@@ -1570,6 +1596,17 @@
 ],
 "category": "Documentary",
 "desc": "Musulmanes y cristianos se unen para luchar contra la desertificación de la región del Sahel en África.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30603676_b_v8_aa.jpg",
+"title": "Sacred Planet With Gulnaz Khan"
+},
+"EP058965670005": {
+"categories": [
+"Documentary",
+"Travel",
+"Nature"
+],
+"category": "Documentary",
+"desc": "Seguimiento a las tradiciones católicas y quechuas, que entrelazan la oración, la ingeniería y las peregrinaciones para hacer frente a la crisis climática en Perú.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30603676_b_v8_aa.jpg",
 "title": "Sacred Planet With Gulnaz Khan"
 },
