@@ -238,6 +238,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
 "title": "Arthur"
 },
+"EP000441070424": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "Cameron Ansell (Arthur Timothy Read - Voice), Robert Naylor (Dora Winifred \"D.W.\" Read - Voice), Bruce Dinsmore (David Read/Binky Barnes - Voice)",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8795018_b_v12_aa.jpg",
+"title": "Arthur"
+},
 "EP003177560589": {
 "categories": [
 "Documentary",
@@ -333,6 +344,17 @@
 ],
 "category": "Animated",
 "desc": "Jackie and Inez search everywhere for cherries, so Digit can make his famous cherry supreme dessert for food critic Bone Appetite.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
+"title": "Cyberchase"
+},
+"EP003618800151": {
+"categories": [
+"Animated",
+"Children",
+"Educational"
+],
+"category": "Animated",
+"desc": "The CyberSquad investigates a mysterious creature that tramples over Crestwood Park, leaving visitors too scared to enter.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
 },
@@ -951,6 +973,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
 "title": "Nature Cat"
 },
+"EP022687710249": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "The gang comes across a fluffle of baby bunnies during a game of tag; bouncy castles in Nature Cat's backyard block the path for wildlife.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24019024_b_v8_ab.jpg",
+"title": "Nature Cat"
+},
 "EP023305860133": {
 "categories": [
 "Animated",
@@ -1213,6 +1246,17 @@
 ],
 "category": "Animated",
 "desc": "Hail Caesar helps the crew search for a self-flying cape that took off from the store; AJ, Lucita and Sara get caught inside Schmubble Bubbles.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
+"title": "Hero Elementary"
+},
+"EP034893320114": {
+"categories": [
+"Animated",
+"Children",
+"Entertainment"
+],
+"category": "Animated",
+"desc": "Sara and friends are excited to view the full moon, but they notice that half of the moon is missing; the crew flies to the moon to investigate.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p18198700_b_v8_aa.jpg",
 "title": "Hero Elementary"
 },
