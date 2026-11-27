@@ -1182,6 +1182,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
 "title": "Amanpour and Company"
 },
+"EP030033072146": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
 "EP034893320010": {
 "categories": [
 "Animated",
@@ -1935,6 +1941,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30946981_b_v8_ab.jpg",
 "title": "Neven's Ulster Food Tour"
 },
+"MV000379190000": {
+"categories": [
+"Family",
+"Science fiction",
+"Adventure"
+],
+"category": "Family",
+"desc": "Elliott es un niño de nueve años que se encuentra con un extraterrestre y decide esconderlo en su casa para protegerlo. Contará con la ayuda de su pequeña hermana y su hermano mayor para mantener el secreto y juntos vivirán una aventura inolvidable.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10998_v_v12_at.jpg",
+"title": "E.T. the Extra-Terrestrial"
+},
 "MV000512350000": {
 "categories": [
 "Children",
@@ -1978,6 +1995,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p159815_v_v11_ab.jpg",
 "title": "You, Me and Dupree"
 },
+"MV001818930000": {
+"categories": [
+"Crime drama",
+"Action"
+],
+"category": "Crime drama",
+"desc": "Un caso que involucra a narcotraficantes y un asesinato en el sur de Florida da un giro para los detectives encubiertos Sonny Crockett y Ricardo Tubbs.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p159727_v_v12_bi.jpg",
+"title": "Miami Vice"
+},
 "MV001904640000": {
 "category": "Comedy",
 "desc": "Una mala jugada del destino evita que Randy Daytona sea considerado todo un fenómeno del tenis de mesa. Ahora, él debe regresar a realizar una asignación encubierta para el Gobierno. El FBI quiere que participe en un torneo patrocinado por Feng, un entusiasta del tenis de mesa y un reconocido criminal. Randy debe ganarse la confianza de Feng y llevarlo ante la justicia.",
@@ -2010,11 +2037,28 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9276475_v_v12_ak.jpg",
 "title": "Pitch Perfect"
 },
+"MV004028580000": {
+"category": "Romantic comedy",
+"desc": "Los planes profesionales y otros obstáculos se cruzan en el camino de dos enamorados que tienen problemas cada vez que ellos intentan establecer el día de su boda.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p8889912_v_v12_an.jpg",
+"title": "The Five-Year Engagement"
+},
 "MV004802450000": {
 "category": "Comedy",
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
+},
+"MV005094110000": {
+"categories": [
+"Animated",
+"Children",
+"Adventure"
+],
+"category": "Animated",
+"desc": "Después de que Sherman y Penny usan su máquina del tiempo para dar un paseo, el Sr. Peabody debe acudir al rescate antes de que el pasado, el presente y el futuro cambien para siempre.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10173144_v_v11_av.jpg",
+"title": "Mr. Peabody & Sherman"
 },
 "MV006386610000": {
 "categories": [
