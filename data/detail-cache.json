@@ -89,6 +89,27 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185481_b_v8_ah.jpg",
 "title": "Nature"
 },
+"EP000030540668": {
+"categories": [
+"Anthology",
+"Nature"
+],
+"category": "Anthology",
+"desc": "Experiencing an Alpine winter wonderland, from snowy spruce forests to ibex herds and wolf packs; marmots retreat to a cozy home underground and chamois race across the highest peaks.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185481_b_v8_ah.jpg",
+"title": "Nature"
+},
+"EP000031630946": {
+"categories": [
+"Science",
+"Nature",
+"Anthology"
+],
+"category": "Science",
+"desc": "A visit to Florence, Italy, to explore how Leonardo da Vinci used science, from human dissections to innovative painting techniques, to create his artwork.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p184159_b_v12_af.jpg",
+"title": "NOVA"
+},
 "EP000031631106": {
 "categories": [
 "Science",
@@ -412,6 +433,17 @@
 "desc": "Buzz and Delete try to help when Harmony gets stuck on a math word problem; Buzz and Delete try to make it into the Cyber Book of Records.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p186055_b_v12_aa.jpg",
 "title": "Cyberchase"
+},
+"EP003644950099": {
+"categories": [
+"Documentary",
+"Science",
+"History"
+],
+"category": "Documentary",
+"desc": "Forensic anthropologists excavate the early American colony of Jamestown, Va., and find bones of a 14-year-old English girl.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p185477_b_v12_aj.jpg",
+"title": "Secrets of the Dead"
 },
 "EP003644950162": {
 "categories": [
@@ -1619,6 +1651,12 @@
 "EP053841700002": {
 "category": "Documentary",
 "desc": "The second wave of the Great Migration -- 1940-1970, when Northern and Western Black communities matured through migration and transformed the cultural and political power of Black America.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
+"title": "Great Migrations: A People on the Move"
+},
+"EP053841700004": {
+"category": "Documentary",
+"desc": "The impact of African and Caribbean immigrants on American culture and what it means to be Black in America.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28699863_b_v12_ab.jpg",
 "title": "Great Migrations: A People on the Move"
 },
