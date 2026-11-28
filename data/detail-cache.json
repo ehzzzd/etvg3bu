@@ -787,6 +787,16 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9897159_b_v12_ag.jpg",
 "title": "Facing Waves"
 },
+"EP018879390118": {
+"categories": [
+"Romance",
+"Comedy drama"
+],
+"category": "Romance",
+"desc": "Ana está dispuesta a confesar su amor a Alberto, pero este ya está en el aeropuerto. La joven no quiere dejarle escapar y corre para detenerle. Cristina, por su parte, se siente sola y arrinconada. No quiere ser madre soltera.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p10612085_b_v12_aj.jpg",
+"title": "Velvet"
+},
 "EP018882470033": {
 "categories": [
 "Romance",
@@ -1183,6 +1193,12 @@
 "title": "Amanpour and Company"
 },
 "EP030033072146": {
+"category": "Public affairs",
+"desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
+"title": "Amanpour and Company"
+},
+"EP030033072147": {
 "category": "Public affairs",
 "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p15694932_b_v8_ac.jpg",
@@ -1653,6 +1669,16 @@
 "desc": "Se exploran los condados de Buchanan y Dickenson en Virginia, desde las vistas montañosas hasta su historia de minería de carbón.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p24781342_b_v12_ad.jpg",
 "title": "Hometowns"
+},
+"EP053495240009": {
+"categories": [
+"Travel",
+"Music"
+],
+"category": "Travel",
+"desc": "La Chardon Polka Band del noreste de Ohio explora la historia y la cultura que rodean la polca.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p25828829_b_v12_ad.jpg",
+"title": "The World According to Polka"
 },
 "EP053841700001": {
 "category": "Documentary",
@@ -2606,6 +2632,15 @@
 "desc": "Las cicatrices duraderas de la guerra, a través de la historia del cabo JV Villarreal, un Marine mexicano-estadounidense de San Antonio, Texas, quien murió en acción en Afganistán.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p31524753_b_v12_ab.jpg",
 "title": "VOCES: American Sons"
+},
+"SH061235500000": {
+"categories": [
+"Special",
+"Documentary"
+],
+"category": "Special",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p30482729_b_v12_ac.jpg",
+"title": "Interconnections"
 },
 "SH061429760000": {
 "categories": [
