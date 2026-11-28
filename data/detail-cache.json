@@ -1594,6 +1594,12 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
 "title": "Citizen Nation"
 },
+"EP052400230004": {
+"category": "Documentary",
+"desc": "Los finalistas del concurso de educación cívica se preparan para los desafíos finales de los jueces en Washington, D. C. Se corona un ganador.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p28004043_b_v12_ab.jpg",
+"title": "Citizen Nation"
+},
 "EP052844640015": {
 "categories": [
 "Animated",
@@ -1989,6 +1995,17 @@
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p32276_v_v8_af.jpg",
 "title": "Sinbad: Legend of the Seven Seas"
 },
+"MV001787960000": {
+"categories": [
+"Animated",
+"Family",
+"Comedy"
+],
+"category": "Animated",
+"desc": "Un mapache oportunista enseña a los otros animales sobre los tesoros comestibles que los nuevos humanos del vecindario dejan fuera de sus casas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p159725_v_v12_ap.jpg",
+"title": "Over the Hedge"
+},
 "MV001810360000": {
 "category": "Comedy",
 "desc": "Tres se convierten en una multitud cuando un recién casado invita a un amigo desempleado a que se muda temporalmente con él y con su esposa.",
@@ -2048,6 +2065,16 @@
 "desc": "El sueño de una mujer de convertirse en conductora de noticias está en peligro cuando una cita imprudente la deja atrapada en el centro de Los Ángeles sin dinero o transporte y solo a ocho horas de la entrevista de trabajo más importante de su vida.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9915745_v_v8_aa.jpg",
 "title": "Walk of Shame"
+},
+"MV004889350000": {
+"categories": [
+"Holiday",
+"Comedy drama"
+],
+"category": "Holiday",
+"desc": "Rivalidades y romances largamente olvidados se reavivan cuando unos amigos universitarios tienen una reunión navideña 15 años después de la primera vez que se vieron.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p9991476_v_v8_aa.jpg",
+"title": "The Best Man Holiday"
 },
 "MV005094110000": {
 "categories": [
@@ -2708,6 +2735,28 @@
 "desc": "La temporada festiva comienza por todo lo alto con una celebración única por los 100 años del desfile, con espectaculares globos, carrozas, artistas y muchas sorpresas.",
 "icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34235792_b_v12_ab.jpg",
 "title": "Macy's Thanksgiving Day Parade"
+},
+"SH066411260000": {
+"categories": [
+"Holiday",
+"Special",
+"Music"
+],
+"category": "Holiday",
+"desc": "The 92nd Anniversary Purdue Christmas Show features holiday favorites from University Choir, Purdue Bells, Heart & Soul, the Purduettes and the Purdue Varsity Glee Club; selections performed by the combined ensembles of Purdue Musical Organizations.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34256830_b_v12_aa.jpg",
+"title": "Purdue 92nd Anniversary Christmas Show"
+},
+"SH066427450000": {
+"categories": [
+"Holiday",
+"Special",
+"Parade"
+],
+"category": "Holiday",
+"desc": "La temporada festiva comienza por todo lo alto con una celebración única por los 100 años del desfile, con espectaculares globos, carrozas, artistas y muchas sorpresas.",
+"icon": "https://www.tvtv.us/api/v2/gn/pi/assets/p34267066_b_v12_ac.jpg",
+"title": "100th Macy's Thanksgiving Day Parade"
 },
 "SH066980300000": {
 "categories": [
